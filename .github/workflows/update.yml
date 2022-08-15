@@ -26,5 +26,5 @@ jobs:
           
       - name: Betiği Çalıştır
         run: |
-          ~/.local/bin/starred --username usdogu --token $GITHUB_TOKEN --sort > README.md
+          starred --username usdogu --token $GITHUB_TOKEN --sort > README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
