@@ -28,3 +28,5 @@ jobs:
         run: |
           starred --username usdogu --token $GITHUB_TOKEN --sort > README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
