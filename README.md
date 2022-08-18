@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [jeaye/jank](https://github.com/jeaye/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump) - A dynamic VMP dumper and import fixer, powered by VTIL.
@@ -899,6 +900,7 @@
 
 ## Rust 
 
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
 - [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
@@ -1228,7 +1230,7 @@
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
