@@ -803,6 +803,7 @@
 
 ## Python 
 
+- [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
 - [Decentra-Network/Decentra-Network](https://github.com/Decentra-Network/Decentra-Network) - This is an open source decentralized application network. In this network, you can develop and publish decentralized applications.
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint("OwO")
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
