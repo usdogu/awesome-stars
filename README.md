@@ -83,6 +83,8 @@
 
 ## C 
 
+- [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
+- [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
@@ -145,6 +147,7 @@
 
 ## C# # 
 
+- [knah/Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) - A tool to generate Managed-&gt;IL2CPP proxy assemblies
 - [CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies
 - [polynomen/JITK](https://github.com/polynomen/JITK) - JITK - JIT Killer is hooker for clrjit
 - [b68h4/CoderatorDrive.Backend](https://github.com/b68h4/CoderatorDrive.Backend) - Coderator Drive - Google Drive File Browser (Backend)
@@ -188,6 +191,7 @@
 
 ## C++ 
 
+- [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [odamex/odamex](https://github.com/odamex/odamex) - Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
@@ -702,7 +706,6 @@
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
-- [roarkanize/zig-overlay](https://github.com/roarkanize/zig-overlay) - Nix flake for Zig binaries
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 
@@ -734,7 +737,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/Looky1173-is-epic](https://github.com/Explosion-Scratch/Looky1173-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/ScolderCreations-is-a-unicorn](https://github.com/Explosion-Scratch/ScolderCreations-is-a-unicorn) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomasluquet/emacs-can-do-that](https://github.com/thomasluquet/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -806,11 +809,15 @@
 
 ## Python 
 
+- [joeleong/ida-referee](https://github.com/joeleong/ida-referee) - 
+- [RolfRolles/Miscellaneous](https://github.com/RolfRolles/Miscellaneous) - Small programs and scripts that do not require their own repositories
+- [Accenture/protobuf-finder](https://github.com/Accenture/protobuf-finder) - IDA Pro plugin for reconstructing original .proto files from binary.
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [0xgalz/Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
 - [Decentra-Network/Decentra-Network](https://github.com/Decentra-Network/Decentra-Network) - This is an open source decentralized application network. In this network, you can develop and publish decentralized applications.
-- [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint("OwO")
+- [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [avengy/hcaptcha-bypass-discord](https://github.com/avengy/hcaptcha-bypass-discord) - Bypass Hcaptcha Purely based on http requests, Creates unlocked discord accounts if used correctly
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
@@ -930,7 +937,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-- [trane-project/trane](https://github.com/trane-project/trane) - An automated system for learning complex skills
+- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for learning complex skills
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Enselic/cargo-public-api](https://github.com/Enselic/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations.
 - [psnszsn/degit-rs](https://github.com/psnszsn/degit-rs) - Rust rewrite of degit
