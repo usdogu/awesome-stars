@@ -83,11 +83,13 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 - [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+- [huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri) - Bilgisayar Bilimleri eğitimi için Türkçe müfredat.
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [danielkrupinski/VAC](https://github.com/danielkrupinski/VAC) - Source code of Valve Anti-Cheat obtained from disassembly of compiled modules
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
@@ -356,6 +358,7 @@
 
 ## Go 
 
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sterchelen/hssp](https://github.com/sterchelen/hssp) - CLI to avoid remembering the http status codes
@@ -731,7 +734,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Q930844N/awesome_tech_content](https://github.com/Q930844N/awesome_tech_content) - Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Chea
 - [discover02/discover02.github.io](https://github.com/discover02/discover02.github.io) - https://mtaha.dev
-- [huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri) - Bilgisayar Bilimleri eğitimi için Türkçe müfredat.
 - [arindas/manjarno](https://github.com/arindas/manjarno) - Reasons for which I don't use Manjaro anymore
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
@@ -1166,6 +1168,7 @@
 
 ## Shell 
 
+- [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [Lassulus/nix-autobahn](https://github.com/Lassulus/nix-autobahn) - 
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store
 - [ajdiaz/bashc](https://github.com/ajdiaz/bashc) - A tool to convert/compile a bash script to a static linked x86 and x86_64 binary.
