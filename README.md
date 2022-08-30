@@ -327,6 +327,7 @@
 
 ## Elixir 
 
+- [mhanberg/temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix
 - [discord/sorted_set_nif](https://github.com/discord/sorted_set_nif) - Elixir SortedSet backed by a Rust-based NIF
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) - The GraphQL toolkit for Elixir
