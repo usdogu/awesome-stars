@@ -731,6 +731,7 @@
 
 ## Others 
 
+- [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) - 
 - [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
@@ -1163,7 +1164,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-- [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell.
+- [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [RustDili/dokuman](https://github.com/RustDili/dokuman) - Rust Türkçe Dökümanları
