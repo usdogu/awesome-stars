@@ -661,7 +661,7 @@
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 
 ## Kotlin 
@@ -955,6 +955,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rodrigocfd/winsafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
