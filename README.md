@@ -268,6 +268,7 @@
 
 ## Clojure 
 
+- [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
 - [bortexz/resocket](https://github.com/bortexz/resocket) - Clojure WebSocket client wrapping JDK11 WebSocket and exposing a core.async API
 - [borkdude/deps.clj](https://github.com/borkdude/deps.clj) - A faithful port of the clojure CLI bash script to Clojure
 - [clj-commons/etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation
@@ -757,7 +758,7 @@
 - [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
-- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --&gt; 2022.9
+- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --&gt; ∞
 - [saeidshirazi/Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security) - A curated list of Smart Contract Security materials and resources For Researchers
 - [PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022) - 22-23-24 Temmuz 2022 Tarihinde yapılan Siber Güvenlik Eğitimlerine Ait Dökümanlar
 - [RayMarch/ferris3d](https://github.com/RayMarch/ferris3d) - A free 3D model of Ferris the rustacean
