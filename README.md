@@ -183,7 +183,7 @@
 - [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
 - [PcapDotNet/Pcap.Net](https://github.com/PcapDotNet/Pcap.Net) - .NET wrapper for WinPcap written in C++/CLI and C#, which features almost all WinPcap features and includes a packet interpretation framework.
-- [gircore/gir.core](https://github.com/gircore/gir.core) - A C# wrapper generator for GObject based libraries providing a C# friendly API surface
+- [gircore/gir.core](https://github.com/gircore/gir.core) - A C# binding generator for GObject based libraries providing a C# friendly API surface
 - [mohamm4dx/SilverBullet](https://github.com/mohamm4dx/SilverBullet) - Silver Bullet
 - [gpailler/MegaApiClient](https://github.com/gpailler/MegaApiClient) - MegaApiClient is a C# .Net library to access http://mega.co.nz / http://mega.nz cloud storage and file hosting service.
 - [BlazeBullet/BlazeBullet](https://github.com/BlazeBullet/BlazeBullet) - OpenBullet2 reinvented
@@ -816,7 +816,6 @@
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
-- [tlowry/npp-golang](https://github.com/tlowry/npp-golang) - Syntax highlighting support for google go (golang) in Notepad++
 - [romanitalian/gopher_stickers](https://github.com/romanitalian/gopher_stickers) - I collect stickers: Golang
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [gwen001/bb-reports-templates](https://github.com/gwen001/bb-reports-templates) - My small collection of reports templates
