@@ -268,6 +268,8 @@
 
 ## Clojure 
 
+- [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
+- [djblue/portal](https://github.com/djblue/portal) - A clojure tool to navigate through your data.
 - [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
 - [bortexz/resocket](https://github.com/bortexz/resocket) - Clojure WebSocket client wrapping JDK11 WebSocket and exposing a core.async API
 - [borkdude/deps.clj](https://github.com/borkdude/deps.clj) - A faithful port of the clojure CLI bash script to Clojure
@@ -410,7 +412,7 @@
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -624,7 +626,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
-- [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
@@ -776,7 +777,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/MaterArc-is-cool](https://github.com/Explosion-Scratch/MaterArc-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/CodeLikeCrazE-starred-this-repo](https://github.com/Explosion-Scratch/CodeLikeCrazE-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomasluquet/emacs-can-do-that](https://github.com/thomasluquet/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -942,6 +943,7 @@
 
 ## Ruby 
 
+- [dato-ai/dato.rss](https://github.com/dato-ai/dato.rss) - The best RSS Search experience you can find
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [SpookySec/GHRL](https://github.com/SpookySec/GHRL) - Game Hacking Ruby Lib
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
