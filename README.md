@@ -154,6 +154,9 @@
 
 ## C# # 
 
+- [Recoo31/Blu-Pin-Kirici-CSharp](https://github.com/Recoo31/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
+- [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
+- [BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed](https://github.com/BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed) - Edited copy of cawks confuserex unpacker, support more than your averageprogram
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [knah/Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) - A tool to generate Managed-&gt;IL2CPP proxy assemblies
 - [CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies
@@ -199,6 +202,9 @@
 
 ## C++ 
 
+- [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [momo5502/boiii](https://github.com/momo5502/boiii) - ☄️ Reverse engineering and analysis of Call of Duty: Black Ops 3
 - [ajkhoury/SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) - IDA Pro 7 compatible SigMaker plugin
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [odamex/odamex](https://github.com/odamex/odamex) - Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.
@@ -848,6 +854,9 @@
 
 ## Python 
 
+- [rocky/python-decompile3](https://github.com/rocky/python-decompile3) - Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
+- [Svenskithesource/PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) - A deobfuscator for PyArmor.
 - [codingo/Interlace](https://github.com/codingo/Interlace) - Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [joeleong/ida-referee](https://github.com/joeleong/ida-referee) - 
@@ -1258,6 +1267,7 @@
 
 ## Swift 
 
+- [yattee/yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS (iPhone, iPad), macOS and tvOS (Apple TV) built with Invidious and Piped
 - [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
