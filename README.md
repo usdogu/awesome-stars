@@ -87,6 +87,7 @@
 
 ## C 
 
+- [ThunderCls/xAnalyzer](https://github.com/ThunderCls/xAnalyzer) - xAnalyzer plugin for x64dbg
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 - [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
@@ -202,6 +203,7 @@
 
 ## C++ 
 
+- [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [momo5502/boiii](https://github.com/momo5502/boiii) - ☄️ Reverse engineering and analysis of Call of Duty: Black Ops 3
@@ -705,6 +707,7 @@
 
 ## Nim 
 
+- [enthus1ast/zigcc](https://github.com/enthus1ast/zigcc) - wraps `zig cc` to be able to be called by the nim compiler
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 - [Yardanico/nim-strenc](https://github.com/Yardanico/nim-strenc) - A tiny library to automatically encrypt string literals in Nim code
@@ -761,6 +764,7 @@
 
 ## Others 
 
+- [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) - 
 - [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
