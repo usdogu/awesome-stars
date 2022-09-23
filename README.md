@@ -402,6 +402,7 @@
 
 ## Go 
 
+- [pyinstxtractor/pyinstxtractor-go](https://github.com/pyinstxtractor/pyinstxtractor-go) - PyInstaller Extractor developed in Golang.
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [mikecoop83/luna](https://github.com/mikecoop83/luna) - An error propagating JSON parsing library for Go
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
@@ -564,6 +565,7 @@
 
 ## HTML 
 
+- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [setetres/evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite) - 💋 This is an even better motherfucking website.
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
@@ -723,7 +725,6 @@
 ## Nim 
 
 - [enthus1ast/zigcc](https://github.com/enthus1ast/zigcc) - wraps `zig cc` to be able to be called by the nim compiler
-- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 - [Yardanico/nim-strenc](https://github.com/Yardanico/nim-strenc) - A tiny library to automatically encrypt string literals in Nim code
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
@@ -804,7 +805,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/CodeLikeCrazE-starred-this-repo](https://github.com/Explosion-Scratch/CodeLikeCrazE-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/abdeljalil-salhi-is-epic](https://github.com/Explosion-Scratch/abdeljalil-salhi-is-epic) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomasluquet/emacs-can-do-that](https://github.com/thomasluquet/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -875,6 +876,7 @@
 
 ## Python 
 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [keyiflerolsun/FlaskAndroid](https://github.com/keyiflerolsun/FlaskAndroid) - Converting Flask To Apk
 - [rocky/python-decompile3](https://github.com/rocky/python-decompile3) - Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems
 - [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
@@ -1051,7 +1053,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
-- [sigoden/argc](https://github.com/sigoden/argc) - A bash cli framework, also a task management & automation tool.
+- [sigoden/argc](https://github.com/sigoden/argc) - A handy way to handle sh/bash cli parameters.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -1308,6 +1310,7 @@
 
 ## TypeScript 
 
+- [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
