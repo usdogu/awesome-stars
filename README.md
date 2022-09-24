@@ -313,6 +313,7 @@
 
 ## Common Lisp 
 
+- [susam/mathb](https://github.com/susam/mathb) - MathB.in - A Mathematics Pastebin Written in Common Lisp
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 
 ## Crystal 
@@ -619,6 +620,7 @@
 
 ## JavaScript 
 
+- [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
@@ -980,7 +982,7 @@
 
 ## Ruby 
 
-- [dato-ai/dato.rss](https://github.com/dato-ai/dato.rss) - The best RSS Search experience you can find
+- [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [SpookySec/GHRL](https://github.com/SpookySec/GHRL) - Game Hacking Ruby Lib
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
