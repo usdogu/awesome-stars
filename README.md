@@ -206,6 +206,7 @@
 
 ## C++ 
 
+- [D1rkMtr/githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
@@ -280,6 +281,7 @@
 
 ## Clojure 
 
+- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
 - [djblue/portal](https://github.com/djblue/portal) - A clojure tool to navigate through your data.
@@ -710,6 +712,7 @@
 
 ## Lua 
 
+- [BobsMods/bobsmods](https://github.com/BobsMods/bobsmods) - Factorio mods by Bobingabout
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
@@ -804,7 +807,7 @@
 - [ozgung/FlappyTayyip](https://github.com/ozgung/FlappyTayyip) - A variation of Flappy Bird in HTML5 with an homage to our glorious leader
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Q930844N/awesome_tech_content](https://github.com/Q930844N/awesome_tech_content) - Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Chea
-- [discover02/discover02.github.io](https://github.com/discover02/discover02.github.io) - https://blog.mtaha.dev
+- [mt190502/mt190502.github.io](https://github.com/mt190502/mt190502.github.io) - https://blog.mtaha.dev
 - [arindas/manjarno](https://github.com/arindas/manjarno) - Reasons for which I don't use Manjaro anymore
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
@@ -1317,6 +1320,9 @@
 
 ## TypeScript 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
