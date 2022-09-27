@@ -206,6 +206,7 @@
 
 ## C++ 
 
+- [Desire2K17/Moonlight](https://github.com/Desire2K17/Moonlight) - 
 - [D1rkMtr/githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
@@ -884,6 +885,7 @@
 
 ## Python 
 
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [keyiflerolsun/FlaskAndroid](https://github.com/keyiflerolsun/FlaskAndroid) - Converting Flask To Apk
