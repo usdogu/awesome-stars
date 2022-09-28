@@ -282,6 +282,8 @@
 
 ## Clojure 
 
+- [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
+- [benjamin-asdf/scittle-prints-itself](https://github.com/benjamin-asdf/scittle-prints-itself) - This is not a Quine
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
@@ -624,6 +626,7 @@
 
 ## JavaScript 
 
+- [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
@@ -1267,6 +1270,7 @@
 
 ## Shell 
 
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
