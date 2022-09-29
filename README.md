@@ -89,6 +89,7 @@
 
 ## C 
 
+- [lethal-guitar/Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed) - Reconstructed source code of the game Duke Nukem II
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 - [ThunderCls/xAnalyzer](https://github.com/ThunderCls/xAnalyzer) - xAnalyzer plugin for x64dbg
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -239,7 +240,7 @@
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [m4x1m1l14n/Registry](https://github.com/m4x1m1l14n/Registry) - C++ wrapper for manipulating Windows registry
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
@@ -421,7 +422,7 @@
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [amirvalhalla/proxy-grabber](https://github.com/amirvalhalla/proxy-grabber) - Grabbing between 6000 - 10000 unique proxies & Find active proxies less than 5 minutes (depends on your network and hardware)
 - [liamg/dismember](https://github.com/liamg/dismember) - :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
@@ -572,6 +573,7 @@
 
 ## HTML 
 
+- [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [setetres/evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite) - 💋 This is an even better motherfucking website.
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
@@ -791,6 +793,7 @@
 
 ## Others 
 
+- [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom
 - [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
 - [macbian-linux/macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [baristunar/design-patterns-tr](https://github.com/baristunar/design-patterns-tr) - Türkçe daha fazla kaynak oluşturmak adına önemli "Design "Pattern" makalelerini çeviriyoruz.
@@ -1160,7 +1163,7 @@
 - [vv9k/rsys](https://github.com/vv9k/rsys) - Crate for gathering operating system information in os-agnostic way 🦀
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [vv9k/docker-api-rs](https://github.com/vv9k/docker-api-rs) - Rust interface to Docker containers
-- [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker
+- [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
 - [ghmlee/rust-docker](https://github.com/ghmlee/rust-docker) - Docker Remote API in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [virto-network/valor](https://github.com/virto-network/valor) - Create HTTP APIs with a plugin system that runs in the server and the browser.
@@ -1346,7 +1349,7 @@
 - [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter) - Starter kit for TypeScript-based Screeps AI codes.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
