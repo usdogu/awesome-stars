@@ -290,7 +290,7 @@
 - [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
 - [djblue/portal](https://github.com/djblue/portal) - A clojure tool to navigate through your data.
 - [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
-- [bortexz/resocket](https://github.com/bortexz/resocket) - Clojure WebSocket client wrapping JDK11 WebSocket and exposing a core.async API
+- [bortexz/resocket](https://github.com/bortexz/resocket) - JDK11 Clojure WebSocket client with core.async API
 - [borkdude/deps.clj](https://github.com/borkdude/deps.clj) - A faithful port of the clojure CLI bash script to Clojure
 - [clj-commons/etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation
 - [babashka/neil](https://github.com/babashka/neil) - A CLI to add common aliases and features to deps.edn-based projects.
@@ -629,6 +629,8 @@
 
 ## JavaScript 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
@@ -892,6 +894,7 @@
 
 ## Python 
 
+- [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -1012,7 +1015,7 @@
 
 ## Rust 
 
-- [joseluisq/static-web-server](https://github.com/joseluisq/static-web-server) - A blazing fast and asynchronous web server for static files-serving. ⚡
+- [joseluisq/static-web-server](https://github.com/joseluisq/static-web-server) - Cross-platform, blazing fast and asynchronous web server for static files-serving. ⚡
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rodrigocfd/winsafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
