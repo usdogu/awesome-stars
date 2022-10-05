@@ -159,6 +159,7 @@
 
 ## C# # 
 
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [Recoo31/Blu-Pin-Kirici-CSharp](https://github.com/Recoo31/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
 - [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
 - [BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed](https://github.com/BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed) - Edited copy of cawks confuserex unpacker, support more than your averageprogram
@@ -631,6 +632,7 @@
 
 ## JavaScript 
 
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
@@ -798,6 +800,7 @@
 
 ## Others 
 
+- [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom
 - [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
 - [macbian-linux/macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
@@ -1417,6 +1420,7 @@
 
 ## Zig 
 
+- [6e6f61/zk](https://github.com/6e6f61/zk) - Zettelkasten-ish note management
 - [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
