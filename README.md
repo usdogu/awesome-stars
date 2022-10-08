@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Desire2K17/Moonlight](https://github.com/Desire2K17/Moonlight) - 
 - [D1rkMtr/githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
@@ -322,6 +323,7 @@
 
 ## Common Lisp 
 
+- [woodrush/lambda-8cc](https://github.com/woodrush/lambda-8cc) - x86 C compiler written in untyped lambda calculus
 - [susam/mathb](https://github.com/susam/mathb) - MathB.in - Mathematics Pastebin Written in Common Lisp
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 
@@ -1345,6 +1347,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
