@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [call-042PE/PyInjector](https://github.com/call-042PE/PyInjector) - PyInjector - Inject Python code into python process.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Desire2K17/Moonlight](https://github.com/Desire2K17/Moonlight) - 
 - [D1rkMtr/githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
@@ -286,6 +287,7 @@
 
 ## Clojure 
 
+- [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) - Making VS Code Hackable since 2022
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
 - [benjamin-asdf/scittle-prints-itself](https://github.com/benjamin-asdf/scittle-prints-itself) - This is not a Quine
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
@@ -638,6 +640,7 @@
 
 ## JavaScript 
 
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
