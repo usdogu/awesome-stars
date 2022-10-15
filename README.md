@@ -89,6 +89,7 @@
 
 ## C 
 
+- [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
 - [lethal-guitar/Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed) - Reconstructed source code of the game Duke Nukem II
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 - [ThunderCls/xAnalyzer](https://github.com/ThunderCls/xAnalyzer) - xAnalyzer plugin for x64dbg
@@ -288,6 +289,8 @@
 
 ## Clojure 
 
+- [babashka/bbin](https://github.com/babashka/bbin) - Install any Babashka script or project with one command
+- [borkdude/lein2deps](https://github.com/borkdude/lein2deps) - Lein to deps.edn converter
 - [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) - Making VS Code Hackable since 2022
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
 - [benjamin-asdf/scittle-prints-itself](https://github.com/benjamin-asdf/scittle-prints-itself) - This is not a Quine
@@ -419,6 +422,7 @@
 
 ## Go 
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
@@ -731,7 +735,7 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
-- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free and open source. Feel free to PR. NOTE: BEING REWRITTEN, HENCE THE REPO WILL BE INACTIVE FOR A WHILE
+- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
