@@ -89,6 +89,8 @@
 
 ## C 
 
+- [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
+- [ivd38/zlib_overflow](https://github.com/ivd38/zlib_overflow) - Program to trigger zlib 1.2.12 buffer overflow
 - [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
 - [lethal-guitar/Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed) - Reconstructed source code of the game Duke Nukem II
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
@@ -647,6 +649,7 @@
 
 ## JavaScript 
 
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
@@ -741,6 +744,7 @@
 
 ## Lua 
 
+- [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
 - [BobsMods/bobsmods](https://github.com/BobsMods/bobsmods) - Factorio mods by Bobingabout
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
@@ -1042,6 +1046,7 @@
 
 ## Rust 
 
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [joseluisq/static-web-server](https://github.com/joseluisq/static-web-server) - Cross-platform, blazing fast and asynchronous web server for static files-serving. ⚡
@@ -1234,7 +1239,7 @@
 - [balthild/native-dialog-rs](https://github.com/balthild/native-dialog-rs) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
 - [rust-lang/glob](https://github.com/rust-lang/glob) - Support for matching file paths against Unix shell style patterns.
 - [tailhook/rust-argparse](https://github.com/tailhook/rust-argparse) - The command-line argument parser library for rust
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
