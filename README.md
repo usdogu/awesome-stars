@@ -54,7 +54,6 @@
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Shell](#shell)
-- [Stylus](#stylus)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -89,6 +88,7 @@
 
 ## C 
 
+- [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [ivd38/zlib_overflow](https://github.com/ivd38/zlib_overflow) - Program to trigger zlib 1.2.12 buffer overflow
 - [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
@@ -893,6 +893,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [learning-rust/site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [RustDili/Rust-Ogrenmek](https://github.com/RustDili/Rust-Ogrenmek) - Dumindu Madunuwan'ın Learning Rust adlı çalışmasının Türkçe çevirisi
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
@@ -929,6 +930,8 @@
 
 ## Python 
 
+- [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
+- [BigFaceCat2017/frida_ssl_logger](https://github.com/BigFaceCat2017/frida_ssl_logger) - ssl_logger based on frida
 - [Svenskithesource/pySpy](https://github.com/Svenskithesource/pySpy) - dnSpy but for Python
 - [archercreat/ida_names](https://github.com/archercreat/ida_names) - IDA-names automatically renames pseudocode windows with the current function name.
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
@@ -1076,7 +1079,7 @@
 - [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang) - CLI game to see how fast you can guess the language of a code block!
 - [rinit-org/rinit](https://github.com/rinit-org/rinit) - Next-gen init and service-manager written in Rust
 - [bnjjj/twelf](https://github.com/bnjjj/twelf) - Twelf is a configuration solution for Rust including 12-Factor support. It is designed with layers in order to configure different sources and formats to build your configuration. The main goal is to 
-- [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing binaries with PGO and BOLT.
+- [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - (deprecated) The fast, light, and robust client for the Ethereum mainnet.
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
@@ -1351,10 +1354,6 @@
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [OscarAkaElvis/zsh-parrot-theme](https://github.com/OscarAkaElvis/zsh-parrot-theme) - Zsh Parrot Security theme
-
-## Stylus 
-
-- [learning-rust/site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 
 ## Svelte 
 
