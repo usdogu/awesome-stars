@@ -431,6 +431,7 @@
 
 ## Go 
 
+- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -752,6 +753,7 @@
 
 ## Lua 
 
+- [Geend/long-reach](https://github.com/Geend/long-reach) - This is a mod for Factorio that lets you reach things that are far away.
 - [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
 - [BobsMods/bobsmods](https://github.com/BobsMods/bobsmods) - Factorio mods by Bobingabout
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
@@ -1064,7 +1066,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
-- [joseluisq/static-web-server](https://github.com/joseluisq/static-web-server) - Cross-platform, blazing fast and asynchronous web server for static files-serving. ⚡
+- [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, blazing fast and asynchronous web server for static files-serving. ⚡
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rodrigocfd/winsafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
@@ -1371,7 +1373,7 @@
 
 - [yattee/yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS (iPhone, iPad), macOS and tvOS (Apple TV) built with Invidious and Piped
 - [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A completely native Discord client for macOS built 100% in Swift and SwiftUI!
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [VertexUI/VertexGUI](https://github.com/VertexUI/VertexGUI) - A framework for creating cross-platform GUI applications with Swift.
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro!
