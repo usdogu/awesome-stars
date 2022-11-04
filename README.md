@@ -300,6 +300,7 @@
 
 ## Clojure 
 
+- [day8/re-frame-template](https://github.com/day8/re-frame-template) - A Leiningen template for creating a re-frame application (client only) with a shadow-cljs build.
 - [babashka/bbin](https://github.com/babashka/bbin) - Install any Babashka script or project with one command
 - [borkdude/lein2deps](https://github.com/borkdude/lein2deps) - Lein to deps.edn converter
 - [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) - Making VS Code Hackable since 2022
@@ -409,6 +410,7 @@
 
 ## Emacs Lisp 
 
+- [oliyh/re-jump.el](https://github.com/oliyh/re-jump.el) - emacs navigation for re-frame projects
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
@@ -664,6 +666,7 @@
 
 ## JavaScript 
 
+- [mAAdhaTTah/babel-plugin-prismjs](https://github.com/mAAdhaTTah/babel-plugin-prismjs) - A babel plugin to use PrismJS with standard bundlers.
 - [NalinPlad/hkkr.in](https://github.com/NalinPlad/hkkr.in) - 👨‍💻 • CURL client for Hacker News 📰 📰
 - [benvp/live_motion](https://github.com/benvp/live_motion) - High performance animation library for Phoenix LiveView
 - [enbyautumn/pee.js](https://github.com/enbyautumn/pee.js) - A javascript Library for leaking memory
@@ -950,6 +953,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ergrelet/unlicense](https://github.com/ergrelet/unlicense) - Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
@@ -1077,6 +1081,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
