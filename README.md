@@ -168,6 +168,7 @@
 
 ## C# # 
 
+- [EquiFox/KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space !
 - [wixtoolset/wix3](https://github.com/wixtoolset/wix3) - WiX Toolset v3.x
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
@@ -219,6 +220,8 @@
 
 ## C++ 
 
+- [JustasMasiulis/lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - library for importing functions from dlls in a hidden, reverse engineer unfriendly way
+- [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [degeneratehyperbola/NEPS](https://github.com/degeneratehyperbola/NEPS) - Bloat-free CS:GO multihack for Windows, based on Osiris. You should probably give it a go, as it was in development for about 2 years. Formerly a griefing cheat that developed into a semi-rage multiha
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
@@ -437,6 +440,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -845,11 +849,13 @@
 
 ## Objective-C 
 
+- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day) - iOS gamed exploit (fixed in 15.0.2)
 
 ## Others 
 
+- [Captainarash/The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
 - [HO-COOH/CPPDevOnWindows](https://github.com/HO-COOH/CPPDevOnWindows) - Best guide to setup C/C++ development environment on Windows
 - [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
@@ -880,7 +886,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/Riddle1001-is-a-unicorn](https://github.com/Explosion-Scratch/Riddle1001-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/mefengl-is-awesome](https://github.com/Explosion-Scratch/mefengl-is-awesome) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomasluquet/emacs-can-do-that](https://github.com/thomasluquet/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -953,6 +959,7 @@
 
 ## Python 
 
+- [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ergrelet/unlicense](https://github.com/ergrelet/unlicense) - Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
@@ -1081,6 +1088,9 @@
 
 ## Rust 
 
+- [naim94a/lumen](https://github.com/naim94a/lumen) - A private Lumina server for IDA Pro
+- [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
+- [darfink/detour-rs](https://github.com/darfink/detour-rs) - A cross-platform detour library written in Rust
 - [anvie/litcrypt.rs](https://github.com/anvie/litcrypt.rs) - a Rust compiler plugin to encrypt string literal at compile time.
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
