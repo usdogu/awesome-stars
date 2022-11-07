@@ -87,6 +87,7 @@
 
 ## C 
 
+- [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [memtest86plus/memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+ v6.00 (based on pcmemtest)
 - [ORCx41/NoRunPI](https://github.com/ORCx41/NoRunPI) - Run Your Payload Without Running Your Payload
@@ -220,6 +221,7 @@
 
 ## C++ 
 
+- [quassel/quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
 - [JustasMasiulis/lazy_importer](https://github.com/JustasMasiulis/lazy_importer) - library for importing functions from dlls in a hidden, reverse engineer unfriendly way
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -1416,6 +1418,7 @@
 
 ## TypeScript 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - React app for my personal website
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
