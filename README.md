@@ -672,6 +672,7 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mAAdhaTTah/babel-plugin-prismjs](https://github.com/mAAdhaTTah/babel-plugin-prismjs) - A babel plugin to use PrismJS with standard bundlers.
 - [NalinPlad/hkkr.in](https://github.com/NalinPlad/hkkr.in) - 👨‍💻 • CURL client for Hacker News 📰 📰
 - [benvp/live_motion](https://github.com/benvp/live_motion) - High performance animation library for Phoenix LiveView
