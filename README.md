@@ -945,7 +945,6 @@
 - [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [romanitalian/gopher_stickers](https://github.com/romanitalian/gopher_stickers) - I collect stickers: Golang
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [gwen001/bb-reports-templates](https://github.com/gwen001/bb-reports-templates) - My small collection of reports templates
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )
 - [ayuthmang/.Net-Reverse-Engineering](https://github.com/ayuthmang/.Net-Reverse-Engineering) - Resources, tools about .net reverse engineering.
 - [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) - SSS sorulari burada...
