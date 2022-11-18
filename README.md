@@ -89,6 +89,7 @@
 
 ## C 
 
+- [odzhan/injection](https://github.com/odzhan/injection) - Windows process injection methods
 - [yeoldegrove/psdoom-ng1](https://github.com/yeoldegrove/psdoom-ng1) - psdoom-ng is a First Person Shooter operating system process killer based on psDooM and Chocolate Doom.
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -370,7 +371,7 @@
 ## Dart 
 
 - [nt4f04uNd/sweyer](https://github.com/nt4f04uNd/sweyer) - Music player built with Flutter
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
 - [KhalidWar/anonaddy](https://github.com/KhalidWar/anonaddy) - Mobile app for AnonAddy.com.
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
@@ -774,7 +775,7 @@
 ## Kotlin 
 
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
-- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [accelforce/Yuito](https://github.com/accelforce/Yuito) - Mastodonクライアント Yuito
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
