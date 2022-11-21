@@ -89,6 +89,8 @@
 
 ## C 
 
+- [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [odzhan/injection](https://github.com/odzhan/injection) - Windows process injection methods
 - [yeoldegrove/psdoom-ng1](https://github.com/yeoldegrove/psdoom-ng1) - psdoom-ng is a First Person Shooter operating system process killer based on psDooM and Chocolate Doom.
@@ -227,6 +229,8 @@
 
 ## C++ 
 
+- [Broihon/GH-Injector-Library](https://github.com/Broihon/GH-Injector-Library) - A feature rich DLL injection library.
+- [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr) - heavily vectorized c++17 compile time string encryption.
 - [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT) - Manual mapping without creating any threads, with rw only access
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [quassel/quassel](https://github.com/quassel/quassel) - Quassel IRC: Chat comfortably.  Everywhere.
@@ -981,6 +985,7 @@
 
 ## Python 
 
+- [secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
