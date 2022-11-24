@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
@@ -82,6 +83,10 @@
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - A cross-platform Spicetify theme which declutters Spotify stock UI and removes all ads.
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
+
+## Blade 
+
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom allows you to create a personal profile page. Many social media platforms only allow for one link. With this, you can have all the links you want clickable on one site. Set up your p
 
 ## Brainfuck 
 
@@ -964,7 +969,6 @@
 
 ## PHP 
 
-- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom allows you to create a personal profile page. Many social media platforms only allow for one link. With this, you can have all the links you want clickable on one site. Set up your p
 - [hell-sh/Evil-Domains](https://github.com/hell-sh/Evil-Domains) - Evil domains for our Collective Hosts File Project that are not present in any other lists.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
@@ -986,6 +990,7 @@
 
 ## Python 
 
+- [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075) - Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)
 - [secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
@@ -1176,7 +1181,6 @@
 - [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [aiocat/ripgvc](https://github.com/aiocat/ripgvc) - 👾 Profile visit counter for GitHub
 - [melix99/telegrand](https://github.com/melix99/telegrand) - A Telegram client for GNOME
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
