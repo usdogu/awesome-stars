@@ -893,7 +893,7 @@
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom
 - [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
-- [macbian-linux/macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
+- [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 - [baristunar/design-patterns-tr](https://github.com/baristunar/design-patterns-tr) - Türkçe daha fazla kaynak oluşturmak adına önemli "Design "Pattern" makalelerini çeviriyoruz.
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) - 
@@ -1125,6 +1125,7 @@
 
 ## Rust 
 
+- [buraksenyurt/game-dev-with-rust](https://github.com/buraksenyurt/game-dev-with-rust) - Game development practices with Rust programming language. I want to use different crates for this.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
