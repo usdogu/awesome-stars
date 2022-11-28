@@ -236,6 +236,7 @@
 
 ## C++ 
 
+- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [Broihon/GH-Injector-Library](https://github.com/Broihon/GH-Injector-Library) - A feature rich DLL injection library.
 - [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr) - heavily vectorized c++17 compile time string encryption.
 - [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT) - Manual mapping without creating any threads, with rw only access
@@ -809,7 +810,7 @@
 
 - [Geend/long-reach](https://github.com/Geend/long-reach) - This is a mod for Factorio that lets you reach things that are far away.
 - [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
-- [BobsMods/bobsmods](https://github.com/BobsMods/bobsmods) - Factorio mods by Bobingabout
+- [modded-factorio/bobsmods](https://github.com/modded-factorio/bobsmods) - Factorio mods by Bobingabout
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
