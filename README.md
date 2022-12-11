@@ -181,6 +181,7 @@
 
 ## C# # 
 
+- [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [MajorCooke/Doom4Doom](https://github.com/MajorCooke/Doom4Doom) - A mod for GZDoom, backporting Doom 2016's weapons, monsters and features to Doom 2.
 - [EquiFox/KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space !
@@ -686,6 +687,7 @@
 
 ## Java 
 
+- [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
@@ -920,7 +922,6 @@
 - [ozgung/FlappyTayyip](https://github.com/ozgung/FlappyTayyip) - A variation of Flappy Bird in HTML5 with an homage to our glorious leader
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Q930844N/awesome_tech_content](https://github.com/Q930844N/awesome_tech_content) - Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Chea
-- [mt190502/mt190502.github.io](https://github.com/mt190502/mt190502.github.io) - https://blog.mtaha.dev
 - [arindas/manjarno](https://github.com/arindas/manjarno) - Reasons for which I don't use Manjaro anymore
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
@@ -986,6 +987,7 @@
 
 ## PowerShell 
 
+- [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 - [littleli/scoop-clojure](https://github.com/littleli/scoop-clojure) - Install Clojure on Windows with Scoop
 - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [jfmaes/LazySign](https://github.com/jfmaes/LazySign) - Create fake certs for binaries using windows binaries and the power of bat files
@@ -1137,6 +1139,7 @@
 
 ## Rust 
 
+- [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [buraksenyurt/game-dev-with-rust](https://github.com/buraksenyurt/game-dev-with-rust) - Game development practices with Rust programming language. I want to use different crates for this.
@@ -1416,6 +1419,7 @@
 
 ## Shell 
 
+- [soctrungkien/MagiskOnWSA](https://github.com/soctrungkien/MagiskOnWSA) - Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
@@ -1567,6 +1571,8 @@
 
 ## Zig 
 
+- [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
+- [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
 - [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
