@@ -95,6 +95,7 @@
 
 ## C 
 
+- [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -236,6 +237,7 @@
 
 ## C++ 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
 - [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12 D3D12 (D3D11, D3D10 and maybe Vulkan will be added later)
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
@@ -743,7 +745,7 @@
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [alpcanaydin/githubist](https://github.com/alpcanaydin/githubist) - Github developer, location, language and repo stats for Turkey.
 - [sevenc-nanashi/gh-material-icon](https://github.com/sevenc-nanashi/gh-material-icon) - This extension replaces the icon of GitHub with icon in Material Icon Theme extension!
-- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -801,7 +803,7 @@
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [accelforce/Yuito](https://github.com/accelforce/Yuito) - Mastodonクライアント Yuito
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - F-Droid client with Material UI.
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
@@ -1419,6 +1421,7 @@
 
 ## Shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [soctrungkien/MagiskOnWSA](https://github.com/soctrungkien/MagiskOnWSA) - Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
@@ -1479,6 +1482,7 @@
 
 ## TypeScript 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
