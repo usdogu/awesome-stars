@@ -237,6 +237,7 @@
 
 ## C++ 
 
+- [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
@@ -653,6 +654,7 @@
 
 ## HTML 
 
+- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - A low-tech, super-portable hack to securely carry your most important secrets with you.
 - [ardacarofficial/links-website](https://github.com/ardacarofficial/links-website) - List all your links on one website.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -814,6 +816,7 @@
 
 ## Lua 
 
+- [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind
 - [Geend/long-reach](https://github.com/Geend/long-reach) - This is a mod for Factorio that lets you reach things that are far away.
 - [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
@@ -973,7 +976,7 @@
 - [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 - [romanitalian/gopher_stickers](https://github.com/romanitalian/gopher_stickers) - I collect stickers: Golang
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )
+- [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [ayuthmang/.Net-Reverse-Engineering](https://github.com/ayuthmang/.Net-Reverse-Engineering) - Resources, tools about .net reverse engineering.
 - [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) - SSS sorulari burada...
 - [NotPrab/.NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) - Lists of .NET Deobfuscator and Unpacker (Open Source)
@@ -1142,9 +1145,10 @@
 
 ## Rust 
 
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [buraksenyurt/game-dev-with-rust](https://github.com/buraksenyurt/game-dev-with-rust) - Game development practices with Rust programming language. I want to use different crates for this.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -1576,6 +1580,7 @@
 
 ## Zig 
 
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
