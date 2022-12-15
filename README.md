@@ -654,7 +654,7 @@
 
 ## HTML 
 
-- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - A low-tech, super-portable hack to securely carry your most important secrets with you.
+- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ardacarofficial/links-website](https://github.com/ardacarofficial/links-website) - List all your links on one website.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -1006,6 +1006,7 @@
 
 ## Python 
 
+- [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
 - [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
@@ -1266,7 +1267,7 @@
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
-- [mdgaziur/findex](https://github.com/mdgaziur/findex) - Highly customizable application finder with high performance. Written in Rust and uses GTK
+- [mdgaziur/findex](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder written in Rust and uses Gtk3.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [ekimb/pas](https://github.com/ekimb/pas) - Rust syntax in Turkish
 - [sagiegurari/run_script](https://github.com/sagiegurari/run_script) - Run shell scripts in rust.
@@ -1487,6 +1488,7 @@
 
 ## TypeScript 
 
+- [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
