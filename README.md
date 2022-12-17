@@ -25,6 +25,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [Fennel](#fennel)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
@@ -141,7 +142,7 @@
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-- [rdbo/libmem](https://github.com/rdbo/libmem) - Process & Memory Hacking Library (Windows/Linux/BSD/Android) (C/C++/Python) (x86/x64, ARM/ARM64) (Internal/External)
+- [rdbo/libmem](https://github.com/rdbo/libmem) - Process & Memory Hacking Library + Assembler/Disassembler (Windows/Linux/BSD/Android) (C/C++/Python) (x86/x64, ARM/ARM64) (Internal/External)
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -466,6 +467,10 @@
 ## Erlang 
 
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
+
+## Fennel 
+
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GDScript 
 
@@ -1428,6 +1433,7 @@
 
 ## Shell 
 
+- [leap0x7b/shutthefetchup](https://github.com/leap0x7b/shutthefetchup) - A minimal fetch tool to tell all users who posts those annoying fetch BS on r/linux to shut the fuck up.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [soctrungkien/MagiskOnWSA](https://github.com/soctrungkien/MagiskOnWSA) - Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
