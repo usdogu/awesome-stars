@@ -42,6 +42,7 @@
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -96,6 +97,7 @@
 
 ## C 
 
+- [btbd/access](https://github.com/btbd/access) - Access without a real handle
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -333,6 +335,7 @@
 
 ## Clojure 
 
+- [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna) - A DSL that translates to regex
 - [day8/re-frame-template](https://github.com/day8/re-frame-template) - A Leiningen template for creating a re-frame application (client only) with a shadow-cljs build.
 - [babashka/bbin](https://github.com/babashka/bbin) - Install any Babashka script or project with one command
 - [borkdude/lein2deps](https://github.com/borkdude/lein2deps) - Lein to deps.edn converter
@@ -801,6 +804,7 @@
 
 ## Jupyter Notebook 
 
+- [mevlutseran/Turkce-Duygu-Takibi](https://github.com/mevlutseran/Turkce-Duygu-Takibi) - Türkçe duygu analizi ile imaj takibi yapan çalışmamız
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 
@@ -907,6 +911,10 @@
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day) - iOS gamed exploit (fixed in 15.0.2)
 
+## Odin 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+
 ## Others 
 
 - [Captainarash/The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
@@ -1012,6 +1020,7 @@
 
 ## Python 
 
+- [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 - [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
 - [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
@@ -1152,6 +1161,7 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
