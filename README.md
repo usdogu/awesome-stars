@@ -52,6 +52,7 @@
 - [Red](#red)
 - [Ren'Py](#ren'py)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -97,6 +98,8 @@
 
 ## C 
 
+- [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
+- [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [btbd/access](https://github.com/btbd/access) - Access without a real handle
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -299,7 +302,7 @@
 - [namazso/IDAShell](https://github.com/namazso/IDAShell) - Shell extension for opening executables in IDA
 - [can1357/NoVmp](https://github.com/can1357/NoVmp) - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
-- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository, check GitHub organization**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating syste
+- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [eneshecan/whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux) - An unofficial WhatsApp desktop application for Linux.
 - [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever
@@ -481,6 +484,7 @@
 
 ## Go 
 
+- [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
 - [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -722,6 +726,7 @@
 
 ## JavaScript 
 
+- [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mAAdhaTTah/babel-plugin-prismjs](https://github.com/mAAdhaTTah/babel-plugin-prismjs) - A babel plugin to use PrismJS with standard bundlers.
@@ -883,6 +888,8 @@
 
 ## Nix 
 
+- [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
+- [sweenu/nixfiles](https://github.com/sweenu/nixfiles) - NixOS home and servers configuration
 - [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [jurraca/nix-phoenix](https://github.com/jurraca/nix-phoenix) - Nix tools for Elixir's Phoenix web framework
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
@@ -917,6 +924,7 @@
 
 ## Others 
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [Captainarash/The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
 - [HO-COOH/CPPDevOnWindows](https://github.com/HO-COOH/CPPDevOnWindows) - Best guide to setup C/C++ development environment on Windows
 - [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
@@ -1020,6 +1028,7 @@
 
 ## Python 
 
+- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 - [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
@@ -1144,6 +1153,10 @@
 ## Rich Text Format 
 
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
+
+## Roff 
+
+- [JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization) - Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.
 
 ## Ruby 
 
@@ -1600,6 +1613,7 @@
 
 ## Zig 
 
+- [zigtools/sus](https://github.com/zigtools/sus) - Hunt down sus zls activity by spamming zls with hot req/notif garbage
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
