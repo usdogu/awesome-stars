@@ -484,6 +484,8 @@
 
 ## Go 
 
+- [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
+- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
 - [picosh/pico](https://github.com/picosh/pico) - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -1557,7 +1559,7 @@
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1613,6 +1615,7 @@
 
 ## Zig 
 
+- [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
 - [zigtools/sus](https://github.com/zigtools/sus) - Hunt down sus zls activity by spamming zls with hot req/notif garbage
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
