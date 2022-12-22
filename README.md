@@ -147,7 +147,7 @@
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-- [rdbo/libmem](https://github.com/rdbo/libmem) - Process & Memory Hacking Library + Assembler/Disassembler (Windows/Linux/BSD/Android) (C/C++/Python) (x86/x64, ARM/ARM64) (Internal/External)
+- [rdbo/libmem](https://github.com/rdbo/libmem) - Process & Memory Hacking Library + Hooking/Detouring + Assembler/Disassembler (Windows/Linux/BSD/Android) (C/C++/Python) (x86/x64, ARM/ARM64) (Internal/External)
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -243,6 +243,7 @@
 
 ## C++ 
 
+- [sam-b/windows_kernel_address_leaks](https://github.com/sam-b/windows_kernel_address_leaks) - Examples of leaking Kernel Mode information from User Mode on Windows
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -1616,9 +1617,10 @@
 
 ## Zig 
 
+- [david-vanderson/gui](https://github.com/david-vanderson/gui) - 
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
 - [zigtools/sus](https://github.com/zigtools/sus) - Hunt down sus zls activity by spamming zls with hot req/notif garbage
-- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
