@@ -729,6 +729,7 @@
 
 ## JavaScript 
 
+- [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
 - [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1277,7 +1278,7 @@
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [theiceshelf/firn](https://github.com/theiceshelf/firn) - Org Mode Static Site Generator
 - [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing orgmode files.
