@@ -844,7 +844,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -1637,7 +1637,7 @@
 - [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [zigtools/zls](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server
+- [zigtools/zls](https://github.com/zigtools/zls) - The officially unofficial Zig Language Server
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 
