@@ -1180,6 +1180,7 @@
 
 ## Rust 
 
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [kuragehime/source-base](https://github.com/kuragehime/source-base) - Rust stdlib-less internal base for source engine games
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -1424,7 +1425,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [JoyMoe/archiver-rs](https://github.com/JoyMoe/archiver-rs) - A library for easy interaction with multiple archive formats
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - An advanced administration assistant and moderation bot for Discord.
+- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - The speed-of-thought server management bot for Discord.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
@@ -1623,6 +1624,7 @@
 
 ## Zig 
 
+- [fubark/cyber](https://github.com/fubark/cyber) - 
 - [david-vanderson/gui](https://github.com/david-vanderson/gui) - 
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
 - [zigtools/sus](https://github.com/zigtools/sus) - Hunt down sus zls activity by spamming zls with hot req/notif garbage
