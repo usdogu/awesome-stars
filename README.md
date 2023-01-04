@@ -568,7 +568,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
@@ -941,6 +941,7 @@
 
 ## Others 
 
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) - A list of awesome projects related to Zig
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1542,7 +1543,7 @@
 
 ## TypeScript 
 
-- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
@@ -1639,6 +1640,7 @@
 
 ## Zig 
 
+- [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [david-vanderson/gui](https://github.com/david-vanderson/gui) - 
