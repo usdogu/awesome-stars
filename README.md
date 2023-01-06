@@ -910,7 +910,7 @@
 - [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [jurraca/nix-phoenix](https://github.com/jurraca/nix-phoenix) - Nix tools for Elixir's Phoenix web framework
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
-- [divnix/std](https://github.com/divnix/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
@@ -975,7 +975,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/mefengl-is-awesome](https://github.com/Explosion-Scratch/mefengl-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/retronbv-starred-this-repo](https://github.com/Explosion-Scratch/retronbv-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
