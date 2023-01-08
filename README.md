@@ -149,7 +149,7 @@
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-- [rdbo/libmem](https://github.com/rdbo/libmem) - Game Hacking Library for C/C++, Rust and Python (Windows/Linux/BSD) (Process/Memory Hacking) (Hooking/Detouring) (Cross Platform) (x86/x64, ARM/ARM64) (DLL/SO Injection) (Internal/External)
+- [rdbo/libmem](https://github.com/rdbo/libmem) - Game Hacking Library for C/C++, Rust and Python (Windows/Linux/FreeBSD) (Process/Memory Hacking) (Hooking/Detouring) (Cross Platform) (x86/x64, ARM/ARM64) (DLL/SO Injection) (Internal/External)
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -266,7 +266,7 @@
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [degeneratehyperbola/NEPS](https://github.com/degeneratehyperbola/NEPS) - Bloat-free CS:GO multihack for Windows, based on Osiris. You should probably give it a go, as it was in development for about 2 years. Formerly a griefing cheat that developed into a semi-rage multiha
-- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [call-042PE/PyInjector](https://github.com/call-042PE/PyInjector) - PyInjector - Inject Python code into python process.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -1545,7 +1545,7 @@
 
 ## TypeScript 
 
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
