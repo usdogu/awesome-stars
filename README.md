@@ -135,6 +135,7 @@
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [danielkrupinski/VAC](https://github.com/danielkrupinski/VAC) - Source code of Valve Anti-Cheat obtained from disassembly of compiled modules
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -743,7 +744,6 @@
 ## JavaScript 
 
 - [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
-- [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mAAdhaTTah/babel-plugin-prismjs](https://github.com/mAAdhaTTah/babel-plugin-prismjs) - A babel plugin to use PrismJS with standard bundlers.
@@ -946,6 +946,7 @@
 
 ## Others 
 
+- [fldried/reverse-engineering-101](https://github.com/fldried/reverse-engineering-101) - a quick introductory course on reverse engineering. please open issues in case you find something that isnt quite right or not properly worked out :)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) - A list of awesome projects related to Zig
@@ -980,7 +981,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/e-coders-is-a-unicorn](https://github.com/Explosion-Scratch/e-coders-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/ErrorGamer2000-is-cool](https://github.com/Explosion-Scratch/ErrorGamer2000-is-cool) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1279,7 +1280,6 @@
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
@@ -1542,7 +1542,7 @@
 - [VertexUI/VertexGUI](https://github.com/VertexUI/VertexGUI) - A framework for creating cross-platform GUI applications with Swift.
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro!
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
-- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 
 ## TeX 
 
