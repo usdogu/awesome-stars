@@ -113,7 +113,7 @@
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [memtest86plus/memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+ v6 (based on pcmemtest)
-- [ORCx41/NoRunPI](https://github.com/ORCx41/NoRunPI) - Run Your Payload Without Running Your Payload
+- [NUL0x4C/NoRunPI](https://github.com/NUL0x4C/NoRunPI) - Run Your Payload Without Running Your Payload
 - [fabiangreffrath/crispy-doom](https://github.com/fabiangreffrath/crispy-doom) - Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
@@ -981,7 +981,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/ErrorGamer2000-is-cool](https://github.com/Explosion-Scratch/ErrorGamer2000-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/Cyberwolfdev-starred-this-repo](https://github.com/Explosion-Scratch/Cyberwolfdev-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1550,6 +1550,7 @@
 
 ## TypeScript 
 
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
