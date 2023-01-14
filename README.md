@@ -983,7 +983,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/rgantzos-starred-this-repo](https://github.com/Explosion-Scratch/rgantzos-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/samrpf-starred-this-repo](https://github.com/Explosion-Scratch/samrpf-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1204,6 +1204,8 @@
 
 ## Rust 
 
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Elk + Tauri FTW
+- [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [kuragehime/source-base](https://github.com/kuragehime/source-base) - Rust stdlib-less internal base for source engine games
@@ -1553,6 +1555,7 @@
 
 ## TypeScript 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
@@ -1645,6 +1648,7 @@
 
 ## Vue 
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [b68h4/CoderatorDrive.Frontend](https://github.com/b68h4/CoderatorDrive.Frontend) - Coderator Drive - Google Drive File Browser (Frontend)
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
