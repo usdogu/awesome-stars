@@ -348,6 +348,7 @@
 
 ## Clojure 
 
+- [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [jonase/kibit](https://github.com/jonase/kibit) - There's a function for that!
 - [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna) - A DSL that translates to regex
@@ -723,6 +724,7 @@
 
 ## Java 
 
+- [joshuamiller/react-native-template-cljs-krell-storybook](https://github.com/joshuamiller/react-native-template-cljs-krell-storybook) - A React Native Template for installing a working ClojureScript, Krell, and Storybook environment
 - [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
@@ -747,6 +749,7 @@
 
 - [mldangelo/open-webring](https://github.com/mldangelo/open-webring) - Join a webring or create your own.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Elk + Tauri FTW
 - [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1209,7 +1212,6 @@
 ## Rust 
 
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Elk + Tauri FTW
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
@@ -1561,6 +1563,7 @@
 
 ## TypeScript 
 
+- [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
