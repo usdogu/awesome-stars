@@ -275,7 +275,6 @@
 - [call-042PE/PyInjector](https://github.com/call-042PE/PyInjector) - PyInjector - Inject Python code into python process.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Desire2K17/Moonlight](https://github.com/Desire2K17/Moonlight) - 
-- [D1rkMtr/githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
@@ -756,6 +755,7 @@
 
 - [mldangelo/open-webring](https://github.com/mldangelo/open-webring) - Join a webring or create your own.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1001,7 +1001,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/DelightedDuck-is-cool](https://github.com/Explosion-Scratch/DelightedDuck-is-cool) - Star to change the repo title to your username!
+- [Explosion-Scratch/insolitum-is-a-unicorn](https://github.com/Explosion-Scratch/insolitum-is-a-unicorn) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1225,7 +1225,6 @@
 
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
