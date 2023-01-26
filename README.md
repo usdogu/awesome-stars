@@ -120,7 +120,6 @@
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
-- [ivd38/zlib_overflow](https://github.com/ivd38/zlib_overflow) - Program to trigger zlib 1.2.12 buffer overflow
 - [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
 - [lethal-guitar/Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed) - Reconstructed source code of the game Duke Nukem II
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
@@ -1001,7 +1000,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/insolitum-is-a-unicorn](https://github.com/Explosion-Scratch/insolitum-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/egorgasay-is-epic](https://github.com/Explosion-Scratch/egorgasay-is-epic) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
