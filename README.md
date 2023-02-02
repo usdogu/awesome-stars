@@ -39,7 +39,6 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -906,10 +905,6 @@
 - [mwenge/defender](https://github.com/mwenge/defender) - Defender(1981) by Eugene Jarvis and Sam Dicker
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 
-## NCL 
-
-- [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
-
 ## Nim 
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -956,6 +951,7 @@
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [sweenu/nixfiles](https://github.com/sweenu/nixfiles) - NixOS home and servers configuration
+- [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [jurraca/nix-phoenix](https://github.com/jurraca/nix-phoenix) - Nix tools for Elixir's Phoenix web framework
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
