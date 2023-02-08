@@ -909,6 +909,7 @@
 
 ## Nim 
 
+- [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [qb-0/pyMeow](https://github.com/qb-0/pyMeow) - Python Game Hacking Library
 - [enthus1ast/zigcc](https://github.com/enthus1ast/zigcc) - wraps `zig cc` to be able to be called by the nim compiler
@@ -987,6 +988,7 @@
 
 ## Others 
 
+- [acikkaynak/deprem-yardim-projesi](https://github.com/acikkaynak/deprem-yardim-projesi) - 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -1099,6 +1101,7 @@
 
 ## Python 
 
+- [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
