@@ -732,6 +732,7 @@
 
 ## Haskell 
 
+- [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [cdepillabout/termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
@@ -1254,6 +1255,7 @@
 
 ## Rust 
 
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [CGamesPlay/sqlite3_ext](https://github.com/CGamesPlay/sqlite3_ext) - Build loadable extensions for SQLite using Rust
 - [asg017/sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - A framework for writing fast and performant SQLite extensions in Rust
 - [woodruffw/steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals
