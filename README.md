@@ -233,7 +233,7 @@
 - [ReClassNET/ReClass.NET](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [dantmnf/tdlib-netcore](https://github.com/dantmnf/tdlib-netcore) - Fast TDLib binding for .NET Core and .NET Standard.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [picoe/Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
@@ -365,7 +365,7 @@
 - [clojure/core.typed](https://github.com/clojure/core.typed) - An optional type system for Clojure
 - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
-- [jonase/kibit](https://github.com/jonase/kibit) - There's a function for that!
+- [clj-commons/kibit](https://github.com/clj-commons/kibit) - There's a function for that!
 - [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna) - A DSL that translates to regex
 - [day8/re-frame-template](https://github.com/day8/re-frame-template) - A Leiningen template for creating a re-frame application (client only) with a shadow-cljs build.
 - [babashka/bbin](https://github.com/babashka/bbin) - Install any Babashka script or project with one command
@@ -1729,6 +1729,7 @@
 
 ## Zig 
 
+- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [ziglibs/tres](https://github.com/ziglibs/tres) - ValueTree-based JSON parser
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
@@ -1752,7 +1753,7 @@
 - [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [zigtools/zls](https://github.com/zigtools/zls) - The officially unofficial @ziglang language server
+- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 
