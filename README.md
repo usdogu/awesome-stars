@@ -548,7 +548,7 @@
 - [mikecoop83/luna](https://github.com/mikecoop83/luna) - An error propagating JSON parsing library for Go
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [web3-storage/go-w3s-client](https://github.com/web3-storage/go-w3s-client) - ⁂ A client to the Web3.Storage API.
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sterchelen/hssp](https://github.com/sterchelen/hssp) - CLI to avoid remembering the http status codes
@@ -1433,7 +1433,7 @@
 - [alok8bb/cloneit](https://github.com/alok8bb/cloneit) - A cli tool to download specific GitHub directories or files
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Trust data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can trust all data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcemen
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
