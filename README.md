@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -69,6 +70,10 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Adblock Filter List 
+
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 
 ## Assembly 
 
@@ -486,6 +491,7 @@
 
 ## Emacs Lisp 
 
+- [gicrisf/ox-zola](https://github.com/gicrisf/ox-zola) - A carefully crafted Org exporter back-end for Zola
 - [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Zig mode for Emacs
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
@@ -1055,7 +1061,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [searchableguy/awesome-illustrated-guides](https://github.com/searchableguy/awesome-illustrated-guides) - Awesome illustrated guides or children's books on technical topics.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -1196,7 +1201,7 @@
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [ayyucedemirbas/linux-insides_Turkish](https://github.com/ayyucedemirbas/linux-insides_Turkish) - Turkish version of linux-insides book @0xAX
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-- [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - A reverse engineering tool that'll supply the place of Cheat Engine for linux
+- [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
@@ -1263,6 +1268,8 @@
 
 ## Rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
@@ -1551,6 +1558,7 @@
 
 ## SCSS 
 
+- [orhun/personal-blog](https://github.com/orhun/personal-blog) - Source of my blog ✍🏼
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -1613,6 +1621,7 @@
 
 ## Swift 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
