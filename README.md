@@ -1268,6 +1268,7 @@
 
 ## Rust 
 
+- [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1431,7 +1432,7 @@
 - [davidpdrsn/todo-or-die](https://github.com/davidpdrsn/todo-or-die) - TODOs you cannot forget!
 - [doctorn/obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
-- [KivalM/spotblock-rs](https://github.com/KivalM/spotblock-rs) - A spotify advertisment muter for *nix.
+- [KivalM/spotblock-rs](https://github.com/KivalM/spotblock-rs) - A spotify advertisment muter for Pipewire
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [buttercrab/default-args.rs](https://github.com/buttercrab/default-args.rs) - zero runtime cost default arguments in rust
 - [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels
