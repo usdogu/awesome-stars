@@ -364,6 +364,7 @@
 
 ## Clojure 
 
+- [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
 - [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - A new, simpler alternative to clj-new
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
@@ -445,7 +446,7 @@
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [YazeedAlKhalaf/Flutter_Installer](https://github.com/YazeedAlKhalaf/Flutter_Installer) - Flutter Installer is an installer for Flutter built with Flutter 💙😎✌
-- [GroovinChip/macos_ui](https://github.com/GroovinChip/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
+- [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 
 ## Dhall 
 
@@ -724,6 +725,7 @@
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
+- [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [setetres/evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite) - 💋 This is an even better motherfucking website.
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
@@ -1004,6 +1006,7 @@
 
 ## Others 
 
+- [Malwation/ConfuserEx2-String-Fixer](https://github.com/Malwation/ConfuserEx2-String-Fixer) - String Fixer for ConfuserEx2
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -1321,7 +1324,6 @@
 - [rowan-sl/na_print](https://github.com/rowan-sl/na_print) - Printing without allocations (in rust)
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
-- [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
