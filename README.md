@@ -203,6 +203,7 @@
 
 ## C# # 
 
+- [Malwation/ConfuserEx2-String-Fixer](https://github.com/Malwation/ConfuserEx2-String-Fixer) - String Fixer for ConfuserEx2
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [mastercodeon314/KsDumper-11](https://github.com/mastercodeon314/KsDumper-11) - A revival of the classic and legendary KsDumper
 - [void-stack/VMUnprotect.Dumper](https://github.com/void-stack/VMUnprotect.Dumper) - VMUnprotect.Dumper can dynamically untamper VMProtected Assembly.
@@ -367,6 +368,7 @@
 - [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
 - [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - A new, simpler alternative to clj-new
+- [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [jacekschae/shadow-cljs-tailwindcss](https://github.com/jacekschae/shadow-cljs-tailwindcss) - shadow-cljs + tailwindcss
 - [lispyclouds/bblgum](https://github.com/lispyclouds/bblgum) - An extremely tiny and simple wrapper around charmbracelet/gum
@@ -493,7 +495,6 @@
 ## Emacs Lisp 
 
 - [gicrisf/ox-zola](https://github.com/gicrisf/ox-zola) - A carefully crafted Org exporter back-end for Zola
-- [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Zig mode for Emacs
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [oliyh/re-jump.el](https://github.com/oliyh/re-jump.el) - emacs navigation for re-frame projects
@@ -527,6 +528,7 @@
 
 ## Go 
 
+- [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [yuin/glel](https://github.com/yuin/glel) - Expression evaluation with Lua for Go
@@ -1006,7 +1008,6 @@
 
 ## Others 
 
-- [Malwation/ConfuserEx2-String-Fixer](https://github.com/Malwation/ConfuserEx2-String-Fixer) - String Fixer for ConfuserEx2
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -1746,6 +1747,7 @@
 
 ## Zig 
 
+- [squeek502/watchedoverlay](https://github.com/squeek502/watchedoverlay) - Windows shell extension to mark arbitrary files as 'watched'
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [ziglibs/tres](https://github.com/ziglibs/tres) - ValueTree-based JSON parser
