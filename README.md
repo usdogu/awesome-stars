@@ -339,7 +339,7 @@
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 
 ## CMake 
@@ -1120,6 +1120,7 @@
 
 ## Python 
 
+- [charliermarsh/autobot](https://github.com/charliermarsh/autobot) - GitHub Copilot, for your existing codebase.
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -1273,6 +1274,7 @@
 
 ## Rust 
 
+- [Shizcow/dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
