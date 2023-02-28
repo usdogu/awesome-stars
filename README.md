@@ -1011,6 +1011,7 @@
 
 ## Others 
 
+- [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -1132,7 +1133,7 @@
 - [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 - [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
-- [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
+- [Lumi-Official/lumi](https://github.com/Lumi-Official/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
