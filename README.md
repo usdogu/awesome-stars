@@ -1135,7 +1135,7 @@
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 - [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
-- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
+- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
 - [Lumi-Official/lumi](https://github.com/Lumi-Official/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
@@ -1170,7 +1170,7 @@
 - [0xgalz/Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
-- [Naruno/Decentra-Network](https://github.com/Naruno/Decentra-Network) - This is an open source decentralized application network. In this network, you can develop and publish decentralized applications.
+- [Naruno/Naruno](https://github.com/Naruno/Naruno) - With our "In-node Level Transaction Proof" system we provide lightning-fast, secure, and scalable blockchain, eliminating the need for archive nodes and sub-systems. With only ~60mb/year growth, your 
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [avengy/hcaptcha-bypass-discord](https://github.com/avengy/hcaptcha-bypass-discord) - Bypass Hcaptcha Purely based on http requests, Creates unlocked discord accounts if used correctly
