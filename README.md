@@ -268,6 +268,7 @@
 
 ## C++ 
 
+- [kweatherman/sigmakerex](https://github.com/kweatherman/sigmakerex) - Enhanced IDA Pro signature generator plugin.
 - [HoShiMin/Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge) - Windows kernel hacking framework, driver template, hypervisor and API written on C++
 - [bruhmoment21/UniversalHookX](https://github.com/bruhmoment21/UniversalHookX) - Universal graphical hook for Windows apps.
 - [paradoxwastaken/Poseidon](https://github.com/paradoxwastaken/Poseidon) - Stealthy UM &lt;-&gt; KM communication system without creating any system threads, permanent hooks, driver objects, section objects or device objects.
@@ -1055,7 +1056,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/Woodie-07-is-epic](https://github.com/Explosion-Scratch/Woodie-07-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/GustyCube-starred-this-repo](https://github.com/Explosion-Scratch/GustyCube-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1458,7 +1459,7 @@
 - [alok8bb/cloneit](https://github.com/alok8bb/cloneit) - A cli tool to download specific GitHub directories or files
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can trust all data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcemen
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can Trust Data-in-Motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — 
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
@@ -1712,7 +1713,7 @@
 - [CyCraft/vue-intellisense](https://github.com/CyCraft/vue-intellisense) - A CLI tool to help enabling IntelliSense on your Vue components
 - [bobbylkchao/bison-local-data-offline-proxy](https://github.com/bobbylkchao/bison-local-data-offline-proxy) - This opensource project is the local data request proxy. Written by TypeScript, is used to implement offline browsing of the app. The data proxy will be responsible for data request, creation, destruc
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [gura-conf/gura](https://github.com/gura-conf/gura) - Gura configuration language
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
@@ -1764,6 +1765,7 @@
 
 ## Zig 
 
+- [extism/zig-pdk](https://github.com/extism/zig-pdk) - Extism Plug-in Development Kit (PDK) for Zig
 - [squeek502/watchedoverlay](https://github.com/squeek502/watchedoverlay) - Windows shell extension to mark arbitrary files as 'watched'
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
