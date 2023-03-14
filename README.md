@@ -277,7 +277,7 @@
 - [kweatherman/sigmakerex](https://github.com/kweatherman/sigmakerex) - Enhanced IDA Pro signature generator plugin.
 - [HoShiMin/Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge) - Windows kernel hacking framework, driver template, hypervisor and API written on C++
 - [bruhmoment21/UniversalHookX](https://github.com/bruhmoment21/UniversalHookX) - Universal graphical hook for Windows apps.
-- [paradoxwastaken/Poseidon](https://github.com/paradoxwastaken/Poseidon) - Stealthy UM &lt;-&gt; KM communication system without creating any system threads, permanent hooks, driver objects, section objects or device objects.
+- [Nick-Augustino/Poseidon](https://github.com/Nick-Augustino/Poseidon) - Stealthy UM &lt;-&gt; KM communication system without creating any system threads, permanent hooks, driver objects, section objects or device objects.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [gammasoft71/xtd](https://github.com/gammasoft71/xtd) - Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.
@@ -1294,6 +1294,7 @@
 
 ## Rust 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [Shizcow/dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
@@ -1393,7 +1394,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily parse command line arguments in bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create bash command line tool.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
