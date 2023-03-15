@@ -60,6 +60,7 @@
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Shell](#shell)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -802,6 +803,7 @@
 
 ## JavaScript 
 
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -1394,7 +1396,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create bash command line tool.
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create a feature-rich command-line application in Bash.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -1640,6 +1642,10 @@
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [OscarAkaElvis/zsh-parrot-theme](https://github.com/OscarAkaElvis/zsh-parrot-theme) - Zsh Parrot Security theme
+
+## Starlark 
+
+- [uber/bazel-zig-cc](https://github.com/uber/bazel-zig-cc) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 
 ## Svelte 
 
