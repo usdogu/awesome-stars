@@ -728,7 +728,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [cassiobotaro/60-days-of-go](https://github.com/cassiobotaro/60-days-of-go) - :card_index_dividers: 60 days discovering go
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 
@@ -1338,7 +1338,7 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1534,7 +1534,7 @@
 - [z5labs/pflag](https://github.com/z5labs/pflag) - A crate implementing POSIX/GNU-style --flags.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [erhanbaris/karamel](https://github.com/erhanbaris/karamel) - Karamel Programlama Dili
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -1671,6 +1671,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode
@@ -1737,7 +1738,7 @@
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
