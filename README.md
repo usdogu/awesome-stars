@@ -984,7 +984,7 @@
 ## Nix 
 
 - [andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay) - linux kernel overlay
-- [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=@ehmry]
+- [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=?]
 - [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
@@ -1141,6 +1141,7 @@
 
 ## Python 
 
+- [flameshikari/yadisk-converter](https://github.com/flameshikari/yadisk-converter) - Get a direct download link from Yandex.Disk
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [mxrch/ProtoDeep](https://github.com/mxrch/ProtoDeep) - 🏄‍♂️ Decode and analyze protobuf efficiently.
