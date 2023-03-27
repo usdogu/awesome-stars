@@ -547,6 +547,7 @@
 
 ## Go 
 
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe)
 - [extremecoders-re/python-snippet-decompiler](https://github.com/extremecoders-re/python-snippet-decompiler) - Tool to assist during manual decompilation of Python bytecode
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -1306,6 +1307,7 @@
 
 ## Rust 
 
+- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
