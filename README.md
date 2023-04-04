@@ -1038,6 +1038,7 @@
 
 ## Others 
 
+- [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
@@ -1077,7 +1078,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/prplwtf-is-a-unicorn](https://github.com/Explosion-Scratch/prplwtf-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/Haste171-starred-this-repo](https://github.com/Explosion-Scratch/Haste171-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1399,7 +1400,7 @@
 - [melix99/telegrand](https://github.com/melix99/telegrand) - A Telegram client for GNOME
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
-- [pseuxide/toy-arms](https://github.com/pseuxide/toy-arms) - :crossed_swords: my simple game hack components in Rust
+- [pseuxide/toy-arms](https://github.com/pseuxide/toy-arms) - :nut_and_bolt: my simple game hack components in Rust
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
