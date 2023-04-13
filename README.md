@@ -791,6 +791,7 @@
 
 ## Java 
 
+- [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish.
 - [joshuamiller/react-native-template-cljs-krell-storybook](https://github.com/joshuamiller/react-native-template-cljs-krell-storybook) - A React Native Template for installing a working ClojureScript, Krell, and Storybook environment
