@@ -454,6 +454,7 @@
 
 ## Crystal 
 
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [luckyframework/lucky](https://github.com/luckyframework/lucky) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [kemalcr/kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
@@ -1324,6 +1325,7 @@
 
 ## Rust 
 
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [zhuowei/nft_ptr](https://github.com/zhuowei/nft_ptr) - C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain
@@ -1414,7 +1416,7 @@
 - [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [melix99/telegrand](https://github.com/melix99/telegrand) - A Telegram client for GNOME
+- [melix99/telegrand](https://github.com/melix99/telegrand) - Chat over Telegram on a modern and elegant client
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
 - [pseuxide/toy-arms](https://github.com/pseuxide/toy-arms) - :nut_and_bolt: my simple game hack components in Rust
@@ -1824,6 +1826,7 @@
 
 ## Zig 
 
+- [ziglibs/treez](https://github.com/ziglibs/treez) - tree-sitter bindings for Zig
 - [ziglibs/repository](https://github.com/ziglibs/repository) - A community-maintained repository of zig packages
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
 - [extism/zig-pdk](https://github.com/extism/zig-pdk) - Extism Plug-in Development Kit (PDK) for Zig
