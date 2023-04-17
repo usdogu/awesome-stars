@@ -217,6 +217,7 @@
 
 ## C# # 
 
+- [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
 - [MishaTy/Rectify11Installer](https://github.com/MishaTy/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -912,6 +913,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
 - [mevlutseran/Turkce-Duygu-Takibi](https://github.com/mevlutseran/Turkce-Duygu-Takibi) - Türkçe duygu analizi ile imaj takibi yapan çalışmamız
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1170,7 +1172,6 @@
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [mxrch/ProtoDeep](https://github.com/mxrch/ProtoDeep) - 🏄‍♂️ Decode and analyze protobuf efficiently.
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [charliermarsh/autobot](https://github.com/charliermarsh/autobot) - GitHub Copilot, for your existing codebase.
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
