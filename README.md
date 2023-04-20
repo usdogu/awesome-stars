@@ -7,7 +7,6 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
@@ -89,10 +88,6 @@
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-
-## Astro 
-
-- [crablang/crablang-site](https://github.com/crablang/crablang-site) - The official site for CrabLang.
 
 ## Awk 
 
@@ -908,11 +903,11 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [matryer/gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize.me app
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [raifpy/Kodlar](https://github.com/raifpy/Kodlar) - 
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
 - [mevlutseran/Turkce-Duygu-Takibi](https://github.com/mevlutseran/Turkce-Duygu-Takibi) - Türkçe duygu analizi ile imaj takibi yapan çalışmamız
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1171,7 +1166,7 @@
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [mxrch/ProtoDeep](https://github.com/mxrch/ProtoDeep) - 🏄‍♂️ Decode and analyze protobuf efficiently.
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [charliermarsh/autobot](https://github.com/charliermarsh/autobot) - GitHub Copilot, for your existing codebase.
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -1644,6 +1639,7 @@
 
 ## Shell 
 
+- [crablang/crablang-site](https://github.com/crablang/crablang-site) - The official site for CrabLang.
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [leap0x7b/shutthefetchup](https://github.com/leap0x7b/shutthefetchup) - A minimal fetch tool to tell all users who posts those annoying fetch BS on r/linux to shut the fuck up.
