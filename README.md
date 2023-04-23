@@ -214,7 +214,7 @@
 
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
-- [MishaTy/Rectify11Installer](https://github.com/MishaTy/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
+- [MishaProductions/Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [torchgm/RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [Andy53/ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) - An Xdbg Plugin of the ERC Library.
@@ -389,6 +389,7 @@
 
 ## Clojure 
 
+- [cognitect/transit-format](https://github.com/cognitect/transit-format) - A data interchange format.
 - [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
 - [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - A new, simpler alternative to clj-new
@@ -793,6 +794,7 @@
 
 ## Java 
 
+- [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish.
