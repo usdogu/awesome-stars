@@ -112,6 +112,7 @@
 
 ## C 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [LordNoteworthy/windows-internals](https://github.com/LordNoteworthy/windows-internals) - My notes while studying Windows internals
