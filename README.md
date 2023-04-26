@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [Battelle/REpsych](https://github.com/Battelle/REpsych) - Psychological warfare in reverse engineering
 - [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
@@ -1456,7 +1457,7 @@
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-- [theiceshelf/firn](https://github.com/theiceshelf/firn) - Org Mode Static Site Generator
+- [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
 - [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing orgmode files.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
