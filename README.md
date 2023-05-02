@@ -219,7 +219,7 @@
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
 - [MishaProductions/Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [torchgm/RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [Erisa/RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [Andy53/ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) - An Xdbg Plugin of the ERC Library.
 - [sunwm518/VMProtect-3-5-DEvirt](https://github.com/sunwm518/VMProtect-3-5-DEvirt) - VMProtect, VMP, Devirter, 3,5
 - [Malwation/ConfuserEx2-String-Fixer](https://github.com/Malwation/ConfuserEx2-String-Fixer) - String Fixer for ConfuserEx2
@@ -328,7 +328,7 @@
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump) - A dynamic VMP dumper and import fixer, powered by VTIL.
-- [uwu-bot/Dishonored-Trainer](https://github.com/uwu-bot/Dishonored-Trainer) - An internal DLL trainer for the game "Dishonored"
+- [rainy-seasons/Dishonored-Trainer](https://github.com/rainy-seasons/Dishonored-Trainer) - An internal DLL trainer for the game "Dishonored"
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [zyhp/vac3_inhibitor](https://github.com/zyhp/vac3_inhibitor) - VAC3 (Valve Anti-Cheat) disabler/inhibitor/bypass
@@ -914,6 +914,7 @@
 
 ## Jupyter Notebook 
 
+- [vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl) - Remove unwanted objects and restore images without prompts, powered by ControlNet.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
 - [mevlutseran/Turkce-Duygu-Takibi](https://github.com/mevlutseran/Turkce-Duygu-Takibi) - Türkçe duygu analizi ile imaj takibi yapan çalışmamız
@@ -1168,6 +1169,7 @@
 
 ## Python 
 
+- [greyblue9/unpyc37-3.10](https://github.com/greyblue9/unpyc37-3.10) - Minor tweaks to get this excellent Python bytecode decompiler running under Python 3.8-3.10
 - [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - A free and open source alternative Ekşi Sözlük front-end
 - [user1342/Obfu-DE-Scate](https://github.com/user1342/Obfu-DE-Scate) - Obfu[DE]scate is a de-obfuscation tool for Android APKs that uses fuzzy comparison logic to identify similarities between functions, even if they have been renamed as part of obfuscation. It compares 
 - [cyberark/MITM_Intercept](https://github.com/cyberark/MITM_Intercept) - A little bit less hackish way to intercept and modify non-HTTP protocols through Burp & others.
