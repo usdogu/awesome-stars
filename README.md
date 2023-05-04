@@ -825,6 +825,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
@@ -1840,6 +1841,7 @@
 
 ## Zig 
 
+- [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
 - [MasterQ32/ZTT](https://github.com/MasterQ32/ZTT) - Precompiled Zig text template engine
 - [ziglibs/treez](https://github.com/ziglibs/treez) - tree-sitter bindings for Zig
 - [ziglibs/repository](https://github.com/ziglibs/repository) - A community-maintained repository of zig packages
