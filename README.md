@@ -282,6 +282,7 @@
 
 ## C++ 
 
+- [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
@@ -1334,6 +1335,7 @@
 
 ## Rust 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [arduano/simdeez](https://github.com/arduano/simdeez) - easy simd
 - [oxalica/async-ffi](https://github.com/oxalica/async-ffi) - FFI-compatible futures
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
@@ -1429,7 +1431,7 @@
 - [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [melix99/telegrand](https://github.com/melix99/telegrand) - Chat over Telegram on a modern and elegant client
+- [marhkb/telegrand](https://github.com/marhkb/telegrand) - Chat over Telegram on a modern and elegant client
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
 - [pseuxide/toy-arms](https://github.com/pseuxide/toy-arms) - :nut_and_bolt: my simple game hack components in Rust
