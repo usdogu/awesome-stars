@@ -1616,7 +1616,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [JoyMoe/archiver-rs](https://github.com/JoyMoe/archiver-rs) - A library for easy interaction with multiple archive formats
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - The speed-of-thought server management bot for Discord.
+- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - Discord Server Management. Reimagined.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
