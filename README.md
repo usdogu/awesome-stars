@@ -113,6 +113,7 @@
 
 ## C 
 
+- [valadaptive/uwurandom](https://github.com/valadaptive/uwurandom) - Like /dev/urandom, but objectively better
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
 - [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
@@ -286,7 +287,6 @@
 
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
-- [Alukym/VMProtect-Source](https://github.com/Alukym/VMProtect-Source) - Source of VMProtect (NOT OFFICIALLY)
 - [prsyahmi/GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive) - RamDrive that is backed by GPU Memory
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
@@ -1064,6 +1064,7 @@
 
 ## Others 
 
+- [birlikteihracat/freelancerin-finansal-yol-haritasi](https://github.com/birlikteihracat/freelancerin-finansal-yol-haritasi) - Upwork ve Fiverr üzerinden ihracat yapan Freelancer'in şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası.
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [cassanof/safe-llvm](https://github.com/cassanof/safe-llvm) - LLVM Without The ROP Gadgets!
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
@@ -1108,7 +1109,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/TheBlackCookie-is-epic](https://github.com/Explosion-Scratch/TheBlackCookie-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/xCykrix-is-epic](https://github.com/Explosion-Scratch/xCykrix-is-epic) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1347,6 +1348,9 @@
 
 ## Rust 
 
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- [parker-codes/todo_by](https://github.com/parker-codes/todo_by) - Compile-time lifetimes for comments.
+- [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol
