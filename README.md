@@ -328,7 +328,7 @@
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [momo5502/boiii](https://github.com/momo5502/boiii) - ☄️ An attempt at reverse engineering and analyzing Call of Duty: Black Ops 3
+- [momo5502/boiii](https://github.com/momo5502/boiii) - ☄️ A Call of Duty: Black Ops 3 modification
 - [ajkhoury/SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) - IDA Pro 7 compatible SigMaker plugin
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [odamex/odamex](https://github.com/odamex/odamex) - Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.
@@ -567,6 +567,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -1866,6 +1867,7 @@
 
 ## Zig 
 
+- [vrischmann/zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig
 - [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
 - [MasterQ32/ZTT](https://github.com/MasterQ32/ZTT) - Precompiled Zig text template engine
 - [ziglibs/treez](https://github.com/ziglibs/treez) - tree-sitter bindings for Zig
