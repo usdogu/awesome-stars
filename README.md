@@ -401,6 +401,7 @@
 
 ## Clojure 
 
+- [htihospitality/re-dash](https://github.com/htihospitality/re-dash) - A ClojureDart (re)framework for building user interfaces, leveraging Flutter
 - [cognitect/transit-format](https://github.com/cognitect/transit-format) - A data interchange format.
 - [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
