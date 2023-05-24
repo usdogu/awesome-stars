@@ -1005,7 +1005,7 @@
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 - [Yardanico/nim-strenc](https://github.com/Yardanico/nim-strenc) - A tiny library to automatically encrypt string literals in Nim code
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
-- [openpeep/klymene](https://github.com/openpeep/klymene) - WIP - Build delightful command line interfaces. Written in Nim language 👑
+- [openpeeps/klymene](https://github.com/openpeeps/klymene) - WIP - Build delightful command line interfaces. Written in Nim language 👑
 - [xigoi/nimdenter](https://github.com/xigoi/nimdenter) - A tool for people who don't like Nim's indentation-based syntax
 - [Niminem/Py2Nim](https://github.com/Niminem/Py2Nim) - Py2Nim is a tool to translate Python code to Nim. The output is human-readable Nim code, meant to be tweaked by hand after the translation process.
 - [nim-works/nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
