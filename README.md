@@ -817,6 +817,7 @@
 
 ## Java 
 
+- [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
@@ -1004,7 +1005,7 @@
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 - [Yardanico/nim-strenc](https://github.com/Yardanico/nim-strenc) - A tiny library to automatically encrypt string literals in Nim code
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
-- [openpeeps/klymene](https://github.com/openpeeps/klymene) - WIP - Build delightful command line interfaces. Written in Nim language 👑
+- [openpeeps/kapsis](https://github.com/openpeeps/kapsis) - Yet Another CLI builder - Build delightful command line interfaces in seconds. Written in Nim language 👑
 - [xigoi/nimdenter](https://github.com/xigoi/nimdenter) - A tool for people who don't like Nim's indentation-based syntax
 - [Niminem/Py2Nim](https://github.com/Niminem/Py2Nim) - Py2Nim is a tool to translate Python code to Nim. The output is human-readable Nim code, meant to be tweaked by hand after the translation process.
 - [nim-works/nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
@@ -1367,6 +1368,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [parker-codes/todo_by](https://github.com/parker-codes/todo_by) - Compile-time lifetimes for comments.
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
