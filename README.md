@@ -571,6 +571,7 @@
 
 ## Go 
 
+- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
@@ -1887,6 +1888,7 @@
 
 ## Zig 
 
+- [SoraTenshi/zigwin-console](https://github.com/SoraTenshi/zigwin-console) - A simple console-spawner for Windows. Usually used for debugging DLLs
 - [vrischmann/zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig
 - [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
 - [MasterQ32/ZTT](https://github.com/MasterQ32/ZTT) - Precompiled Zig text template engine
