@@ -287,6 +287,7 @@
 
 ## C++ 
 
+- [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
 - [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
 - [Speedi13/ROP-COMPILER](https://github.com/Speedi13/ROP-COMPILER) - ROP based CSGO, BF3, BF4 cheat
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
