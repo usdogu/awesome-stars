@@ -984,7 +984,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -1076,6 +1076,7 @@
 
 ## Objective-C 
 
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [illusionofchaos/ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day) - iOS gamed exploit (fixed in 15.0.2)
