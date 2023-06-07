@@ -775,7 +775,7 @@
 
 ## HTML 
 
-- [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - A free and open source alternative Ekşi Sözlük front-end
+- [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - A free and open source alternative ekşi sözlük front-end
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - Get a direct download link from Yandex.Disk
 - [acikkaynak/afet-org](https://github.com/acikkaynak/afet-org) - 
@@ -1375,6 +1375,7 @@
 
 ## Rust 
 
+- [FrameworkComputer/inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - Framework Laptop 16 Input Module SW/FW
 - [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
