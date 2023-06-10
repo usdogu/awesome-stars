@@ -715,7 +715,7 @@
 - [ysmood/gson](https://github.com/ysmood/gson) - A tiny JSON lib to read and alter a JSON value.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
-- [savaley/excel2json](https://github.com/savaley/excel2json) - Excel to json so easily, read from local source or remote source
+- [FerdinaKusumah/excel2json](https://github.com/FerdinaKusumah/excel2json) - Excel to json so easily, read from local source or remote source
 - [b4b4r07/go-pipe](https://github.com/b4b4r07/go-pipe) - Unix-like pipelines for Go
 - [70xH/Kat-OH](https://github.com/70xH/Kat-OH) - (WIP) A Huge Fetch
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
@@ -755,7 +755,7 @@
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [Gyro7/gofetch](https://github.com/Gyro7/gofetch) - Gofetch is a pretty command-line "Go and System information" tool written in Go
+- [liamtoaldo/gofetch](https://github.com/liamtoaldo/gofetch) - Gofetch is a pretty command-line "Go and System information" tool written in Go
 - [yakuter/go-concurrency](https://github.com/yakuter/go-concurrency) - This repos has lots of Go concurrency, goroutine and channel usage and best practice examples
 - [auula/sms_bomber](https://github.com/auula/sms_bomber) - sms bomber.
 - [games647/GopherProxyChecker](https://github.com/games647/GopherProxyChecker) - Checks socks (socket 4/5) proxies from popular proxy lists.
@@ -851,6 +851,7 @@
 
 ## JavaScript 
 
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
@@ -1781,6 +1782,8 @@
 
 ## TypeScript 
 
+- [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
+- [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
