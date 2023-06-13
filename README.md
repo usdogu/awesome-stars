@@ -289,6 +289,7 @@
 
 ## C++ 
 
+- [momo5502/desktop-frame](https://github.com/momo5502/desktop-frame) - 🖼 Render HTML pages as desktop wallpaper
 - [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
 - [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
 - [Speedi13/ROP-COMPILER](https://github.com/Speedi13/ROP-COMPILER) - ROP based CSGO, BF3, BF4 cheat
@@ -1041,6 +1042,7 @@
 
 ## Nix 
 
+- [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [danielbarter/mini_compile_commands](https://github.com/danielbarter/mini_compile_commands) - 
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=?]
