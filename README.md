@@ -650,7 +650,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [amo13/Anarchy-Droid](https://github.com/amo13/Anarchy-Droid) - One-Click Android Rom Installation Assistant
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [liamg/extrude](https://github.com/liamg/extrude) - :detective: Analyse binaries for missing security features, information disclosure and more...
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1136,7 +1136,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/danielnewell-starred-this-repo](https://github.com/Explosion-Scratch/danielnewell-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/MaterArc-is-awesome](https://github.com/Explosion-Scratch/MaterArc-is-awesome) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1790,6 +1790,7 @@
 
 ## TypeScript 
 
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
@@ -1843,7 +1844,7 @@
 - [screepers/typed-screeps](https://github.com/screepers/typed-screeps) - Strong TypeScript declarations for the game Screeps.
 - [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter) - Starter kit for TypeScript-based Screeps AI codes.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue + Swif
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
@@ -1910,6 +1911,7 @@
 
 ## Zig 
 
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [SoraTenshi/zigwin-console](https://github.com/SoraTenshi/zigwin-console) - A simple console-spawner for Windows. Usually used for debugging DLLs
 - [vrischmann/zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig
 - [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
