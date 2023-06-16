@@ -289,6 +289,7 @@
 
 ## C++ 
 
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [momo5502/desktop-frame](https://github.com/momo5502/desktop-frame) - 🖼 Render HTML pages as desktop wallpaper
 - [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
 - [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
@@ -1915,6 +1916,7 @@
 
 ## Zig 
 
+- [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [SoraTenshi/zigwin-console](https://github.com/SoraTenshi/zigwin-console) - A simple console-spawner for Windows. Usually used for debugging DLLs
