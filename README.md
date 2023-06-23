@@ -1399,6 +1399,7 @@
 
 ## Rust 
 
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
