@@ -291,6 +291,7 @@
 
 ## C++ 
 
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [momo5502/desktop-frame](https://github.com/momo5502/desktop-frame) - 🖼 Render HTML pages as desktop wallpaper
 - [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
@@ -807,7 +808,6 @@
 - [keyiflerolsun/Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi) - Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası
 - [KMACEL/Gopher](https://github.com/KMACEL/Gopher) - Bulunan Gopher Resimleri :D
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-- [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
 
 ## Handlebars 
 
