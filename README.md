@@ -1110,6 +1110,7 @@
 
 ## Others 
 
+- [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) - Python 3.9 to 3.11 installers that support Windows 7 SP1 and Windows Server 2008 R2
 - [FUE5BASE/FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
