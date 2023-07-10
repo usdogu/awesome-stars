@@ -1413,6 +1413,7 @@
 
 ## Rust 
 
+- [shadyfennec/stupidalloc](https://github.com/shadyfennec/stupidalloc) - A stupid Rust memory allocator
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
