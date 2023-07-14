@@ -193,7 +193,7 @@
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console base
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
-- [DanteAlighierin/foot](https://github.com/DanteAlighierin/foot) - Mirror: A fast, lightweight and minimalistic Wayland terminal emulator
+- [DanteAlighierin/foot](https://github.com/DanteAlighierin/foot) - Unofficial Mirror: A fast, lightweight and minimalistic Wayland terminal emulator
 - [vinszent/gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
@@ -1834,6 +1834,7 @@
 
 ## TypeScript 
 
+- [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
