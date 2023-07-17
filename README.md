@@ -1433,7 +1433,7 @@
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [FrameworkComputer/inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - Framework Laptop 16 Input Module SW/FW
-- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
