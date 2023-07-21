@@ -363,7 +363,6 @@
 - [pfusik/cito](https://github.com/pfusik/cito) - Ć programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 - [rajatjain1997/subprocess](https://github.com/rajatjain1997/subprocess) - A C++ high level library for running shell processes
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [last-byte/unDefender](https://github.com/last-byte/unDefender) - Killing your preferred antimalware by abusing native symbolic links and NT paths.
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [m4x1m1l14n/Registry](https://github.com/m4x1m1l14n/Registry) - C++ wrapper for manipulating Windows registry
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
@@ -1419,6 +1418,7 @@
 
 ## Rust 
 
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) - Cross compile Cargo project to Windows MSVC target with ease
 - [shadyfennec/stupidalloc](https://github.com/shadyfennec/stupidalloc) - A stupid Rust memory allocator
