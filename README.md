@@ -1544,7 +1544,7 @@
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [XToripuru/wird](https://github.com/XToripuru/wird) - Write Javascript with inlined Rust that will later become Wasm
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
