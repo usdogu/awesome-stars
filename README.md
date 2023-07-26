@@ -287,6 +287,7 @@
 
 ## C++ 
 
+- [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 - [Wunkolo/UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications at run-time to bypass encrypted file system protection.
 - [CookiePLMonster/SilentPatchScarface](https://github.com/CookiePLMonster/SilentPatchScarface) - SilentPatch for Scarface: The World is Yours
 - [ners/nix-monitored](https://github.com/ners/nix-monitored) - A transparent wrapper around Nix that pipes its output through Nix Output Monitor
