@@ -172,7 +172,7 @@
 - [jku/connman](https://github.com/jku/connman) - ConnMan - Connection Manager
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
