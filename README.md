@@ -226,9 +226,9 @@
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
-- [MishaProductions/Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
+- [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [Erisa/RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [Andy53/ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) - An Xdbg Plugin of the ERC Library.
 - [sunwm518/VMProtect-3-5-DEvirt](https://github.com/sunwm518/VMProtect-3-5-DEvirt) - VMProtect, VMP, Devirter, 3,5
 - [Malwation/ConfuserEx2-String-Fixer](https://github.com/Malwation/ConfuserEx2-String-Fixer) - String Fixer for ConfuserEx2
