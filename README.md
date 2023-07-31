@@ -358,6 +358,7 @@
 - [BitCrackers/AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
 - [dretax/GarHal_CSGO](https://github.com/dretax/GarHal_CSGO) - A project that demonstrates how to screw with CSGO from Kernel Space. (CSGO Kernel Cheat/Hack) All cleaned up, and with updated offsets.
 - [GameHackingBook/GameHackingCode](https://github.com/GameHackingBook/GameHackingCode) - Example code for the book http://www.nostarch.com/gamehacking . PLEASE READ THE README
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Jackbail4/VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass) - Full VAC Bypass. Inject detected cheats and not get VAC banned.
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -1067,6 +1068,7 @@
 
 ## Nix 
 
+- [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [juspay/cachix-push](https://github.com/juspay/cachix-push) - A flake app that can push packages and devshells to cachix
@@ -1252,6 +1254,7 @@
 
 ## Python 
 
+- [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) - MOVEit CVE-2023-34362
@@ -1554,7 +1557,6 @@
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [XToripuru/wird](https://github.com/XToripuru/wird) - Write Javascript with inlined Rust that will later become Wasm
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
