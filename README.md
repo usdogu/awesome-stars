@@ -1618,7 +1618,7 @@
 - [Owez/argi](https://github.com/Owez/argi) - Argument parsing for the future 🚀
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
@@ -1972,6 +1972,7 @@
 
 ## Zig 
 
+- [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
@@ -1991,7 +1992,7 @@
 - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
-- [david-vanderson/gui](https://github.com/david-vanderson/gui) - 
+- [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - 
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
 - [zigtools/sus](https://github.com/zigtools/sus) - Hunt down sus zls activity by spamming zls with hot req/notif garbage
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
