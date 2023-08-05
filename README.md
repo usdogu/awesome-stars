@@ -358,7 +358,6 @@
 - [BitCrackers/AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
 - [dretax/GarHal_CSGO](https://github.com/dretax/GarHal_CSGO) - A project that demonstrates how to screw with CSGO from Kernel Space. (CSGO Kernel Cheat/Hack) All cleaned up, and with updated offsets.
 - [GameHackingBook/GameHackingCode](https://github.com/GameHackingBook/GameHackingCode) - Example code for the book http://www.nostarch.com/gamehacking . PLEASE READ THE README
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Jackbail4/VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass) - Full VAC Bypass. Inject detected cheats and not get VAC banned.
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -1431,6 +1430,7 @@
 
 ## Rust 
 
+- [chawyehsu/hok](https://github.com/chawyehsu/hok) - Hok is a CLI implementation of Scoop in Rust
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
@@ -1773,6 +1773,7 @@
 ## Scala 
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Shell 
 
@@ -1852,7 +1853,7 @@
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
 - [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
