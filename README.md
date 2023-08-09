@@ -1102,7 +1102,7 @@
 - [flyx/Zicross](https://github.com/flyx/Zicross) - Nix Flake for cross-compiling and packaging for foreign systems
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau]
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
-- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
@@ -1708,7 +1708,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [erhanbaris/karamel](https://github.com/erhanbaris/karamel) - Karamel Programlama Dili
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [neg4n/trickster](https://github.com/neg4n/trickster) - user-friendly linux memory hacking library
+- [neg4n/trickster](https://github.com/neg4n/trickster) - user-friendly linux memory debugging library
 - [Tarbetu/tararchiever-rb](https://github.com/Tarbetu/tararchiever-rb) - A Tar File Archiever and Compresser for Ruby
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
@@ -1900,7 +1900,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [csdojo-defaang/defaang](https://github.com/csdojo-defaang/defaang) - A website that will curate recently-asked interview questions from FAANG+ to help people practice & prep! (Currently inactive)
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
