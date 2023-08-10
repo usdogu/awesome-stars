@@ -1973,6 +1973,7 @@
 
 ## Zig 
 
+- [figsoda/zon2nix](https://github.com/figsoda/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
