@@ -1062,7 +1062,7 @@
 - [StefanSalewski/gintro](https://github.com/StefanSalewski/gintro) - High level GObject-Introspection based GTK3/GTK4 bindings for Nim language
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
 - [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) - A window manager written in Nim (In Development)
-- [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
+- [khchen/winim](https://github.com/khchen/winim) - Windows API, COM, and CLR Module for Nim
 - [nim-lang/c2nim](https://github.com/nim-lang/c2nim) - c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 
