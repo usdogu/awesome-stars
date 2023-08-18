@@ -1174,7 +1174,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/creazy231-is-awesome](https://github.com/Explosion-Scratch/creazy231-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/BayBreezy-starred-this-repo](https://github.com/Explosion-Scratch/BayBreezy-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1495,7 +1495,7 @@
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
 - [buraksenyurt/game-dev-with-rust](https://github.com/buraksenyurt/game-dev-with-rust) - Game development practices with Rust programming language. I want to use different crates for this.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -1884,7 +1884,7 @@
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
-- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
+- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed X / Twitter videos, polls, and more on Discord and Telegram
 - [justarandomgeek/vscode-factoriomod-debug](https://github.com/justarandomgeek/vscode-factoriomod-debug) - Factorio Mod Tool Kit
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
