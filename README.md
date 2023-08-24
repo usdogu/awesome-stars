@@ -1255,6 +1255,7 @@
 
 ## Python 
 
+- [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -1431,6 +1432,7 @@
 
 ## Rust 
 
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) - Hok is a CLI implementation of Scoop in Rust
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -1850,6 +1852,7 @@
 
 ## TypeScript 
 
+- [jehna/humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
