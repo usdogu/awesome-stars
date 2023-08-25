@@ -764,7 +764,7 @@
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [pry0cc/soxy](https://github.com/pry0cc/soxy) - Multi-threaded socks proxy checker written in Go!
-- [searKing/golang](https://github.com/searKing/golang) - Useful libs or tools for Golang
+- [searKing/golang](https://github.com/searKing/golang) - various libs or tools for Golang
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
@@ -963,6 +963,7 @@
 
 ## Jupyter Notebook 
 
+- [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl) - Remove unwanted objects and restore images without prompts, powered by ControlNet.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
@@ -1978,6 +1979,7 @@
 
 ## Zig 
 
+- [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [travisstaloch/simdjzon](https://github.com/travisstaloch/simdjzon) - simdjson port to zig
 - [figsoda/zon2nix](https://github.com/figsoda/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
