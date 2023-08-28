@@ -1185,7 +1185,7 @@
 - [angrave/SystemProgramming](https://github.com/angrave/SystemProgramming) - Angrave's Crowd-Sourced System Programming Book used at UIUC
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
 - [alirizaadiyahsi/refactoring-guide-in-turkish](https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish) - Türkçe refactoring kılavuzu
-- [ozkanonur/vs-deepdark-material](https://github.com/ozkanonur/vs-deepdark-material) - A clean dark material theme for Visual Studio 2022 IDE
+- [onur-ozkan/vs-deepdark-material](https://github.com/onur-ozkan/vs-deepdark-material) - A clean dark material theme for Visual Studio 2022 IDE
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [godotengine/godot-syntax-themes](https://github.com/godotengine/godot-syntax-themes) - Syntax themes for the Godot Engine script editor
@@ -1213,7 +1213,6 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [RustDili/Rust-Ogrenmek](https://github.com/RustDili/Rust-Ogrenmek) - Dumindu Madunuwan'ın Learning Rust adlı çalışmasının Türkçe çevirisi
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
@@ -1768,6 +1767,7 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [shepmaster/rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
+- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 
 ## Sass 
