@@ -222,6 +222,7 @@
 
 ## C# # 
 
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
@@ -1128,6 +1129,7 @@
 
 ## Others 
 
+- [Pittvandewitt/Wavelet](https://github.com/Pittvandewitt/Wavelet) - A quick rundown on each feature and its settings
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) - Python 3.9 to 3.11 installers that support Windows 7 SP1 and Windows Server 2008 R2
 - [FUE5BASE/FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
@@ -1856,6 +1858,7 @@
 
 ## TypeScript 
 
+- [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
 - [jehna/humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
@@ -1984,7 +1987,7 @@
 
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [travisstaloch/simdjzon](https://github.com/travisstaloch/simdjzon) - simdjson port to zig
-- [figsoda/zon2nix](https://github.com/figsoda/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression
+- [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
