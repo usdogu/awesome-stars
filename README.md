@@ -870,6 +870,7 @@
 
 ## JavaScript 
 
+- [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [edankwan/penis.js](https://github.com/edankwan/penis.js) - 
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1089,7 +1090,7 @@
 - [numtide/nixpkgs-unfree](https://github.com/numtide/nixpkgs-unfree) - nixpkgs with the unfree bits enabled
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [danielbarter/mini_compile_commands](https://github.com/danielbarter/mini_compile_commands) - 
-- [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer]
 - [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=?]
 - [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
