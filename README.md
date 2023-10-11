@@ -1150,7 +1150,7 @@
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [Pittvandewitt/Wavelet](https://github.com/Pittvandewitt/Wavelet) - A quick rundown on each feature and its settings
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) - Python 3.9 to 3.11 installers that support Windows 7 SP1 and Windows Server 2008 R2
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) - Python 3.9+ installers that support Windows 7 SP1 and Windows Server 2008 R2
 - [FUE5BASE/FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [Svenskithesource/awesome-python-re](https://github.com/Svenskithesource/awesome-python-re) - A curated list of awesome Python reverse engineering libraries, tools and resources
@@ -1278,6 +1278,7 @@
 
 ## Python 
 
+- [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - AI Aimbot - ML Aimbot
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
@@ -2010,6 +2011,7 @@
 
 ## Zig 
 
+- [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [travisstaloch/simdjzon](https://github.com/travisstaloch/simdjzon) - simdjson port to zig
