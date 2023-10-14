@@ -519,7 +519,7 @@
 
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 - [icepuma/rust-action](https://github.com/icepuma/rust-action) - Rust github action
 
 ## Elixir 
@@ -1279,6 +1279,7 @@
 
 ## Python 
 
+- [DoranekoSystems/frida-ceserver](https://github.com/DoranekoSystems/frida-ceserver) - Frida-based ceserver: A fusion of Cheat Engine and Frida.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - AI Aimbot - ML Aimbot
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
@@ -1676,7 +1677,7 @@
 - [alok8bb/cloneit](https://github.com/alok8bb/cloneit) - A cli tool to download specific GitHub directories or files
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
@@ -1910,7 +1911,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
