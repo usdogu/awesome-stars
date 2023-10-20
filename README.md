@@ -409,6 +409,7 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [xfbs/diff.rs](https://github.com/xfbs/diff.rs) - Web application (WASM) to render a diff between Rust crate versions.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [blackode/elixir-tips](https://github.com/blackode/elixir-tips) - The Killer Elixir Tips and Tricks...from the experience...
@@ -817,7 +818,6 @@
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ardacarofficial/links-website](https://github.com/ardacarofficial/links-website) - List all your links on one website.
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
 - [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium
 - [setetres/evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite) - 💋 This is an even better motherfucking website.
@@ -1281,6 +1281,7 @@
 
 ## Python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DoranekoSystems/frida-ceserver](https://github.com/DoranekoSystems/frida-ceserver) - Frida-based ceserver: A fusion of Cheat Engine and Frida.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - AI Aimbot - CSGO, CS2, Valorant, Fornite, everygame
