@@ -988,7 +988,6 @@
 - [vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl) - Remove unwanted objects and restore images without prompts, powered by ControlNet.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
-- [mevlutseran/Turkce-Duygu-Takibi](https://github.com/mevlutseran/Turkce-Duygu-Takibi) - Türkçe duygu analizi ile imaj takibi yapan çalışmamız
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 
