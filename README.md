@@ -883,6 +883,7 @@
 
 ## JavaScript 
 
+- [chung-leong/zigar](https://github.com/chung-leong/zigar) - Enable the use of Zig code in JavaScript project
 - [uilicious/inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email inbox powered by serverless mailgun kittens
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [edankwan/penis.js](https://github.com/edankwan/penis.js) - 
@@ -1039,7 +1040,7 @@
 ## MDX 
 
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1285,7 +1286,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DoranekoSystems/frida-ceserver](https://github.com/DoranekoSystems/frida-ceserver) - Frida-based ceserver: A fusion of Cheat Engine and Frida.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
-- [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - AI Aimbot - CSGO, CS2, Valorant, Fornite, everygame
+- [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - AI Aimbot - CSGO, CS2, Valorant, Fortnite, every game
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -1955,7 +1956,7 @@
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
