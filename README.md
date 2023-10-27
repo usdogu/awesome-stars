@@ -409,7 +409,6 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [xfbs/diff.rs](https://github.com/xfbs/diff.rs) - Web application (WASM) to render a diff between Rust crate versions.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [blackode/elixir-tips](https://github.com/blackode/elixir-tips) - The Killer Elixir Tips and Tricks...from the experience...
@@ -818,6 +817,7 @@
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ardacarofficial/links-website](https://github.com/ardacarofficial/links-website) - List all your links on one website.
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
 - [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium
 - [setetres/evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite) - 💋 This is an even better motherfucking website.
@@ -1283,6 +1283,7 @@
 
 ## Python 
 
+- [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python src2src obfuscation engine built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DoranekoSystems/frida-ceserver](https://github.com/DoranekoSystems/frida-ceserver) - Frida-based ceserver: A fusion of Cheat Engine and Frida.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
@@ -1591,7 +1592,7 @@
 - [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
 - [pseuxide/toy-arms](https://github.com/pseuxide/toy-arms) - :nut_and_bolt: tried rust for game hack
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
@@ -1892,7 +1893,7 @@
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
 - [jehna/humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
-- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
