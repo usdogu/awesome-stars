@@ -524,7 +524,7 @@
 
 ## Elixir 
 
-- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) - Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView
 - [philss/rustler_precompiled](https://github.com/philss/rustler_precompiled) - Use precompiled NIFs from trusted sources in your Elixir code
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
@@ -1236,7 +1236,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
+- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
 - [RustDili/Rust-Ogrenmek](https://github.com/RustDili/Rust-Ogrenmek) - Dumindu Madunuwan'ın Learning Rust adlı çalışmasının Türkçe çevirisi
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
