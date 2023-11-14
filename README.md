@@ -1630,7 +1630,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
-- [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing orgmode files.
+- [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing org-mode files.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
