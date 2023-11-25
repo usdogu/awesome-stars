@@ -1282,6 +1282,7 @@
 
 ## Python 
 
+- [p1ay8y3ar/idaBingGPTPlugin](https://github.com/p1ay8y3ar/idaBingGPTPlugin) - Use the free Microsoft bing's gpt with ida pro, to perform free analyzes!
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python src2src obfuscation engine built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
