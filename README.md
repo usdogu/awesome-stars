@@ -113,6 +113,7 @@
 
 ## C 
 
+- [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [CherniakYura/tccurl](https://github.com/CherniakYura/tccurl) - Implement include header files over https
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
@@ -358,7 +359,7 @@
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump) - A dynamic VMP dumper and import fixer, powered by VTIL.
 - [rainy-seasons/Dishonored-Trainer](https://github.com/rainy-seasons/Dishonored-Trainer) - An internal DLL trainer for the game "Dishonored"
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -538,7 +539,7 @@
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
 - [dwyl/learn-phoenix-framework](https://github.com/dwyl/learn-phoenix-framework) - :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
 - [podium/elixir-secure-coding](https://github.com/podium/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir
 - [maxneuvians/pique](https://github.com/maxneuvians/pique) - An elixir SMTP server that makes message inspection easier
 - [tompave/fun_with_flags](https://github.com/tompave/fun_with_flags) - Feature Flags/Toggles for Elixir
@@ -1408,7 +1409,7 @@
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [utkusen/turkce-wordlist](https://github.com/utkusen/turkce-wordlist) - Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
@@ -1473,6 +1474,7 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [RaitoBezarius/buildxyz](https://github.com/RaitoBezarius/buildxyz) - Build your Nix package automatically
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
@@ -1617,7 +1619,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create and use cli based on bash script
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create and use cli that based on bashscript.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
