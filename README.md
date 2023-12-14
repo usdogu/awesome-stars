@@ -657,6 +657,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sterchelen/hssp](https://github.com/sterchelen/hssp) - CLI to avoid remembering the http status codes
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [NexusPulseLabs/ProxyScout](https://github.com/NexusPulseLabs/ProxyScout) - Grabbing between 6000 - 10000 unique proxies & Find active proxies less than 5 minutes (depends on your network and hardware)
 - [liamg/dismember](https://github.com/liamg/dismember) - :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -993,6 +994,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl) - Remove unwanted objects and restore images without prompts, powered by ControlNet.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
@@ -1053,7 +1055,6 @@
 
 - [fabioarnold/nfd-zig](https://github.com/fabioarnold/nfd-zig) - OS-native file dialogs on Linux, macOS and Windows
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [NexusPulseLabs/ProxyScout](https://github.com/NexusPulseLabs/ProxyScout) - Grabbing between 6000 - 10000 unique proxies & Find active proxies less than 5 minutes (depends on your network and hardware)
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [mwenge/defender](https://github.com/mwenge/defender) - Defender(1981) by Eugene Jarvis and Sam Dicker
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
@@ -1874,6 +1875,7 @@
 
 ## Svelte 
 
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 
