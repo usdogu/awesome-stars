@@ -1289,6 +1289,7 @@
 
 ## Python 
 
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [LAC-Japan/IDA_Plugin_AntiDebugSeeker](https://github.com/LAC-Japan/IDA_Plugin_AntiDebugSeeker) - Automatically identify and extract potential anti-debugging techniques used by malware.
 - [p1ay8y3ar/idaBingGPTPlugin](https://github.com/p1ay8y3ar/idaBingGPTPlugin) - Use the free Microsoft bing's gpt with ida pro, to perform free analyzes!
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
