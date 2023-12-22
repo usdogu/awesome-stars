@@ -225,6 +225,7 @@
 
 ## C# # 
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [oureveryday/Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
@@ -283,7 +284,6 @@
 - [PcapDotNet/Pcap.Net](https://github.com/PcapDotNet/Pcap.Net) - .NET wrapper for WinPcap written in C++/CLI and C#, which features almost all WinPcap features and includes a packet interpretation framework.
 - [gircore/gir.core](https://github.com/gircore/gir.core) - A C# binding generator for GObject based libraries providing a C# friendly API surface
 - [gpailler/MegaApiClient](https://github.com/gpailler/MegaApiClient) - MegaApiClient is a C# .Net library to access http://mega.co.nz / http://mega.nz cloud storage and file hosting service.
-- [BlazeBullet/BlazeBullet](https://github.com/BlazeBullet/BlazeBullet) - OpenBullet2 reinvented
 - [liltoba/OB2Plugin](https://github.com/liltoba/OB2Plugin) - This Test Plugin For OpenBullet2
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
 - [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
@@ -1290,6 +1290,7 @@
 
 ## Python 
 
+- [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [LAC-Japan/IDA_Plugin_AntiDebugSeeker](https://github.com/LAC-Japan/IDA_Plugin_AntiDebugSeeker) - Automatically identify and extract potential anti-debugging techniques used by malware.
 - [p1ay8y3ar/idaBingGPTPlugin](https://github.com/p1ay8y3ar/idaBingGPTPlugin) - Use the free Microsoft bing's gpt with ida pro, to perform free analyzes!
@@ -1646,7 +1647,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
-- [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing org-mode files.
+- [PoiScript/orgize](https://github.com/PoiScript/orgize) - Org-mode toolkit written in Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
