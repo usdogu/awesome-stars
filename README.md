@@ -261,7 +261,7 @@
 - [b68h4/CoderatorDrive.Backend](https://github.com/b68h4/CoderatorDrive.Backend) - Coderator Drive - Google Drive File Browser (Backend)
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [bytecode77/self-morphing-csharp-binary](https://github.com/bytecode77/self-morphing-csharp-binary) - Executable that mutates its own code
-- [glazerdesktop/GlazeWM](https://github.com/glazerdesktop/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 - [wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
@@ -815,7 +815,6 @@
 - [nevesnunes/ghidra-plays-mario](https://github.com/nevesnunes/ghidra-plays-mario) - Playing NES ROMs with Ghidra's PCode Emulator
 - [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - A free and open source alternative ekşi sözlük front-end
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
-- [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - Get a direct download link from Yandex.Disk
 - [acikyazilimagi/afet-org](https://github.com/acikyazilimagi/afet-org) - 
 - [Tarbetu/gentle-intro](https://github.com/Tarbetu/gentle-intro) - Turkish Translation of Gentle Intro | "Gentle Intro'nun Türkçe" çevirisi
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -907,6 +906,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - Get a direct download link from Yandex.Disk
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -1935,7 +1935,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
-- [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
+- [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
@@ -1947,7 +1947,7 @@
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
-- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+- [FixTweet/FxTwitter](https://github.com/FixTweet/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [justarandomgeek/vscode-factoriomod-debug](https://github.com/justarandomgeek/vscode-factoriomod-debug) - Factorio Mod Tool Kit
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
