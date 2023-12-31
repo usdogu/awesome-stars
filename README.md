@@ -888,6 +888,7 @@
 
 ## JavaScript 
 
+- [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Skidrowreloaded and SteamRIP)
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [chung-leong/zigar](https://github.com/chung-leong/zigar) - Enable the use of Zig code in JavaScript project
@@ -1488,7 +1489,7 @@
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CLR  IR, enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) - Hok is a CLI implementation of Scoop in Rust
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
