@@ -236,7 +236,6 @@
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
-- [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [Andy53/ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg) - An Xdbg Plugin of the ERC Library.
@@ -913,6 +912,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 - [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - Get a direct download link from Yandex.Disk
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
@@ -1792,7 +1792,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [JoyMoe/archiver-rs](https://github.com/JoyMoe/archiver-rs) - A library for easy interaction with multiple archive formats
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - Discord Server Management. Reimagined.
+- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - Discord server management, reimagined.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
