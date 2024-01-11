@@ -296,6 +296,7 @@
 
 ## C++ 
 
+- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr) - Modern build system based on CMake and TOML.
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [chromium/subspace](https://github.com/chromium/subspace) - A concept-centered standard library for C++20, enabling safer and more reliable products and a more modern feel for C++ code.; Also home of Subdoc the code-documentation generator.
@@ -542,7 +543,7 @@
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
 - [dwyl/learn-phoenix-framework](https://github.com/dwyl/learn-phoenix-framework) - :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
 - [podium/elixir-secure-coding](https://github.com/podium/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir
 - [maxneuvians/pique](https://github.com/maxneuvians/pique) - An elixir SMTP server that makes message inspection easier
 - [tompave/fun_with_flags](https://github.com/tompave/fun_with_flags) - Feature Flags/Toggles for Elixir
@@ -605,7 +606,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - ⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [dropalldatabases/sif](https://github.com/dropalldatabases/sif) - 🚀 blazing-fast pentesting suite written in Go
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [wwhtrbbtt/TrackMe](https://github.com/wwhtrbbtt/TrackMe) - 
