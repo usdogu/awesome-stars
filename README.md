@@ -543,7 +543,7 @@
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
 - [dwyl/learn-phoenix-framework](https://github.com/dwyl/learn-phoenix-framework) - :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [podium/elixir-secure-coding](https://github.com/podium/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir
 - [maxneuvians/pique](https://github.com/maxneuvians/pique) - An elixir SMTP server that makes message inspection easier
 - [tompave/fun_with_flags](https://github.com/tompave/fun_with_flags) - Feature Flags/Toggles for Elixir
@@ -893,6 +893,7 @@
 
 ## JavaScript 
 
+- [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -1839,6 +1840,7 @@
 
 ## Shell 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
