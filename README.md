@@ -113,6 +113,7 @@
 
 ## C 
 
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [defuse/swatd](https://github.com/defuse/swatd) - Run a script when one or more sensors fail.
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -1299,6 +1300,7 @@
 
 ## Python 
 
+- [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - Web application for Freedium.cfd
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
