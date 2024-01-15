@@ -1381,7 +1381,6 @@
 - [0xgalz/Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
-- [Naruno/Naruno](https://github.com/Naruno/Naruno) - Naruno is an lightning-fast, secure, and scalable blockchain that able to creating transaction proofs and verification via raw data and timestamp. We remove the archive nodes and lazy web3 integration
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [avengy/hcaptcha-bypass-discord](https://github.com/avengy/hcaptcha-bypass-discord) - Bypass Hcaptcha Purely based on http requests, Creates unlocked discord accounts if used correctly
