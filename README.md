@@ -42,6 +42,7 @@
 - [M4](#m4)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -893,6 +894,7 @@
 
 ## JavaScript 
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [AXeL-dev/distract-me-not](https://github.com/AXeL-dev/distract-me-not) - :no_entry: A lightweight website blocker with a user friendly interface
 - [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
@@ -1070,6 +1072,10 @@
 - [mwenge/defender](https://github.com/mwenge/defender) - Defender(1981) by Eugene Jarvis and Sam Dicker
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 
+## NCL 
+
+- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
+
 ## Nim 
 
 - [iffy/wiish](https://github.com/iffy/wiish) - Why Is It So Hard (to make a cross-platform app)?
@@ -1133,7 +1139,6 @@
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [sweenu/nixfiles](https://github.com/sweenu/nixfiles) - NixOS home and servers configuration
-- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
 - [jurraca/nix-phoenix](https://github.com/jurraca/nix-phoenix) - Nix tools for Elixir's Phoenix web framework
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -1494,6 +1499,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) - Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
