@@ -117,7 +117,6 @@
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [defuse/swatd](https://github.com/defuse/swatd) - Run a script when one or more sensors fail.
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [CherniakYura/tccurl](https://github.com/CherniakYura/tccurl) - implement include header files over https
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [microsoft/winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
@@ -197,7 +196,7 @@
 - [mncoppola/suterusu](https://github.com/mncoppola/suterusu) - An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [dreamer/scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
-- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [xfce-mirror/xfce4-clipman-plugin](https://github.com/xfce-mirror/xfce4-clipman-plugin) - Mirror repository, PRs are not watched, please use Xfce's GitLab
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -1162,6 +1161,7 @@
 
 ## Objective-C 
 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
@@ -1960,7 +1960,7 @@
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
