@@ -899,7 +899,6 @@
 - [AXeL-dev/distract-me-not](https://github.com/AXeL-dev/distract-me-not) - :no_entry: A lightweight website blocker with a user friendly interface
 - [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [chung-leong/zigar](https://github.com/chung-leong/zigar) - Enable the use of Zig code in JavaScript project
 - [uilicious/inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email inbox powered by serverless mailgun kittens
@@ -1311,7 +1310,6 @@
 ## Python 
 
 - [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
-- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - Web application for Freedium.cfd
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
@@ -1933,6 +1931,7 @@
 
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
@@ -2104,7 +2103,7 @@
 - [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
+- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 
 
