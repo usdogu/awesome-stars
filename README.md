@@ -1143,6 +1143,7 @@
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
@@ -1865,7 +1866,6 @@
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
-- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena OS is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [Lassulus/nix-autobahn](https://github.com/Lassulus/nix-autobahn) - 
@@ -2009,7 +2009,7 @@
 - [CyCraft/vue-intellisense](https://github.com/CyCraft/vue-intellisense) - A CLI tool to help enabling IntelliSense on your Vue components
 - [bobbylkchao/bison-local-data-offline-proxy](https://github.com/bobbylkchao/bison-local-data-offline-proxy) - This opensource project is the local data request proxy. Written by TypeScript, is used to implement offline browsing of the app. The data proxy will be responsible for data request, creation, destruc
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [gura-conf/gura](https://github.com/gura-conf/gura) - Gura configuration language
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
