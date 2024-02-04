@@ -330,7 +330,7 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [gammasoft71/xtd](https://github.com/gammasoft71/xtd) - Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [sam-b/windows_kernel_address_leaks](https://github.com/sam-b/windows_kernel_address_leaks) - Examples of leaking Kernel Mode information from User Mode on Windows
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
@@ -1502,6 +1502,7 @@
 
 ## Rust 
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) - Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library
@@ -2062,6 +2063,7 @@
 
 ## Zig 
 
+- [cztomsik/tokamak](https://github.com/cztomsik/tokamak) - Server-side framework for Zig, relying heavily on dependency injection.
 - [aqrit/sse2zig](https://github.com/aqrit/sse2zig) - SSE intrinsics for ziglang
 - [SuperAuguste/zig-design-patterns](https://github.com/SuperAuguste/zig-design-patterns) - Common Zig patterns for you and your friends :)
 - [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
