@@ -1232,7 +1232,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/vedantecomm-is-epic](https://github.com/Explosion-Scratch/vedantecomm-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/devxan-starred-this-repo](https://github.com/Explosion-Scratch/devxan-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [seal9055/resources](https://github.com/seal9055/resources) - Collection of resources I have used throughout my studies (cybersecurity and systems)
@@ -1314,6 +1314,7 @@
 
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - Web application for Freedium.cfd
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
@@ -1502,6 +1503,7 @@
 
 ## Rust 
 
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) - Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
@@ -1512,7 +1514,7 @@
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) - CLI reimplementation of Scoop in Rust
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
