@@ -114,6 +114,7 @@
 
 ## C 
 
+- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [defuse/swatd](https://github.com/defuse/swatd) - Run a script when one or more sensors fail.
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
@@ -993,6 +994,7 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [JsSucks/BetterDiscordApp](https://github.com/JsSucks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [Jiiks/BetterDiscordApp](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [bladefist/JsonUtils](https://github.com/bladefist/JsonUtils) - Json to C#, VB.Net, Javascript and SQL Server Table
 - [gkandemi/docker](https://github.com/gkandemi/docker) - Kablosuzkedi Kanalındaki Docker Serisi için Hazırlanmış Dokümantasyondur
@@ -1262,7 +1264,6 @@
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [flutterturkey/flutter-rehberi](https://github.com/flutterturkey/flutter-rehberi) - Flutter için Türkçe ve İngilizce kaynakların toplandığı rehber
-- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -1503,6 +1504,7 @@
 
 ## Rust 
 
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
