@@ -255,7 +255,6 @@
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [Recoo31/Blu-Pin-Kirici-CSharp](https://github.com/Recoo31/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
 - [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
-- [BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed](https://github.com/BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed) - Edited copy of cawks confuserex unpacker, support more than your averageprogram
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [knah/Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) - A tool to generate Managed-&gt;IL2CPP proxy assemblies
 - [CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies
