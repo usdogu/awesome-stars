@@ -2073,6 +2073,7 @@
 
 ## Zig 
 
+- [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
 - [cztomsik/tokamak](https://github.com/cztomsik/tokamak) - Server-side framework for Zig, relying heavily on dependency injection.
 - [aqrit/sse2zig](https://github.com/aqrit/sse2zig) - SSE intrinsics for ziglang
 - [SuperAuguste/zig-design-patterns](https://github.com/SuperAuguste/zig-design-patterns) - Common Zig patterns for you and your friends :)
