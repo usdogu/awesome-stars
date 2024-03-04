@@ -1944,7 +1944,6 @@
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
