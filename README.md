@@ -99,6 +99,8 @@
 
 ## Batchfile 
 
+- [GenP-V/Acropolis](https://github.com/GenP-V/Acropolis) - The script to install Adobe Acrobat Pro x64
+- [GenP-V/CC-ToolBox](https://github.com/GenP-V/CC-ToolBox) - 
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
