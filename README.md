@@ -1179,6 +1179,7 @@
 
 ## Others 
 
+- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [necatiergin/CPP_PUZZLES](https://github.com/necatiergin/CPP_PUZZLES) - Modern C++ puzzles.
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
