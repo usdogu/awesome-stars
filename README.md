@@ -1270,7 +1270,6 @@
 - [flutterturkey/flutter-rehberi](https://github.com/flutterturkey/flutter-rehberi) - Flutter için Türkçe ve İngilizce kaynakların toplandığı rehber
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
@@ -1912,6 +1911,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [RPM-Outpost/discord](https://github.com/RPM-Outpost/discord) - RPM Package for discord
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
@@ -1955,7 +1955,7 @@
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
-- [jehna/humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
