@@ -134,7 +134,7 @@
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
 - [LordNoteworthy/windows-internals](https://github.com/LordNoteworthy/windows-internals) - My notes while studying Windows internals
 - [LordNoteworthy/cpu-internals](https://github.com/LordNoteworthy/cpu-internals) - Intel / AMD CPU Internals
 - [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
@@ -228,6 +228,7 @@
 
 ## C# # 
 
+- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
 - [pointfeev/CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -1343,7 +1344,7 @@
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ekilmer/remusing_cpp](https://github.com/ekilmer/remusing_cpp) - Remove `using` declarations and refactor unqualified symbols in C++ code.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1660,7 +1661,7 @@
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [XToripuru/wird](https://github.com/XToripuru/wird) - Write Javascript with inlined Rust that will later become Wasm
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text
-- [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
+- [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
