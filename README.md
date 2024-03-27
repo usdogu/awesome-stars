@@ -1513,6 +1513,7 @@
 
 ## Rust 
 
+- [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
