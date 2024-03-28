@@ -1810,7 +1810,7 @@
 - [erhanbaris/karamel](https://github.com/erhanbaris/karamel) - Karamel Programlama Dili
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [neg4n/trickster](https://github.com/neg4n/trickster) - user-friendly linux memory debugging library
-- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [JayceFayne/swayipc-rs](https://github.com/JayceFayne/swayipc-rs) - A library for controlling sway through its IPC interface
