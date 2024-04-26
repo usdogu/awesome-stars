@@ -36,6 +36,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
@@ -1021,6 +1022,10 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+
 ## Kotlin 
 
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -1051,7 +1056,7 @@
 - [Geend/long-reach](https://github.com/Geend/long-reach) - This is a mod for Factorio that lets you reach things that are far away.
 - [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
 - [modded-factorio/bobsmods](https://github.com/modded-factorio/bobsmods) - Factorio mods by Bobingabout
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
@@ -1107,7 +1112,7 @@
 - [bluenote10/NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing
 - [mratsim/weave](https://github.com/mratsim/weave) - A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead
 - [yglukhov/iface](https://github.com/yglukhov/iface) - 
-- [Glasses-Neo/OOlib](https://github.com/Glasses-Neo/OOlib) - A nimble package for object-oriented programming
+- [glassesneo/OOlib](https://github.com/glassesneo/OOlib) - A nimble package for object-oriented programming
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 - [PMunch/futhark](https://github.com/PMunch/futhark) - Automatic wrapping of C headers in Nim
@@ -1880,7 +1885,6 @@
 
 ## Shell 
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
