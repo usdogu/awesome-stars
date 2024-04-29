@@ -1961,6 +1961,7 @@
 
 ## TypeScript 
 
+- [grammyjs/telegram.tools](https://github.com/grammyjs/telegram.tools) - Web-based tools for Telegram developers.
 - [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
