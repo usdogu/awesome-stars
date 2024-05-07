@@ -343,7 +343,7 @@
 - [Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
 - [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12 D3D12 (D3D11, D3D10 and maybe Vulkan will be added later)
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-- [guided-hacking/GH-Injector-Library](https://github.com/guided-hacking/GH-Injector-Library) - A feature rich DLL injection library.
+- [guided-hacking/GuidedHacking-Injector](https://github.com/guided-hacking/GuidedHacking-Injector) - The BEST DLL Injector Library.
 - [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr) - heavily vectorized c++17 compile time string encryption.
 - [mactec0/Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT) - Manual mapping without creating any threads, with rw only access
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
@@ -1963,6 +1963,7 @@
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
