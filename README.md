@@ -135,7 +135,7 @@
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [LordNoteworthy/windows-internals](https://github.com/LordNoteworthy/windows-internals) - My notes while studying Windows internals
 - [LordNoteworthy/cpu-internals](https://github.com/LordNoteworthy/cpu-internals) - Intel / AMD CPU Internals
 - [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
@@ -437,7 +437,7 @@
 - [cognitect/transit-format](https://github.com/cognitect/transit-format) - A data interchange format.
 - [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
-- [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - A new, simpler alternative to clj-new
+- [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - Create new projects for the Clojure CLI / deps.edn
 - [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [jacekschae/shadow-cljs-tailwindcss](https://github.com/jacekschae/shadow-cljs-tailwindcss) - shadow-cljs + tailwindcss
@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
@@ -1700,7 +1701,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
-- [PoiScript/orgize](https://github.com/PoiScript/orgize) - Org-mode toolkit written in Rust.
+- [PoiScript/orgize](https://github.com/PoiScript/orgize) - A Rust library for parsing org-mode files.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
