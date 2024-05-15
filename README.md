@@ -1790,7 +1790,7 @@
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) - An implementation of a socket.io client written in the Rust programming language.
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
-- [YohananDiamond/rootblocks](https://github.com/YohananDiamond/rootblocks) - a spiritual successor to dwmblocks
+- [yohannd1/rootblocks](https://github.com/yohannd1/rootblocks) - a spiritual successor to dwmblocks
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
