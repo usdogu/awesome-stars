@@ -177,6 +177,7 @@
 - [danielkrupinski/VAC](https://github.com/danielkrupinski/VAC) - Source code of Valve Anti-Cheat obtained from disassembly of compiled modules
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
+- [DK22Pac/plugin-sdk](https://github.com/DK22Pac/plugin-sdk) - An SDK for developing ASI/CLEO plugins for GTA San Andreas, GTA Vice City and GTA III
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [jku/connman](https://github.com/jku/connman) - ConnMan - Connection Manager
@@ -380,7 +381,6 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Jackbail4/VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass) - Full VAC Bypass. Inject detected cheats and not get VAC banned.
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
-- [DK22Pac/plugin-sdk](https://github.com/DK22Pac/plugin-sdk) - An SDK for developing ASI/CLEO plugins for GTA San Andreas, GTA Vice City and GTA III
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [fusionlanguage/fut](https://github.com/fusionlanguage/fut) - Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 - [rajatjain1997/subprocess](https://github.com/rajatjain1997/subprocess) - A C++ high level library for running shell processes
