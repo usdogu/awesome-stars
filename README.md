@@ -611,7 +611,6 @@
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
-- [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - ⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -807,7 +806,6 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [liamtoaldo/gofetch](https://github.com/liamtoaldo/gofetch) - Gofetch is a pretty command-line "Go and System information" tool written in Go
 - [yakuter/go-concurrency](https://github.com/yakuter/go-concurrency) - This repos has lots of Go concurrency, goroutine and channel usage and best practice examples
-- [auula/sms_bomber](https://github.com/auula/sms_bomber) - sms bomber.
 - [games647/GopherProxyChecker](https://github.com/games647/GopherProxyChecker) - Checks socks (socket 4/5) proxies from popular proxy lists.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [hugolgst/rich-go](https://github.com/hugolgst/rich-go) - Discord Rich Presence implementation for Linux, macOS and Windows in Golang
@@ -1522,6 +1520,7 @@
 
 ## Rust 
 
+- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
@@ -1939,7 +1938,7 @@
 
 ## Svelte 
 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 
