@@ -107,7 +107,6 @@
 - [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - A cross-platform Spicetify theme which declutters Spotify stock UI and removes all ads.
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
 
 ## Brainfuck 
@@ -922,7 +921,6 @@
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
@@ -967,6 +965,7 @@
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
+- [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - A cross-platform Spicetify theme which declutters Spotify stock UI and removes all ads.
 - [alpcanaydin/githubist](https://github.com/alpcanaydin/githubist) - Github developer, location, language and repo stats for Turkey.
 - [sevenc-nanashi/gh-material-icon](https://github.com/sevenc-nanashi/gh-material-icon) - This extension replaces the icon of GitHub with icon in Material Icon Theme extension!
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1356,6 +1355,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ekilmer/remusing_cpp](https://github.com/ekilmer/remusing_cpp) - Remove `using` declarations and refactor unqualified symbols in C++ code.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Anof-cyber/Androset](https://github.com/Anof-cyber/Androset) - Automated script to convert and push Burp Suite certificate in Android, and modify Android's IP table to redirect all traffic to Burp Suite.
 - [greyblue9/unpyc37-3.10](https://github.com/greyblue9/unpyc37-3.10) - Minor tweaks to get this excellent Python bytecode decompiler running under Python 3.8-3.10
 - [user1342/Obfu-DE-Scate](https://github.com/user1342/Obfu-DE-Scate) - Obfu[DE]scate is a de-obfuscation tool for Android APKs that uses fuzzy comparison logic to identify similarities between functions, even if they have been renamed as part of obfuscation. It compares 
@@ -2025,7 +2025,7 @@
 - [csdojo-defaang/defaang](https://github.com/csdojo-defaang/defaang) - A website that will curate recently-asked interview questions from FAANG+. Currently inactive. Check out: https://github.com/ykdojo/OpenStream
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [screepers/typed-screeps](https://github.com/screepers/typed-screeps) - Strong TypeScript declarations for the game Screeps.
