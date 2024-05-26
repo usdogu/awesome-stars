@@ -266,7 +266,6 @@
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [bytecode77/self-morphing-csharp-binary](https://github.com/bytecode77/self-morphing-csharp-binary) - Executable that mutates its own code
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
-- [wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [ElektroKill/ILProtectorUnpacker](https://github.com/ElektroKill/ILProtectorUnpacker) - A dnlib port of ILProtectorUnpacker. Contains slight modifications and improvements.
