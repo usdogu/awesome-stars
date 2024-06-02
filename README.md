@@ -901,6 +901,7 @@
 
 ## JavaScript 
 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [MattCozendey/doom-console-log](https://github.com/MattCozendey/doom-console-log) - 🕹️ DOOM rendered via console.log() in a web browser.
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
