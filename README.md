@@ -700,7 +700,7 @@
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [liamg/extrude](https://github.com/liamg/extrude) - :detective: Analyse binaries for missing security features, information disclosure and more...
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [liamg/memit](https://github.com/liamg/memit) - :no_entry_sign::floppy_disk: Run binaries straight from memory in Linux
 - [pacur/pacur](https://github.com/pacur/pacur) - Automated deb, rpm and pkgbuild build system
 - [emilioastarita/lyricfier2](https://github.com/emilioastarita/lyricfier2) - Search lyrics for Spotify app | New version in golang
