@@ -115,6 +115,7 @@
 
 ## C 
 
+- [robertdavidgraham/wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 - [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -1380,7 +1381,7 @@
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 - [tzolkincz/colorblind-async](https://github.com/tzolkincz/colorblind-async) - 
-- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's GPT language models to speed up reverse-engineering
+- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries uses language models to speed up reverse-engineering
 - [tanmoysrt/lumi](https://github.com/tanmoysrt/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
