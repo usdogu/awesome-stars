@@ -301,6 +301,7 @@
 
 ## C++ 
 
+- [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - LLVM - Deluge
 - [GANGE666/xVMP](https://github.com/GANGE666/xVMP) - 
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
 - [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
