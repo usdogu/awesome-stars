@@ -513,7 +513,7 @@
 
 - [nt4f04uNd/sweyer](https://github.com/nt4f04uNd/sweyer) - Music player built with Flutter
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [KhalidWar/anonaddy](https://github.com/KhalidWar/anonaddy) - Mobile app for AnonAddy.com.
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
