@@ -1475,7 +1475,6 @@
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
-- [j-hc/Reddit-Tweet-Linker-Bot](https://github.com/j-hc/Reddit-Tweet-Linker-Bot) - it finds tweet links. the code is ugly but it works
 - [oconnor663/duct.py](https://github.com/oconnor663/duct.py) - a Python library for running child processes
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
 - [openSUSE/opi](https://github.com/openSUSE/opi) - OBS Package Installer (CLI)
