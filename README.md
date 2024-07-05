@@ -419,6 +419,7 @@
 
 ## CSS 
 
+- [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [b374k/b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [xfbs/diff.rs](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly.
@@ -694,7 +695,7 @@
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1333,6 +1334,7 @@
 
 ## Python 
 
+- [hgarrereyn/STRIDE](https://github.com/hgarrereyn/STRIDE) - 
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [junron/auto-enum](https://github.com/junron/auto-enum) - IDA Plugin to automatically identify and set enums for standard functions
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -1533,7 +1535,6 @@
 
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-- [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
