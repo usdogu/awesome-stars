@@ -915,7 +915,6 @@
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [AXeL-dev/distract-me-not](https://github.com/AXeL-dev/distract-me-not) - :no_entry: A lightweight website blocker with a user friendly interface
 - [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
-- [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [chung-leong/zigar](https://github.com/chung-leong/zigar) - Enable the use of Zig code in JavaScript project
 - [uilicious/inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email inbox powered by serverless mailgun kittens
@@ -1334,6 +1333,7 @@
 
 ## Python 
 
+- [goatmilkkk/nuitka-helper](https://github.com/goatmilkkk/nuitka-helper) - Symbol Recovery Tool for Nuitka Binaries
 - [hgarrereyn/STRIDE](https://github.com/hgarrereyn/STRIDE) - simple type recognition in decompiled executables
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [junron/auto-enum](https://github.com/junron/auto-enum) - IDA Plugin to automatically identify and set enums for standard functions
@@ -1344,7 +1344,7 @@
 - [aniketrajnish/MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
-- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - Web application for Freedium.cfd
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
@@ -1981,6 +1981,7 @@
 
 ## TypeScript 
 
+- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute javascript code in a webassembly quickjs sandbox
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
