@@ -115,6 +115,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [robertdavidgraham/wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 - [0x0mer/doom-htop](https://github.com/0x0mer/doom-htop) - The classic DOOM game over htop, the text-based process viewer
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -1254,7 +1255,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [Explosion-Scratch/quervyloll-is-a-unicorn](https://github.com/Explosion-Scratch/quervyloll-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/xyzbtw-is-epic](https://github.com/Explosion-Scratch/xyzbtw-is-epic) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
