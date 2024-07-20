@@ -1520,6 +1520,7 @@
 
 ## Ruby 
 
+- [GSA/search-gov](https://github.com/GSA/search-gov) - Source code for the GSA's Search.gov search engine
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -1535,7 +1536,6 @@
 
 ## Rust 
 
-- [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) - Wipe files and drives securely with random ASCII dicks
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
