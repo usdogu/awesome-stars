@@ -192,7 +192,7 @@
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [rdbo/libmem](https://github.com/rdbo/libmem) - Advanced Game Hacking Library for C, Modern C++, Rust and Python (Windows/Linux/FreeBSD) (Process/Memory Hacking) (Hooking/Detouring) (Cross Platform) (x86/x64/ARM/ARM64) (DLL/SO Injection) (Internal/
-- [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
+- [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -959,7 +959,6 @@
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [cpriest/SnapLinksPlus](https://github.com/cpriest/SnapLinksPlus) - Snap Links Plus is a Browser Addon that lets you  lasso links, checkboxes and other  elements do things with them.
@@ -1064,6 +1063,7 @@
 - [Geend/long-reach](https://github.com/Geend/long-reach) - This is a mod for Factorio that lets you reach things that are far away.
 - [Arch666Angel/mods](https://github.com/Arch666Angel/mods) - Angelsmods Repository
 - [modded-factorio/bobsmods](https://github.com/modded-factorio/bobsmods) - Factorio mods by Bobingabout
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
