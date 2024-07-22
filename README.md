@@ -322,7 +322,7 @@
 - [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
 - [Speedi13/ROP-COMPILER](https://github.com/Speedi13/ROP-COMPILER) - ROP based CSGO, BF3, BF4 cheat
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [prsyahmi/GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive) - RamDrive that is backed by GPU Memory
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
