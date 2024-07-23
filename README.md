@@ -1342,7 +1342,6 @@
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [jakespringer/angr_ctf](https://github.com/jakespringer/angr_ctf) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [aniketrajnish/MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
@@ -1548,6 +1547,7 @@
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
