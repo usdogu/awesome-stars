@@ -301,6 +301,7 @@
 
 ## C++ 
 
+- [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - 
 - [herosi/classinformer-ida8](https://github.com/herosi/classinformer-ida8) - IDA Class Informer plugin for IDA 8.x
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - LLVM - Deluge
@@ -915,6 +916,7 @@
 
 ## JavaScript 
 
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
