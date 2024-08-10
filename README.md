@@ -1147,7 +1147,7 @@
 
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
@@ -1433,7 +1433,6 @@
 - [joeleong/ida-referee](https://github.com/joeleong/ida-referee) - 
 - [RolfRolles/Miscellaneous](https://github.com/RolfRolles/Miscellaneous) - Small programs and scripts that do not require their own repositories
 - [Accenture/protobuf-finder](https://github.com/Accenture/protobuf-finder) - IDA Pro plugin for reconstructing original .proto files from binary.
-- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [0xgalz/Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
