@@ -1347,6 +1347,7 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [jiacai2050/video-compress](https://github.com/jiacai2050/video-compress) - Compress video by 90% without losing much quality, similar to what Pied Piper achieves.
 - [goatmilkkk/nuitka-helper](https://github.com/goatmilkkk/nuitka-helper) - Symbol Recovery Tool for Nuitka Binaries
 - [hgarrereyn/STRIDE](https://github.com/hgarrereyn/STRIDE) - simple type recognition in decompiled executables
@@ -1469,7 +1470,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ignis-sec/spotify-sync](https://github.com/ignis-sec/spotify-sync) - Sync RGB devices to your spotify songs. Sync your keyboard, sync your headset, sync your mouse, sync your toaster, sync your toilet, sync your hours developing this project, i dont judge.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
-- [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+- [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
 - [fetchcord/FetchCord](https://github.com/fetchcord/FetchCord) - FetchCord grabs your OS info and displays it as Discord Rich Presence
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
