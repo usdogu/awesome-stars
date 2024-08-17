@@ -301,6 +301,7 @@
 
 ## C++ 
 
+- [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 8.x
 - [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - 
 - [herosi/classinformer-ida8](https://github.com/herosi/classinformer-ida8) - IDA Class Informer plugin for IDA 8.x
@@ -1551,6 +1552,7 @@
 
 ## Rust 
 
+- [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [yanganto/struct-patch](https://github.com/yanganto/struct-patch) - A lib help you patch Rust instance, and easy to partial update configures.
