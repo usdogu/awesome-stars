@@ -302,7 +302,7 @@
 ## C++ 
 
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
-- [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 8.x
+- [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 8.x and 9.x
 - [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations
 - [herosi/classinformer-ida8](https://github.com/herosi/classinformer-ida8) - IDA Class Informer plugin for IDA 8.x
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -651,7 +651,7 @@
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector
 - [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [ebitengine/purego](https://github.com/ebitengine/purego) - 
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [yuin/glel](https://github.com/yuin/glel) - Expression evaluation with Lua for Go
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
