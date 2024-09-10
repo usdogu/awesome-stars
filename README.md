@@ -1743,7 +1743,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [marcusbuffett/pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
-- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀
+- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI/GUI applications written in Rust 🦀
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
