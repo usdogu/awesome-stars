@@ -1155,6 +1155,7 @@
 
 ## Nix 
 
+- [VanCoding/nix-prisma-utils](https://github.com/VanCoding/nix-prisma-utils) - A nix library to make [prisma](https://www.prisma.io/) work in your nix shell
 - [tfc/nixos-auto-installer](https://github.com/tfc/nixos-auto-installer) - Build recipe for an unattended, offline capable USB-bootable NixOS installer to bootstrap random computers
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
@@ -1377,7 +1378,6 @@
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) - Python utility for parsing Xamarin AssemblyStore blob files
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [LAC-Japan/IDA_Plugin_AntiDebugSeeker](https://github.com/LAC-Japan/IDA_Plugin_AntiDebugSeeker) - Automatically identify and extract potential anti-debugging techniques used by malware.
-- [p1ay8y3ar/idaBingGPTPlugin](https://github.com/p1ay8y3ar/idaBingGPTPlugin) - Use the free Microsoft bing's gpt with ida pro, to perform free analyzes!
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python obfuscator built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -1447,6 +1447,7 @@
 - [joeleong/ida-referee](https://github.com/joeleong/ida-referee) - 
 - [RolfRolles/Miscellaneous](https://github.com/RolfRolles/Miscellaneous) - Small programs and scripts that do not require their own repositories
 - [Accenture/protobuf-finder](https://github.com/Accenture/protobuf-finder) - IDA Pro plugin for reconstructing original .proto files from binary.
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [0xgalz/Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [CheckPointSW/Karta](https://github.com/CheckPointSW/Karta) - Karta - source code assisted fast binary matching plugin for IDA
@@ -2095,7 +2096,7 @@
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
-- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Display your Discord Presence in your GitHub Profile
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
