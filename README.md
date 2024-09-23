@@ -1023,7 +1023,7 @@
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [az0mb13/frida_setup](https://github.com/az0mb13/frida_setup) - One-click installer for Frida and Burp certs for SSL Pinning bypass
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [JsSucks/BetterDiscordApp](https://github.com/JsSucks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
