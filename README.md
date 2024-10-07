@@ -304,7 +304,7 @@
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 8.x and 9.x
 - [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations
-- [herosi/classinformer-ida8](https://github.com/herosi/classinformer-ida8) - IDA Class Informer plugin for IDA 8.x
+- [herosi/classinformer](https://github.com/herosi/classinformer) - IDA Class Informer plugin for IDA 8.x and 9.x
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge) - LLVM - Deluge
 - [GANGE666/xVMP](https://github.com/GANGE666/xVMP) - 
