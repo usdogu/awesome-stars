@@ -1370,7 +1370,7 @@
 - [goatmilkkk/nuitka-helper](https://github.com/goatmilkkk/nuitka-helper) - Symbol Recovery Tool for Nuitka Binaries
 - [hgarrereyn/STRIDE](https://github.com/hgarrereyn/STRIDE) - simple type recognition in decompiled executables
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
-- [junron/auto-enum](https://github.com/junron/auto-enum) - IDA Plugin to automatically identify and set enums for standard functions
+- [junron/auto-enum](https://github.com/junron/auto-enum) - IDA/Binary Ninja Plugin to automatically identify and set enums for standard functions
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [jakespringer/angr_ctf](https://github.com/jakespringer/angr_ctf) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
