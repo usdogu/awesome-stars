@@ -373,7 +373,7 @@
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [odamex/odamex](https://github.com/odamex/odamex) - Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
-- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
+- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump) - A dynamic VMP dumper and import fixer, powered by VTIL.
@@ -1903,7 +1903,7 @@
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [rust-cli/man](https://github.com/rust-cli/man) - Generate structured man pages
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
