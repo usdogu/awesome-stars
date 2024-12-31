@@ -733,7 +733,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1005,7 +1005,7 @@
 
 ## deno 
 
-- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
+- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more! mirror; main repo on codeberg.org/teidesu/mtcute
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -1111,7 +1111,7 @@
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
 ## dotnet 
 
@@ -2580,7 +2580,7 @@
 ## nodejs 
 
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
-- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
+- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more! mirror; main repo on codeberg.org/teidesu/mtcute
 - [chung-leong/zigar](https://github.com/chung-leong/zigar) - Enable the use of Zig code in JavaScript project
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -2767,7 +2767,7 @@
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [edankwan/penis.js](https://github.com/edankwan/penis.js) - 
 - [Pittvandewitt/Wavelet](https://github.com/Pittvandewitt/Wavelet) - A quick rundown on each feature and its settings
-- [chromium/subspace](https://github.com/chromium/subspace) - A concept-centered standard library for C++20, enabling safer and more reliable products and a more modern feel for C++ code.; Also home of Subdoc the code-documentation generator.
+- [chromium/subspace](https://github.com/chromium/subspace) - A concept-centered standard library for C++20, enabling safer and more reliable products and a more modern feel for C++ code; Also home of Subdoc the code-documentation generator.
 - [microsoft/winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
@@ -3849,7 +3849,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [yanganto/struct-patch](https://github.com/yanganto/struct-patch) - A lib help you patch Rust instance, and easy to partial update configures.
-- [JMP-0xFF/wipedicks](https://github.com/JMP-0xFF/wipedicks) - Wipe files and drives securely with random ASCII dicks
+- [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) - Wipe files and drives securely with random ASCII dicks
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
@@ -4197,7 +4197,7 @@
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4286,7 +4286,7 @@
 
 ## telegram 
 
-- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
+- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more! mirror; main repo on codeberg.org/teidesu/mtcute
 - [grammyjs/telegram.tools](https://github.com/grammyjs/telegram.tools) - Web-based tools for Telegram developers.
 - [grmjs/grm](https://github.com/grmjs/grm) - MTProto API Client for Deno 🦕
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
@@ -4364,7 +4364,7 @@
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -4400,7 +4400,7 @@
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
-- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
+- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more! mirror; main repo on codeberg.org/teidesu/mtcute
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
