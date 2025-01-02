@@ -92,7 +92,7 @@
 - [xbinner18P/leachim6S](https://github.com/xbinner18P/leachim6S) - Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md …
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
 ## Awk 
 
@@ -660,6 +660,7 @@
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [picosh/pico](https://github.com/picosh/pico) - services that empower developers using ssh
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1954,7 +1955,6 @@
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [leap0x7b/shutthefetchup](https://github.com/leap0x7b/shutthefetchup) - A minimal fetch tool to tell all users who posts those annoying fetch BS on r/linux to shut the fuck up.
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [soctrungkien/MagiskOnWSA](https://github.com/soctrungkien/MagiskOnWSA) - Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
