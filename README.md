@@ -906,6 +906,7 @@
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler) - Play with Google Play API :)
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
+- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [shatyuka/Killergram](https://github.com/shatyuka/Killergram) - Remove sponsored messages of Telegram
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
@@ -1461,7 +1462,6 @@
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) - Flutter Reverse Engineering Framework
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [mborgerson/mdec](https://github.com/mborgerson/mdec) - Decompilation as a Service. Explore multiple decompilers and compare their output with minimal effort. Upload binary, get decompilation.
-- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
