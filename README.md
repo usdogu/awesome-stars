@@ -301,7 +301,6 @@
 
 - [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
-- [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 9.x and 8.x
 - [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations
 - [herosi/classinformer](https://github.com/herosi/classinformer) - IDA Class Informer plugin for IDA 8.x and 9.x
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -344,7 +343,7 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [gammasoft71/xtd](https://github.com/gammasoft71/xtd) - Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications and libraries on Microsoft Windows, Apple macOS and Linux.
-- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [sam-b/windows_kernel_address_leaks](https://github.com/sam-b/windows_kernel_address_leaks) - Examples of leaking Kernel Mode information from User Mode on Windows
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
@@ -921,7 +920,7 @@
 
 ## JavaScript 
 
-- [arthurfiorette/proposal-safe-assignment-operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator) - Draft for ECMAScript Error Safe Assignment Operator
+- [arthurfiorette/proposal-try-statements](https://github.com/arthurfiorette/proposal-try-statements) - Draft for ECMAScript Error Safe Assignment Operator
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) - An extension for checking if .git is exposed in visited websites
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
@@ -1690,7 +1689,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rodrigocfd/winsafe](https://github.com/rodrigocfd/winsafe) - Windows API and GUI in safe, idiomatic Rust.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
