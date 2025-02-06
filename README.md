@@ -1447,7 +1447,7 @@
 - [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
 - [Svenskithesource/PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) - A deobfuscator for PyArmor.
 - [codingo/Interlace](https://github.com/codingo/Interlace) - Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
-- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [joeleong/ida-referee](https://github.com/joeleong/ida-referee) - 
 - [RolfRolles/Miscellaneous](https://github.com/RolfRolles/Miscellaneous) - Small programs and scripts that do not require their own repositories
 - [Accenture/protobuf-finder](https://github.com/Accenture/protobuf-finder) - IDA Pro plugin for reconstructing original .proto files from binary.
