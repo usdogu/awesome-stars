@@ -164,6 +164,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -613,17 +614,17 @@
 
 ## chatbot 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 
 ## chatgpt 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## chatgpt-api 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 
 ## chrome 
 
@@ -2612,6 +2613,10 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
 
+## numpy 
+
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
+
 ## objective-c 
 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
@@ -2634,7 +2639,7 @@
 
 ## openai 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -2660,7 +2665,7 @@
 
 ## operating-system 
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 ## osint 
@@ -2732,7 +2737,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [necatiergin/CPP_PUZZLES](https://github.com/necatiergin/CPP_PUZZLES) - Modern C++ puzzles.
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) - Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -3776,7 +3781,7 @@
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python obfuscator built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [user1342/Obfu-DE-Scate](https://github.com/user1342/Obfu-DE-Scate) - Obfu[DE]scate is a de-obfuscation tool for Android APKs that uses fuzzy comparison logic to identify similarities between functions, even if they have been renamed as part of obfuscation. It compares 
 - [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
@@ -4026,7 +4031,7 @@
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
@@ -4353,7 +4358,7 @@
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
