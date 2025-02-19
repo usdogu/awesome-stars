@@ -105,7 +105,7 @@
 - [GenP-V/Acropolis](https://github.com/GenP-V/Acropolis) - The script to install Adobe Acrobat Pro x64
 - [GenP-V/CC-ToolBox](https://github.com/GenP-V/CC-ToolBox) - 
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
@@ -1098,7 +1098,6 @@
 
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1227,7 +1226,6 @@
 
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
-- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [necatiergin/CPP_PUZZLES](https://github.com/necatiergin/CPP_PUZZLES) - Modern C++ puzzles.
@@ -1257,7 +1255,7 @@
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [Captainarash/The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
 - [HO-COOH/CPPDevOnWindows](https://github.com/HO-COOH/CPPDevOnWindows) - Best guide to setup C/C++ development environment on Windows
-- [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
+- [meanands/heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom
 - [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
@@ -1363,6 +1361,7 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1523,7 +1522,7 @@
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
-- [johnjhacking/Buffer-Overflow-Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide) - This Bufferflow Guide includes instructions and the scripts necessary for Buffer Overflow Exploitation. This guide is a supplement for TheCyberMentor's walkthrough. Please watch his walkthrough if you
+- [redr0nin/Buffer-Overflow-Guide](https://github.com/redr0nin/Buffer-Overflow-Guide) - This Bufferflow Guide includes instructions and the scripts necessary for Buffer Overflow Exploitation. This guide is a supplement for TheCyberMentor's walkthrough. Please watch his walkthrough if you
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
@@ -1667,7 +1666,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [kuragehime/source-base](https://github.com/kuragehime/source-base) - Rust stdlib-less internal base for source engine games
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1852,6 +1851,7 @@
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) - An implementation of a socket.io client written in the Rust programming language.
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [yohannd1/rootblocks](https://github.com/yohannd1/rootblocks) - a spiritual successor to dwmblocks
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
