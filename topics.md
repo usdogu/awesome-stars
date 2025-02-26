@@ -1105,7 +1105,7 @@
 
 ## dotfiles 
 
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
@@ -1196,7 +1196,7 @@
 
 ## emacs 
 
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
 - [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
 - [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Zig mode for Emacs
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
@@ -2050,7 +2050,7 @@
 - [mintexists/pee.js](https://github.com/mintexists/pee.js) - A javascript Library for leaking memory
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
+- [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [baristunar/design-patterns-tr](https://github.com/baristunar/design-patterns-tr) - Türkçe daha fazla kaynak oluşturmak adına önemli "Design "Pattern" makalelerini çeviriyoruz.
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
@@ -2191,7 +2191,7 @@
 
 ## latex 
 
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
+- [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 
 ## learning 
 
@@ -2374,7 +2374,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
@@ -2433,7 +2433,7 @@
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown
+- [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
