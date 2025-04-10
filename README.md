@@ -1955,7 +1955,7 @@
 ## Shell 
 
 - [lupohan44/TrustUserCertificates](https://github.com/lupohan44/TrustUserCertificates) - 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
