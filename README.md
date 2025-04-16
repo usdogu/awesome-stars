@@ -627,7 +627,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - 
@@ -925,7 +925,7 @@
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
-- [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - Draft for ECMAScript Error Safe Assignment Operator
+- [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - Draft for ECMAScript Try Operator
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) - An extension for checking if .git is exposed in visited websites
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -978,7 +978,6 @@
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [cpriest/SnapLinksPlus](https://github.com/cpriest/SnapLinksPlus) - Snap Links Plus is a Browser Addon that lets you  lasso links, checkboxes and other  elements do things with them.
@@ -1968,6 +1967,7 @@
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [Lassulus/nix-autobahn](https://github.com/Lassulus/nix-autobahn) - 
