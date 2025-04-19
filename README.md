@@ -550,7 +550,7 @@
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
 - [lawik/beambloggers](https://github.com/lawik/beambloggers) - A webring for bloggers in the BEAM Ecosystem (Erlang, Elixir, Gleam, LFE, etc), you find it at beambloggers.com
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
-- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
+- [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
 - [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
@@ -628,7 +628,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - 
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -893,7 +893,7 @@
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-- [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Helper scripts for analyzing NativeAOT compiled .NET binaries with Ghidra
+- [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Ghidra .NET Native AOT Analyzer Plugin
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
