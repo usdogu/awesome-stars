@@ -221,6 +221,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -619,17 +620,17 @@
 
 ## chatbot 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 ## chatgpt 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## chatgpt-api 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 ## chrome 
 
@@ -948,7 +949,7 @@
 
 ## cybersecurity 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
@@ -1129,7 +1130,7 @@
 
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
-- [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Helper scripts for analyzing NativeAOT compiled .NET binaries with Ghidra
+- [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Ghidra .NET Native AOT Analyzer Plugin
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [void-stack/VMUnprotect.Dumper](https://github.com/void-stack/VMUnprotect.Dumper) - VMUnprotect.Dumper can dynamically untamper VMProtected Assembly.
@@ -1179,7 +1180,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
+- [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -1325,7 +1326,7 @@
 - [gammasoft71/xtd](https://github.com/gammasoft71/xtd) - Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications and libraries on Microsoft Windows, Apple macOS and Linux.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [tanmoysrt/lumi](https://github.com/tanmoysrt/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
-- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
+- [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -1741,7 +1742,7 @@
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - A Code Playground That Just Works!
@@ -2656,7 +2657,7 @@
 
 ## openai 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -2693,6 +2694,7 @@
 
 ## others 
 
+- [LukasOgunfeitimi/TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - 
 - [b68h4/hexa](https://github.com/b68h4/hexa) - 
 - [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like modal editing in VS Code.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -2829,7 +2831,6 @@
 - [impay-money/bdjuno](https://github.com/impay-money/bdjuno) - Impay's WASM integrated bdjuno parser.
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
-- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [numtide/nixpkgs-unfree](https://github.com/numtide/nixpkgs-unfree) - nixpkgs with the unfree bits enabled
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
@@ -3510,7 +3511,7 @@
 
 ## pentesting 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [Anof-cyber/Androset](https://github.com/Anof-cyber/Androset) - Automated script to convert and push Burp Suite certificate in Android, and modify Android's IP table to redirect all traffic to Burp Suite.
 - [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -3804,7 +3805,7 @@
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python obfuscator built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [DMaroo/GhidRust](https://github.com/DMaroo/GhidRust) - GhidRust: Rust decompiler plugin for Ghidra
 - [user1342/Obfu-DE-Scate](https://github.com/user1342/Obfu-DE-Scate) - Obfu[DE]scate is a de-obfuscation tool for Android APKs that uses fuzzy comparison logic to identify similarities between functions, even if they have been renamed as part of obfuscation. It compares 
 - [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
@@ -4098,9 +4099,9 @@
 ## security 
 
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
@@ -4347,6 +4348,19 @@
 - [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
 - [Arman92/go-tdlib](https://github.com/Arman92/go-tdlib) - Golang Telegram TdLib JSON bindings
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
+
+## telegram-bot 
+
+- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [wdhowe/telegrambot-lib](https://github.com/wdhowe/telegrambot-lib) - Clojure library implementation of the Telegram Bot API.
+- [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
+- [RITlug/teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
+- [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
+- [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
+- [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
+- [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
+- [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
 
 ## tensorflow 
 
