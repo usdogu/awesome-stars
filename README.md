@@ -841,7 +841,7 @@
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [nevesnunes/ghidra-plays-mario](https://github.com/nevesnunes/ghidra-plays-mario) - Playing NES ROMs with Ghidra's PCode Emulator
 - [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - Free alternative Ekşi Sözlük front-end
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
@@ -923,6 +923,7 @@
 
 ## JavaScript 
 
+- [LukasOgunfeitimi/TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - Draft for ECMAScript Try Operator
@@ -1396,7 +1397,7 @@
 - [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) - MOVEit CVE-2023-34362
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
