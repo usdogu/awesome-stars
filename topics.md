@@ -2988,7 +2988,7 @@
 - [soctrungkien/MagiskOnWSA](https://github.com/soctrungkien/MagiskOnWSA) - Install WSA with Android 12.1 with Magisk root and Google Apps Windows Subsystem for Android)
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
-- [picosh/pico](https://github.com/picosh/pico) - services that empower developers using ssh
+- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
 - [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12 D3D12 (D3D11, D3D10 and maybe Vulkan will be added later)
 - [ardacarofficial/links-website](https://github.com/ardacarofficial/links-website) - List all your links on one website.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
