@@ -2853,7 +2853,7 @@
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [birlikteihracat/freelancerin-finansal-yol-haritasi](https://github.com/birlikteihracat/freelancerin-finansal-yol-haritasi) - Upwork ve Fiverr üzerinden ihracat yapan Freelancer'in şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası.
 - [valadaptive/uwurandom](https://github.com/valadaptive/uwurandom) - Like /dev/urandom, but objectively better
