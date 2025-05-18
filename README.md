@@ -1175,7 +1175,7 @@
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [numtide/nixpkgs-unfree](https://github.com/numtide/nixpkgs-unfree) - nixpkgs with the unfree bits enabled
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [danielbarter/mini_compile_commands](https://github.com/danielbarter/mini_compile_commands) - 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=?]
