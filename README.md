@@ -436,7 +436,7 @@
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 
 ## Clojure 
 
@@ -535,6 +535,7 @@
 
 ## Dockerfile 
 
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
@@ -922,7 +923,6 @@
 
 ## JavaScript 
 
-- [LukasOgunfeitimi/TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that never throws and always returns a Result.
@@ -1004,7 +1004,6 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -1502,7 +1501,6 @@
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -1531,7 +1529,7 @@
 - [redr0nin/Buffer-Overflow-Guide](https://github.com/redr0nin/Buffer-Overflow-Guide) - This Bufferflow Guide includes instructions and the scripts necessary for Buffer Overflow Exploitation. This guide is a supplement for TheCyberMentor's walkthrough. Please watch his walkthrough if you
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 - [raifpy/clickert](https://github.com/raifpy/clickert) - Çeşitli link kısaltma sitelerinin tıklama bot'u .
 - [NRFPUSPRO/discord.py-ornek-bot](https://github.com/NRFPUSPRO/discord.py-ornek-bot) - 
 - [keyiflerolsun/KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula) - Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍
@@ -1717,7 +1715,7 @@
 - [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - (deprecated) The fast, light, and robust client for the Ethereum mainnet.
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
 - [HookedBehemoth/neuters](https://github.com/HookedBehemoth/neuters) - Reuters Redirect and Proxy
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [jbertovic/svelte-axum-project](https://github.com/jbertovic/svelte-axum-project) - Starting project template for Rust Axum backend and Svelte frontend
@@ -1803,7 +1801,7 @@
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
-- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack
 - [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
@@ -2125,6 +2123,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [CyCraft/vue-intellisense](https://github.com/CyCraft/vue-intellisense) - A CLI tool to help enabling IntelliSense on your Vue components
