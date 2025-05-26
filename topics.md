@@ -1112,7 +1112,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 
 ## dotfiles 
 
@@ -1125,7 +1125,7 @@
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
-- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
@@ -1827,7 +1827,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
-- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -2084,7 +2084,7 @@
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
@@ -2313,7 +2313,7 @@
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [abba23/spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) - Spotify adblocker for Linux
-- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [neg4n/trickster](https://github.com/neg4n/trickster) - user-friendly linux memory debugging library
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
@@ -2539,7 +2539,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
-- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## nextjs 
@@ -2699,7 +2699,6 @@
 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [si14/stuffed-naan-js](https://github.com/si14/stuffed-naan-js) - Stuff your Na(a)N
-- [LukasOgunfeitimi/TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering) - 
 - [b68h4/hexa](https://github.com/b68h4/hexa) - 
 - [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like modal editing in VS Code.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -3118,7 +3117,7 @@
 - [PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022) - 22-23-24 Temmuz 2022 Tarihinde yapılan Siber Güvenlik Eğitimlerine Ait Dökümanlar
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere.
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
 - [Magisk-Modules-Repo/movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [georgemandis/remote-working-list](https://github.com/georgemandis/remote-working-list) - A list of job boards and websites for nomadic workers seeking freelance work
@@ -3691,7 +3690,7 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 
 ## python3 
 
@@ -3708,7 +3707,7 @@
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [code-rgb/USERGE-X](https://github.com/code-rgb/USERGE-X) - USERGE-X. What the X ?
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 
 ## pytorch 
 
@@ -4002,7 +4001,7 @@
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
-- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack
 - [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
@@ -4524,7 +4523,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
-- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
