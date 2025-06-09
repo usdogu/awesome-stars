@@ -2105,7 +2105,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [csdojo-defaang/defaang](https://github.com/csdojo-defaang/defaang) - A website that will curate recently-asked interview questions from FAANG+. Currently inactive. Check out: https://github.com/ykdojo/OpenStream
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
