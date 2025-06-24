@@ -199,7 +199,6 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
 - [mncoppola/suterusu](https://github.com/mncoppola/suterusu) - An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM
-- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [dreamer/scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [xfce-mirror/xfce4-clipman-plugin](https://github.com/xfce-mirror/xfce4-clipman-plugin) - Mirror repository, PRs are not watched, please use Xfce's GitLab
