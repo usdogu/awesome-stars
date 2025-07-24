@@ -39,6 +39,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code](#code)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -56,7 +57,6 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
-- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -269,6 +269,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 
 ## ajax 
 
@@ -789,6 +790,11 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 
+## cms 
+
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
 ## code 
 
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - A Code Playground That Just Works!
@@ -980,10 +986,6 @@
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
-## data-science 
-
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
 ## data-structures 
 
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
@@ -1083,6 +1085,7 @@
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1669,7 +1672,6 @@
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [romanitalian/gopher_stickers](https://github.com/romanitalian/gopher_stickers) - I collect stickers: Golang
 - [matryer/gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize.me app
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
@@ -2691,6 +2693,8 @@
 
 ## others 
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+- [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
 - [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code
 - [GDATAAdvancedAnalytics/Pyarmor-Tooling](https://github.com/GDATAAdvancedAnalytics/Pyarmor-Tooling) - Scripts for statically unpacking Pyarmor v8+
@@ -2717,7 +2721,7 @@
 - [tfc/nixos-auto-installer](https://github.com/tfc/nixos-auto-installer) - Build recipe for an unattended, offline capable USB-bootable NixOS installer to bootstrap random computers
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
-- [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that never throws and always returns a Result.
+- [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that always returns a Result.
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files
 - [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 - [A200K/IDA-Pro-SigMaker](https://github.com/A200K/IDA-Pro-SigMaker) - Signature maker plugin for IDA 9.x and 8.x
@@ -2742,7 +2746,7 @@
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
 - [junron/auto-enum](https://github.com/junron/auto-enum) - IDA/Binary Ninja Plugin to automatically identify and set enums for standard functions
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source Geforce Now alternative
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
 - [onionltd/EndGame](https://github.com/onionltd/EndGame) - EndGame DDoS filter.
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
@@ -3743,6 +3747,7 @@
 
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
