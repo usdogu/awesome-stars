@@ -2707,6 +2707,7 @@
 
 ## others 
 
+- [omeps/zig-reloc](https://github.com/omeps/zig-reloc) - 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
