@@ -2193,6 +2193,7 @@
 
 ## Zig 
 
+- [omeps/zig-reloc](https://github.com/omeps/zig-reloc) - 
 - [diocletiann/y3](https://github.com/diocletiann/y3) - i3-inspired wrapper for Yabai
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
