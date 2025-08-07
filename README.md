@@ -631,7 +631,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - 
@@ -665,6 +665,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [secureworks/chaosbernie](https://github.com/secureworks/chaosbernie) - Azure as an external process source for psDoom-ng
 - [denizgursoy/gotouch](https://github.com/denizgursoy/gotouch) - Customizable Boilerplate Project Creator
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -842,6 +843,7 @@
 
 ## HTML 
 
+- [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -914,7 +916,6 @@
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [shatyuka/Killergram](https://github.com/shatyuka/Killergram) - Remove sponsored messages of Telegram
-- [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
@@ -967,7 +968,6 @@
 - [mldangelo/open-webring](https://github.com/mldangelo/open-webring) - Join a webring or create your own.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mAAdhaTTah/babel-plugin-prismjs](https://github.com/mAAdhaTTah/babel-plugin-prismjs) - A babel plugin to use PrismJS with standard bundlers.
@@ -1066,6 +1066,7 @@
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+- [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
@@ -1372,6 +1373,7 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code
 - [GDATAAdvancedAnalytics/Pyarmor-Tooling](https://github.com/GDATAAdvancedAnalytics/Pyarmor-Tooling) - Scripts for statically unpacking Pyarmor v8+
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1585,7 +1587,7 @@
 
 ## Rust 
 
-- [can1357/kAirPods](https://github.com/can1357/kAirPods) - Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget
+- [can1357/kAirPods](https://github.com/can1357/kAirPods) - Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -1749,7 +1751,7 @@
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
-- [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: tiny crate that empowers your game hack/mod experience!
+- [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -2051,6 +2053,7 @@
 
 ## TypeScript 
 
+- [easrng/tsints](https://github.com/easrng/tsints) - 
 - [si14/stuffed-naan-js](https://github.com/si14/stuffed-naan-js) - Stuff your Na(a)N
 - [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like modal editing in VS Code.
 - [fdarian/prisma-generator-drizzle](https://github.com/fdarian/prisma-generator-drizzle) - A Prisma generator for generating Drizzle schema with ease
