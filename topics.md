@@ -2710,6 +2710,7 @@
 
 ## others 
 
+- [Svenskithesource/pyfalcon](https://github.com/Svenskithesource/pyfalcon) - A cross-version Python disassembler (runs in browser using wasm)
 - [xoreaxeaxeax/mchammer](https://github.com/xoreaxeaxeax/mchammer) - machine check exploitation
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [easrng/tsints](https://github.com/easrng/tsints) - 
