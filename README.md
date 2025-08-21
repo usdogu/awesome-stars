@@ -114,6 +114,7 @@
 
 ## C 
 
+- [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) - Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP binaries.
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -350,7 +351,7 @@
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
 - [Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
-- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12 D3D12 (D3D11, D3D10 and maybe Vulkan will be added later)
+- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12, 11, 10, 9 and Vulkan
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [guidedhacking/GuidedHacking-Injector](https://github.com/guidedhacking/GuidedHacking-Injector) - The BEST DLL Injector Library.
 - [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr) - heavily vectorized c++17 compile time string encryption.
