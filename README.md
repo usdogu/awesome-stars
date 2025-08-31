@@ -426,6 +426,7 @@
 ## CSS 
 
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [b374k/b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
@@ -638,7 +639,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [impay-money/bdjuno](https://github.com/impay-money/bdjuno) - Impay's WASM integrated bdjuno parser.
 - [acaloiaro/ess](https://github.com/acaloiaro/ess) - ess (env-sample-sync): automatically and safely synchronize env.sample files with .env
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
@@ -929,7 +930,7 @@
 
 - [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) - Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source.
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) - An extension for checking if .git is exposed in visited websites
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
@@ -959,7 +960,7 @@
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - 🔗 Get direct download links from Yandex.Disk
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
+- [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts for reverse engineering of mobile apps and more.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
@@ -1401,7 +1402,7 @@
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [LAC-Japan/IDA_Plugin_AntiDebugSeeker](https://github.com/LAC-Japan/IDA_Plugin_AntiDebugSeeker) - Automatically identify and extract potential anti-debugging techniques used by malware.
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
-- [mad-cat-lon/jargonaut](https://github.com/mad-cat-lon/jargonaut) - Python obfuscator built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
+- [red40maxxer/jargonaut](https://github.com/red40maxxer/jargonaut) - Python obfuscator built on LibCST with a library of fun obfuscation techniques, including polynomial MBAs, runtime bytecode patching, etc.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
@@ -2070,7 +2071,6 @@
 - [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
