@@ -1753,7 +1753,7 @@
 - [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [rmccrystal/memlib-rs](https://github.com/rmccrystal/memlib-rs) - A cross platform memory hacking library written in Rust aimed at cheat development.
 - [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
@@ -1969,7 +1969,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 
 ## Shell 
 
@@ -2060,7 +2060,7 @@
 
 - [easrng/tsints](https://github.com/easrng/tsints) - 
 - [si14/stuffed-naan-js](https://github.com/si14/stuffed-naan-js) - Stuff your Na(a)N
-- [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like modal editing in VS Code.
+- [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
 - [fdarian/prisma-generator-drizzle](https://github.com/fdarian/prisma-generator-drizzle) - A Prisma generator for generating Drizzle schema with ease
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
