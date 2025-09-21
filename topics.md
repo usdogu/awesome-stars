@@ -173,6 +173,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -252,7 +253,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xamarin](#xamarin)
-- [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
 
@@ -591,7 +591,6 @@
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [HO-COOH/CPPDevOnWindows](https://github.com/HO-COOH/CPPDevOnWindows) - Best guide to setup C/C++ development environment on Windows
-- [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [woodrush/lambda-8cc](https://github.com/woodrush/lambda-8cc) - x86 C compiler written in untyped lambda calculus
@@ -1092,7 +1091,7 @@
 
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
-- [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
+- [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -1379,7 +1378,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 
 ## frontend 
 
@@ -1609,7 +1608,7 @@
 - [yakuter/go-concurrency](https://github.com/yakuter/go-concurrency) - This repos has lots of Go concurrency, goroutine and channel usage and best practice examples
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [andersfylling/disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [cassiobotaro/60-days-of-go](https://github.com/cassiobotaro/60-days-of-go) - :card_index_dividers: 60 days discovering go
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1792,7 +1791,6 @@
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - A Code Playground That Just Works!
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -2688,6 +2686,11 @@
 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
+## obsidian 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
 
 ## obsidian-md 
 
@@ -4269,7 +4272,7 @@
 - [Vexu/routez](https://github.com/Vexu/routez) - Http server for Zig
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 
 ## serverless 
 
@@ -4612,7 +4615,7 @@
 ## visual-studio-code 
 
 - [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode
-- [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
+- [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 
 ## vpn 
 
@@ -4762,7 +4765,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
@@ -4777,10 +4780,6 @@
 
 - [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
 - [gpailler/MegaApiClient](https://github.com/gpailler/MegaApiClient) - MegaApiClient is a C# .Net library to access http://mega.co.nz / http://mega.nz cloud storage and file hosting service.
-
-## xcode 
-
-- [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
 ## xml 
 
