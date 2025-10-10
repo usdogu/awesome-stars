@@ -2002,7 +2002,7 @@
 - [gardotd426/regolith-de](https://github.com/gardotd426/regolith-de) - Standalone Regolith desktop environment for Arch Linux
 - [luisgbm/lfs-scripts](https://github.com/luisgbm/lfs-scripts) - Instructions and scripts to build Linux From Scratch (LFS) as simply as possible
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
