@@ -87,7 +87,7 @@
 ## Assembly 
 
 - [Battelle/REpsych](https://github.com/Battelle/REpsych) - Psychological warfare in reverse engineering
-- [ebitengine/purego](https://github.com/ebitengine/purego) - 
+- [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -300,6 +300,7 @@
 
 ## C++ 
 
+- [backengineering/vmp2](https://github.com/backengineering/vmp2) - VMProtect2 Deobfuscation Tooling
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -929,6 +930,7 @@
 
 ## JavaScript 
 
+- [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef) - A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
 - [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) - Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
