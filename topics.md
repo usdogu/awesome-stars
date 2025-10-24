@@ -2289,6 +2289,7 @@
 
 ## linux 
 
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) - sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard op
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -2768,6 +2769,7 @@
 
 ## others 
 
+- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
 - [backengineering/vmp2](https://github.com/backengineering/vmp2) - VMProtect2 Deobfuscation Tooling
 - [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef) - A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
 - [phith0n/collision-webshell](https://github.com/phith0n/collision-webshell) - A webshell and a normal file that have the same MD5
@@ -2796,7 +2798,7 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
+- [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
