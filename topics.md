@@ -1705,7 +1705,6 @@
 - [RITlug/teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram &lt;=&gt; IRC bridge for use with any IRC channel and Telegram group
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [LordRusk/gocaudices](https://github.com/LordRusk/gocaudices) - Gocaudices is a dwmblocks alternative written in GO in less than 100 SLOC using xgb.
 - [sdidyk/mtproto](https://github.com/sdidyk/mtproto) - MTProto implementation in Golang
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
@@ -2289,6 +2288,7 @@
 
 ## linux 
 
+- [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) - sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard op
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -2943,7 +2943,7 @@
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [birlikteihracat/freelancerin-finansal-yol-haritasi](https://github.com/birlikteihracat/freelancerin-finansal-yol-haritasi) - Upwork ve Fiverr üzerinden ihracat yapan Freelancer'in şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası.
 - [valadaptive/uwurandom](https://github.com/valadaptive/uwurandom) - Like /dev/urandom, but objectively better
