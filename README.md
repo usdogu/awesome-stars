@@ -284,7 +284,7 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [picoe/Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
 - [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
-- [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
+- [Squalr/Squalr-Sharp](https://github.com/Squalr/Squalr-Sharp) - Squalr Memory Editor - Game Hacking Tool Written in C#
 - [PcapDotNet/Pcap.Net](https://github.com/PcapDotNet/Pcap.Net) - .NET wrapper for WinPcap written in C++/CLI and C#, which features almost all WinPcap features and includes a packet interpretation framework.
 - [gircore/gir.core](https://github.com/gircore/gir.core) - A C# binding generator for GObject based libraries providing a C# friendly API surface
 - [gpailler/MegaApiClient](https://github.com/gpailler/MegaApiClient) - MegaApiClient is a C# .Net library to access http://mega.co.nz / http://mega.nz cloud storage and file hosting service.
@@ -963,7 +963,7 @@
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [flameshikari/yadirect](https://github.com/flameshikari/yadirect) - 🔗 Get direct download links from Yandex.Disk
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts for reverse engineering of mobile apps and more.
+- [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
@@ -980,6 +980,7 @@
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
@@ -1295,7 +1296,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
-- [Explosion-Scratch/duwjadujwa-starred-this-repo](https://github.com/Explosion-Scratch/duwjadujwa-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/obl3d-is-epic](https://github.com/Explosion-Scratch/obl3d-is-epic) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
@@ -1345,7 +1346,7 @@
 
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [hell-sh/Evil-Domains](https://github.com/hell-sh/Evil-Domains) - Evil domains for our Collective Hosts File Project that are not present in any other lists.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
@@ -2112,7 +2113,6 @@
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [justarandomgeek/vscode-factoriomod-debug](https://github.com/justarandomgeek/vscode-factoriomod-debug) - Factorio Mod Tool Kit
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
