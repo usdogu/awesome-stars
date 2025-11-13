@@ -103,7 +103,7 @@
 - [GenP-V/Acropolis](https://github.com/GenP-V/Acropolis) - The script to install Adobe Acrobat Pro x64
 - [GenP-V/CC-ToolBox](https://github.com/GenP-V/CC-ToolBox) - 
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
@@ -294,7 +294,6 @@
 - [egramtel/tdsharp](https://github.com/egramtel/tdsharp) - C#/.NET Core bindings for TDLib (Telegram MTProto API)
 - [olsh/curl-to-csharp](https://github.com/olsh/curl-to-csharp) - curl to C# converter
 - [csharp-leaf/Leaf.xNet](https://github.com/csharp-leaf/Leaf.xNet) - HTTP Library. Impoved original xNet.
-- [xMuratY/FacebookChecker](https://github.com/xMuratY/FacebookChecker) - Facebook account checker
 - [openbullet/openbullet](https://github.com/openbullet/openbullet) - The OpenBullet web testing application.
 - [Berke-Alp/kandilli-rasathanesi](https://github.com/Berke-Alp/kandilli-rasathanesi) - Kandilli Rasathanesi'ndeki deprem verileri çeken uygulama.
 
@@ -1296,7 +1295,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
-- [Explosion-Scratch/obl3d-is-epic](https://github.com/Explosion-Scratch/obl3d-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/yusufahmed21-is-cool](https://github.com/Explosion-Scratch/yusufahmed21-is-cool) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
