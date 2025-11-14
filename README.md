@@ -25,6 +25,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [F#](#f#)
 - [Fennel](#fennel)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -607,6 +608,10 @@
 ## Erlang 
 
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
+
+## F# # 
+
+- [ForNeVeR/tdlib.native](https://github.com/ForNeVeR/tdlib.native) - Prebuilt binaries of TDLib distributed as a NuGet package.
 
 ## Fennel 
 
@@ -1364,7 +1369,6 @@
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [jfmaes/LazySign](https://github.com/jfmaes/LazySign) - Create fake certs for binaries using windows binaries and the power of bat files
 - [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
-- [ForNeVeR/tdlib.native](https://github.com/ForNeVeR/tdlib.native) - Prebuilt binaries of TDLib distributed as a NuGet package.
 
 ## Pug 
 
@@ -2126,7 +2130,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [csdojo-defaang/defaang](https://github.com/csdojo-defaang/defaang) - A website that will curate recently-asked interview questions from FAANG+. Currently inactive. Check out: https://github.com/ykdojo/OpenStream
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
