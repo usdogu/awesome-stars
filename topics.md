@@ -3472,7 +3472,7 @@
 - [mukulhase/WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) - An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]
 - [sh4dowb/sikcoin](https://github.com/sh4dowb/sikcoin) - sikcoin - p2p cryptocurrency
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [enriquegh/spotify-webplayer-token](https://github.com/enriquegh/spotify-webplayer-token) - Python wrapper for Spotify's Web Player's Access token
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
@@ -4620,7 +4620,7 @@
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-- [jinek/Consolonia](https://github.com/jinek/Consolonia) - A cross-platform UI framework for .NET.
+- [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 
 ## unity 
 
