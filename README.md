@@ -2055,6 +2055,7 @@
 
 ## TypeScript 
 
+- [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [stylearcade/zaw](https://github.com/stylearcade/zaw) - Zero Allocation WASM
 - [easrng/tsints](https://github.com/easrng/tsints) - 
 - [si14/stuffed-naan-js](https://github.com/si14/stuffed-naan-js) - Stuff your Na(a)N
