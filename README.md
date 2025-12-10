@@ -210,7 +210,7 @@
 - [vinszent/gnome-twitch](https://github.com/vinszent/gnome-twitch) - Enjoy Twitch on your GNU/Linux desktop
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
 - [LukeSmithxyz/dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
