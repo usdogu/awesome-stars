@@ -489,7 +489,7 @@
 - [babashka/nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI
 - [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) - Pure cljs version of 4clojure, meant to run forever!
 - [Engelberg/instaparse](https://github.com/Engelberg/instaparse) - 
-- [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
@@ -2252,7 +2252,7 @@
 - [ikskuh/ZigAndroidTemplate](https://github.com/ikskuh/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 
 ## License
