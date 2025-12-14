@@ -891,6 +891,7 @@
 
 ## compiler 
 
+- [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 - [cherniaky/tccurl](https://github.com/cherniaky/tccurl) - Adds ability to #include over https in tcc compiler
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
@@ -1235,6 +1236,7 @@
 
 ## dotnet 
 
+- [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 - [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -2150,6 +2152,7 @@
 
 ## java 
 
+- [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
