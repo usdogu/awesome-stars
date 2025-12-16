@@ -3254,7 +3254,6 @@
 - [Recoo31/Blu-Pin-Kirici-CSharp](https://github.com/Recoo31/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
 - [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
 - [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [ajkhoury/SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) - IDA Pro 7 and up compatible SigMaker plugin
 - [maxboeck/webring](https://github.com/maxboeck/webring) - A boilerplate for hosting a webring community
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
