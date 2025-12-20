@@ -159,6 +159,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -1317,7 +1318,7 @@
 ## emacs 
 
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
-- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
+- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Spacemacs|Doom inspired Hammerspoon modal toolkit
 - [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Zig mode for Emacs
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [oliyh/re-jump.el](https://github.com/oliyh/re-jump.el) - emacs navigation for re-frame projects
@@ -2627,6 +2628,10 @@
 ## maven 
 
 - [denizgursoy/gotouch](https://github.com/denizgursoy/gotouch) - Language Agnostic Customizable Boilerplate Project Creator
+
+## microservices 
+
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 
 ## microsoft 
 
@@ -4752,7 +4757,7 @@
 ## vim 
 
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
-- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
+- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Spacemacs|Doom inspired Hammerspoon modal toolkit
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
