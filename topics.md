@@ -2861,6 +2861,7 @@
 
 ## others 
 
+- [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [radareorg/r2hermes](https://github.com/radareorg/r2hermes) - React Native VM (Hermes Bytecode Library) in C
 - [stylearcade/zaw](https://github.com/stylearcade/zaw) - Zero Allocation WASM
 - [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
