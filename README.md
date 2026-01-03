@@ -640,7 +640,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
-- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - 
+- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - tls.peet.ws
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [impay-money/bdjuno](https://github.com/impay-money/bdjuno) - Impay's WASM integrated bdjuno parser.
