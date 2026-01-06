@@ -337,6 +337,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
+- [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 - [niemand-sec/AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework) - Framework to test any Anti-Cheat
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1611,7 +1612,7 @@
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
-- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
+- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
