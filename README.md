@@ -117,7 +117,7 @@
 
 - [radareorg/r2hermes](https://github.com/radareorg/r2hermes) - React Native VM (Hermes Bytecode Library) in C
 - [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) - Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP binaries.
-- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [AeneasVerif/eurydice](https://github.com/AeneasVerif/eurydice) - Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -324,7 +324,7 @@
 - [ners/nix-monitored](https://github.com/ners/nix-monitored) - A transparent wrapper around Nix that pipes its output through Nix Output Monitor
 - [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header) - Build portable Linux binaries without using an ancient distro
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [momo5502/desktop-frame](https://github.com/momo5502/desktop-frame) - 🖼 Render HTML pages as desktop wallpaper
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
@@ -1782,7 +1782,7 @@
 - [90-008/rust-nix-templater](https://github.com/90-008/rust-nix-templater) - Generates Nix build / dev files for Rust projects.
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [zdimension/embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [marcusbuffett/pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor
@@ -1888,7 +1888,6 @@
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [k4yt3x/akasio-rust](https://github.com/k4yt3x/akasio-rust) - Akasio is a simple HTTP server that redirects traffic based on a JSON redirect table. This is its Rust implementation.
-- [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
