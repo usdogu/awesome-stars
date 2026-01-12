@@ -117,7 +117,6 @@
 ## C 
 
 - [radareorg/r2hermes](https://github.com/radareorg/r2hermes) - React Native VM (Hermes Bytecode Library) in C
-- [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) - Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP binaries.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [AeneasVerif/eurydice](https://github.com/AeneasVerif/eurydice) - Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
@@ -233,6 +232,7 @@
 ## C# # 
 
 - [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
+- [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) - Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP binaries.
 - [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
@@ -1015,6 +1015,7 @@
 - [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
@@ -1489,7 +1490,6 @@
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
-- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [ThemeSaverApp/themesaver](https://github.com/ThemeSaverApp/themesaver) - This is a program that will help you to save your different Linux rice and apply them without rebooting.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
