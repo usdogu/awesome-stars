@@ -879,7 +879,7 @@
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [keyiflerolsun/Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi) - Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası
 - [KMACEL/Gopher](https://github.com/KMACEL/Gopher) - Bulunan Gopher Resimleri :D
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## Handlebars 
 
@@ -1241,7 +1241,6 @@
 - [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
 - [phith0n/collision-webshell](https://github.com/phith0n/collision-webshell) - A webshell and a normal file that have the same MD5
 - [xoreaxeaxeax/mchammer](https://github.com/xoreaxeaxeax/mchammer) - machine check exploitation
-- [b68h4/hexa](https://github.com/b68h4/hexa) - 
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [arthurfiorette/proposal-try-operator](https://github.com/arthurfiorette/proposal-try-operator) - A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that always returns a Result.
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
