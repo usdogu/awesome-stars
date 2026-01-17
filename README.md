@@ -78,6 +78,7 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [YAML](#yaml)
 - [YARA](#yara)
 - [Zig](#zig)
 
@@ -879,7 +880,6 @@
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [keyiflerolsun/Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi) - Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası
 - [KMACEL/Gopher](https://github.com/KMACEL/Gopher) - Bulunan Gopher Resimleri :D
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## Handlebars 
 
@@ -2205,6 +2205,10 @@
 ## WebAssembly 
 
 - [SwadicalRag/wasm2lua](https://github.com/SwadicalRag/wasm2lua) - wasm2lua: converting WASM into Lua
+
+## YAML 
+
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## YARA 
 
