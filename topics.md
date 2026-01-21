@@ -1438,7 +1438,7 @@
 
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [gammasoft71/xtd](https://github.com/gammasoft71/xtd) - Free open-source modern  C++20 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [tanmoysrt/lumi](https://github.com/tanmoysrt/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -2348,7 +2348,7 @@
 
 ## laravel 
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -3715,7 +3715,7 @@
 
 ## php 
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -4199,7 +4199,7 @@
 - [zdimension/embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [marcusbuffett/pipe-rename](https://github.com/marcusbuffett/pipe-rename) - Rename your files using your favorite text editor
 - [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI/GUI applications written in Rust 🦀
