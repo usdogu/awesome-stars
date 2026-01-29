@@ -1665,7 +1665,6 @@
 - [arduano/simdeez](https://github.com/arduano/simdeez) - easy simd
 - [oxalica/async-ffi](https://github.com/oxalica/async-ffi) - FFI-compatible futures
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -2238,6 +2237,7 @@
 - [vrischmann/zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig
 - [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
 - [ikskuh/ZTT](https://github.com/ikskuh/ZTT) - Precompiled Zig text template engine
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ziglibs/treez](https://github.com/ziglibs/treez) - tree-sitter bindings for Zig
 - [ziglibs/repository](https://github.com/ziglibs/repository) - A community-maintained repository of zig packages
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
