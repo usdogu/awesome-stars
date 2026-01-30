@@ -2877,6 +2877,7 @@
 
 ## others 
 
+- [brnpl/Flutter-Labs](https://github.com/brnpl/Flutter-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
 - [coltekin/TRmorph](https://github.com/coltekin/TRmorph) - A finite-state morphological analyzer for Turkish
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
