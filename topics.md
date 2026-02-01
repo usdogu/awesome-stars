@@ -1401,6 +1401,7 @@
 
 ## flutter 
 
+- [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [htihospitality/re-dash](https://github.com/htihospitality/re-dash) - A ClojureDart (re)framework for building user interfaces, leveraging Flutter
@@ -1555,7 +1556,7 @@
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [acaloiaro/ess](https://github.com/acaloiaro/ess) - ess (env-sample-sync): automatically and safely synchronize env.sample files with .env
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from URLs [maintainer=@figsoda]
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -1574,7 +1575,7 @@
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from URLs [maintainer=@figsoda]
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -2877,8 +2878,7 @@
 
 ## others 
 
-- [brnpl/Flutter-Labs](https://github.com/brnpl/Flutter-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
+- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
 - [coltekin/TRmorph](https://github.com/coltekin/TRmorph) - A finite-state morphological analyzer for Turkish
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [radareorg/r2hermes](https://github.com/radareorg/r2hermes) - React Native VM (Hermes Bytecode Library) in C
@@ -3703,6 +3703,7 @@
 
 ## pentesting 
 
+- [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [Anof-cyber/Androset](https://github.com/Anof-cyber/Androset) - Automated script to convert and push Burp Suite certificate in Android, and modify Android's IP table to redirect all traffic to Burp Suite.
 - [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
@@ -4025,6 +4026,7 @@
 
 ## reverse-engineering 
 
+- [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) - sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard op
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -4335,6 +4337,7 @@
 
 ## security 
 
+- [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
