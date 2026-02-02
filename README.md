@@ -641,7 +641,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - tls.peet.ws / tls3.peet.ws (http3)
@@ -2220,7 +2220,6 @@
 ## Zig 
 
 - [omeps/zig-reloc](https://github.com/omeps/zig-reloc) - 
-- [diocletiann/y3](https://github.com/diocletiann/y3) - i3-inspired wrapper for Yabai
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
 - [cztomsik/tokamak](https://github.com/cztomsik/tokamak) - Web framework for Zig that leverages dependency injection for clean, modular application development.
