@@ -302,6 +302,7 @@
 
 ## C++ 
 
+- [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [backengineering/vmp2](https://github.com/backengineering/vmp2) - VMProtect2 Deobfuscation Tooling
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
