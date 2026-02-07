@@ -2881,6 +2881,7 @@
 
 ## others 
 
+- [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
 - [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
 - [coltekin/TRmorph](https://github.com/coltekin/TRmorph) - A finite-state morphological analyzer for Turkish
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
