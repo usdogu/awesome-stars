@@ -136,6 +136,7 @@
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [BrianSidebotham/arm-tutorial-rpi](https://github.com/BrianSidebotham/arm-tutorial-rpi) - Raspberry-Pi Bare Metal Programming in C Tutorial
+- [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [valadaptive/uwurandom](https://github.com/valadaptive/uwurandom) - Like /dev/urandom, but objectively better
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
@@ -332,7 +333,6 @@
 - [momo5502/desktop-frame](https://github.com/momo5502/desktop-frame) - 🖼 Render HTML pages as desktop wallpaper
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [llxiaoyuan/oxorany](https://github.com/llxiaoyuan/oxorany) - obfuscated any constant encryption in compile time on any platform
-- [lguilhermee/EAC-Extractor-Utility](https://github.com/lguilhermee/EAC-Extractor-Utility) - This tool Decrypt and Extract the files from the EAC
 - [Speedi13/ROP-COMPILER](https://github.com/Speedi13/ROP-COMPILER) - ROP based CSGO, BF3, BF4 cheat
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -977,7 +977,6 @@
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
-- [mldangelo/open-webring](https://github.com/mldangelo/open-webring) - Join a webring or create your own.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [goto-bus-stop/setup-zig](https://github.com/goto-bus-stop/setup-zig) - use a @ziglang compiler in your github actions workflows
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
