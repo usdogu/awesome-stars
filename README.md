@@ -13,6 +13,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [C3](#c3)
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -177,7 +178,6 @@
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [danielkrupinski/VAC](https://github.com/danielkrupinski/VAC) - Source code of Valve Anti-Cheat obtained from disassembly of compiled modules
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
@@ -424,6 +424,10 @@
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 
+## C3 
+
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+
 ## CMake 
 
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
@@ -646,7 +650,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
-- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - tls.peet.ws / tls3.peet.ws (http3)
+- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - Passive request fingerprinting demo. Visit at tls.peet.ws / tls3.peet.ws
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [impay-money/bdjuno](https://github.com/impay-money/bdjuno) - Impay's WASM integrated bdjuno parser.
