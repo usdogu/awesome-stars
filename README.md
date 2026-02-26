@@ -894,6 +894,7 @@
 
 ## Haskell 
 
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in pure Haskell
 - [kip-dili/kip](https://github.com/kip-dili/kip) - A programming language in Turkish where grammatical case and mood are part of the type system.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
