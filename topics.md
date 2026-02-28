@@ -589,7 +589,7 @@
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [Otann/morse](https://github.com/Otann/morse) - 📡 Clojure interface for Telegram Bot API
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
-- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [andersfylling/disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
 
@@ -3951,7 +3951,7 @@
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 
 ## pytorch 
@@ -4604,7 +4604,7 @@
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [ForNeVeR/tdlib.native](https://github.com/ForNeVeR/tdlib.native) - Prebuilt binaries of TDLib distributed as a NuGet package.
 - [egramtel/tdsharp](https://github.com/egramtel/tdsharp) - C#/.NET Core bindings for TDLib (Telegram MTProto API)
-- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
 - [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
