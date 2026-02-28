@@ -1556,7 +1556,7 @@
 - [themayankjha/JAKYM](https://github.com/themayankjha/JAKYM) - JAKYM, Just Another Konsole YouTube-Music. A command line based Youtube music player written in Python with both Spotify and Youtube playlist support and easy on memory. See README for installation in
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [KrispyCamel4u/SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
-- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
