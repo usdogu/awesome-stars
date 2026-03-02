@@ -1468,7 +1468,7 @@
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [ergrelet/unlicense](https://github.com/ergrelet/unlicense) - Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
@@ -1990,6 +1990,7 @@
 
 ## Shell 
 
+- [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [lupohan44/TrustUserCertificates](https://github.com/lupohan44/TrustUserCertificates) - 
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
@@ -2049,6 +2050,7 @@
 
 ## Swift 
 
+- [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup) - 
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
