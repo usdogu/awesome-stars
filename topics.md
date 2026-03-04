@@ -2919,7 +2919,7 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [si14/stuffed-naan-js](https://github.com/si14/stuffed-naan-js) - Stuff your Na(a)N
 - [71/dance](https://github.com/71/dance) - Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
+- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
