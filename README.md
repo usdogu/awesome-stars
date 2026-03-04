@@ -1612,7 +1612,7 @@
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) - Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ealmloff/sledgehammer_bindgen](https://github.com/ealmloff/sledgehammer_bindgen) - Breaking the WASM/JS communication performance barrier
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
+- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
