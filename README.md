@@ -118,6 +118,7 @@
 
 ## C 
 
+- [vladich/pg_jitter](https://github.com/vladich/pg_jitter) - Better JIT for Postgres
 - [radareorg/r2hermes](https://github.com/radareorg/r2hermes) - React Native VM (Hermes Bytecode Library) in C
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [AeneasVerif/eurydice](https://github.com/AeneasVerif/eurydice) - Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
@@ -2230,6 +2231,7 @@
 
 ## Zig 
 
+- [teamchong/metal0](https://github.com/teamchong/metal0) - Python Syntax. Bare Metal Speed. Zero Friction. (WIP)
 - [omeps/zig-reloc](https://github.com/omeps/zig-reloc) - 
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig
@@ -2239,7 +2241,7 @@
 - [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK - easily run WebAssembly modules / plugins from Zig applications
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
-- [travisstaloch/simdjzon](https://github.com/travisstaloch/simdjzon) - simdjson ported to zig
+- [travisstaloch/simdjson-zig-port](https://github.com/travisstaloch/simdjson-zig-port) - simdjson ported to zig
 - [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
