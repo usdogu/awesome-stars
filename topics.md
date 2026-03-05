@@ -2885,6 +2885,8 @@
 
 ## others 
 
+- [vladich/pg_jitter](https://github.com/vladich/pg_jitter) - Better JIT for Postgres
+- [teamchong/metal0](https://github.com/teamchong/metal0) - Python Syntax. Bare Metal Speed. Zero Friction. (WIP)
 - [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup) - 
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in pure Haskell
@@ -3021,7 +3023,7 @@
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
-- [travisstaloch/simdjzon](https://github.com/travisstaloch/simdjzon) - simdjson ported to zig
+- [travisstaloch/simdjson-zig-port](https://github.com/travisstaloch/simdjson-zig-port) - simdjson ported to zig
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
