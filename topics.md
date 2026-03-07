@@ -3185,7 +3185,7 @@
 - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
 - [clj-commons/kibit](https://github.com/clj-commons/kibit) - There's a function for that!
 - [LLVMParty/TicklingVMProtect](https://github.com/LLVMParty/TicklingVMProtect) - Assets for the "Tickling VMProtect with LLVM" blog post.
-- [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+- [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
 - [kuragehime/source-base](https://github.com/kuragehime/source-base) - Rust stdlib-less internal base for source engine games
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Immediate Zig GUI for Apps and Games
