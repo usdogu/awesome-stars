@@ -275,7 +275,6 @@
 ## 3d 
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 
 ## agent 
