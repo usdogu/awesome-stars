@@ -3300,7 +3300,7 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [accelforce/Yuito](https://github.com/accelforce/Yuito) - Mastodonクライアント Yuito
-- [rowan-sl/na_print](https://github.com/rowan-sl/na_print) - Printing without allocations (in rust)
+- [ashsystems/na_print](https://github.com/ashsystems/na_print) - Printing without allocations (in rust)
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [mikecoop83/luna](https://github.com/mikecoop83/luna) - An error propagating JSON parsing library for Go
 - [web3-storage/go-w3s-client](https://github.com/web3-storage/go-w3s-client) - DEPRECATED ⁂ A client to the Web3.Storage API.
