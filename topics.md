@@ -2838,7 +2838,6 @@
 ## open-source 
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -3738,7 +3737,6 @@
 ## perl 
 
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-- [openSUSE/opi](https://github.com/openSUSE/opi) - OBS Package Installer (CLI)
 
 ## php 
 
@@ -3934,6 +3932,7 @@
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
+- [openSUSE/opi](https://github.com/openSUSE/opi) - OBS Package Installer (CLI)
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
@@ -4283,7 +4282,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
-- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [novus-package-manager/novus](https://github.com/novus-package-manager/novus) - A blazingly fast and efficient package manager for windows.
