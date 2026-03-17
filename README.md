@@ -303,6 +303,7 @@
 
 ## C++ 
 
+- [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [backengineering/vmp2](https://github.com/backengineering/vmp2) - VMProtect2 Deobfuscation Tooling
