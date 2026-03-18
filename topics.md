@@ -3027,7 +3027,7 @@
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
-- [travisstaloch/simdjson-zig-port](https://github.com/travisstaloch/simdjson-zig-port) - simdjson ported to zig
+- [archaistvolts/simdjson-zig-port](https://github.com/archaistvolts/simdjson-zig-port) - simdjson ported to zig
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
@@ -3089,7 +3089,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
-- [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
+- [archaistvolts/protobuf-zig](https://github.com/archaistvolts/protobuf-zig) - A protocol buffers implementation in zig
 - [greyblue9/unpyc37-3.10](https://github.com/greyblue9/unpyc37-3.10) - Minor tweaks to get this excellent Python bytecode decompiler running under Python 3.8-3.10
 - [vijishmadhavan/UnpromptedControl](https://github.com/vijishmadhavan/UnpromptedControl) - Remove unwanted objects and restore images without prompts, powered by ControlNet.
 - [arduano/simdeez](https://github.com/arduano/simdeez) - easy simd
@@ -4733,6 +4733,7 @@
 
 ## typescript 
 
+- [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
