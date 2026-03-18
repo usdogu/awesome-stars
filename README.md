@@ -634,6 +634,7 @@
 
 ## Go 
 
+- [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
@@ -1074,6 +1075,7 @@
 
 ## Kotlin 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [Dr-TSNG/TwiFucker](https://github.com/Dr-TSNG/TwiFucker) - Yet Another Adkiller for Twitter
@@ -1619,7 +1621,6 @@
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [yanganto/struct-patch](https://github.com/yanganto/struct-patch) - A lib help you patch Rust instance, and easy to partial update configures.
 - [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) - Wipe files and drives securely with random ASCII dicks
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust
@@ -2241,14 +2242,14 @@
 - [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK - easily run WebAssembly modules / plugins from Zig applications
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
-- [travisstaloch/simdjson-zig-port](https://github.com/travisstaloch/simdjson-zig-port) - simdjson ported to zig
+- [archaistvolts/simdjson-zig-port](https://github.com/archaistvolts/simdjson-zig-port) - simdjson ported to zig
 - [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [SoraTenshi/zigwin-console](https://github.com/SoraTenshi/zigwin-console) - A simple console-spawner for Windows. Usually used for debugging DLLs
 - [vrischmann/zig-prometheus](https://github.com/vrischmann/zig-prometheus) - Prometheus/VictoriaMetrics client library for Zig
-- [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
+- [archaistvolts/protobuf-zig](https://github.com/archaistvolts/protobuf-zig) - A protocol buffers implementation in zig
 - [ikskuh/ZTT](https://github.com/ikskuh/ZTT) - Precompiled Zig text template engine
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ziglibs/treez](https://github.com/ziglibs/treez) - tree-sitter bindings for Zig
