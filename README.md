@@ -1277,7 +1277,6 @@
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [Svenskithesource/awesome-python-re](https://github.com/Svenskithesource/awesome-python-re) - A curated list of awesome Python reverse engineering libraries, tools and resources
 - [birlikteihracat/freelancerin-finansal-yol-haritasi](https://github.com/birlikteihracat/freelancerin-finansal-yol-haritasi) - Upwork ve Fiverr üzerinden ihracat yapan Freelancer'in şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası.
-- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 - [cassanof/safe-llvm](https://github.com/cassanof/safe-llvm) - LLVM Without The ROP Gadgets!
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
@@ -1438,6 +1437,7 @@
 - [ekilmer/remusing_cpp](https://github.com/ekilmer/remusing_cpp) - Remove `using` declarations and refactor unqualified symbols in C++ code.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 - [Anof-cyber/Androset](https://github.com/Anof-cyber/Androset) - Automated script to convert and push Burp Suite certificate in Android, and modify Android's IP table to redirect all traffic to Burp Suite.
 - [greyblue9/unpyc37-3.10](https://github.com/greyblue9/unpyc37-3.10) - Minor tweaks to get this excellent Python bytecode decompiler running under Python 3.8-3.10
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
