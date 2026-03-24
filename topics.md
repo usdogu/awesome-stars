@@ -3092,7 +3092,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [prsyahmi/GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive) - RamDrive that is backed by GPU Memory
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [sourcegraph/scip](https://github.com/sourcegraph/scip) - SCIP Code Intelligence Protocol
+- [scip-code/scip](https://github.com/scip-code/scip) - SCIP Code Intelligence Protocol
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [archaistvolts/protobuf-zig](https://github.com/archaistvolts/protobuf-zig) - A protocol buffers implementation in zig
 - [greyblue9/unpyc37-3.10](https://github.com/greyblue9/unpyc37-3.10) - Minor tweaks to get this excellent Python bytecode decompiler running under Python 3.8-3.10
