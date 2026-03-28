@@ -1607,6 +1607,7 @@
 
 ## Rust 
 
+- [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) - A path query language over JSON documents.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [Svenskithesource/pyfalcon](https://github.com/Svenskithesource/pyfalcon) - A cross-version Python disassembler (runs in browser using wasm)
