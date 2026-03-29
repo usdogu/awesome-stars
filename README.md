@@ -896,7 +896,7 @@
 
 ## Haskell 
 
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in pure Haskell
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [kip-dili/kip](https://github.com/kip-dili/kip) - A programming language in Turkish where grammatical case and mood are part of the type system.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
@@ -1607,7 +1607,7 @@
 
 ## Rust 
 
-- [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) - A path query language over JSON documents.
+- [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) - A path query language for JSON, YAML, TOML, and other serialization formats.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [Svenskithesource/pyfalcon](https://github.com/Svenskithesource/pyfalcon) - A cross-version Python disassembler (runs in browser using wasm)
@@ -2080,6 +2080,7 @@
 
 ## TypeScript 
 
+- [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lion: LIsp Object Notation - a JSON-based Lisp embedded in TypeScript
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [stylearcade/zaw](https://github.com/stylearcade/zaw) - Zero Allocation WASM
 - [easrng/tsints](https://github.com/easrng/tsints) - 
