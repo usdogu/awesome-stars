@@ -2903,6 +2903,7 @@
 
 ## others 
 
+- [lemire/constmap](https://github.com/lemire/constmap) - 
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lion: LIsp Object Notation - a JSON-based Lisp embedded in TypeScript
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 
