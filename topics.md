@@ -2904,7 +2904,7 @@
 ## others 
 
 - [lemire/constmap](https://github.com/lemire/constmap) - 
-- [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lion: LIsp Object Notation - a JSON-based Lisp embedded in TypeScript
+- [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 
 - [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
@@ -3722,7 +3722,7 @@
 ## parsing 
 
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
