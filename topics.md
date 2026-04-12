@@ -2903,6 +2903,7 @@
 
 ## others 
 
+- [lemire/fastmodrs](https://github.com/lemire/fastmodrs) - 
 - [lemire/constmap](https://github.com/lemire/constmap) - 
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
