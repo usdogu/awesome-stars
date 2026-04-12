@@ -1611,6 +1611,7 @@
 
 ## Rust 
 
+- [lemire/fastmodrs](https://github.com/lemire/fastmodrs) - 
 - [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) - A path query language for JSON, YAML, TOML, and other serialization formats.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
