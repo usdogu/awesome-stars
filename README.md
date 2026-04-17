@@ -747,7 +747,7 @@
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
 - [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
-- [raifpy/KaraAmbarKart](https://github.com/raifpy/KaraAmbarKart) - Kamyoncular Derneği Kart
+- [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [bakane6030/botbuilder](https://github.com/bakane6030/botbuilder) - An extension for discordgo to create a Discord bot quickly using the Builder pattern.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -810,10 +810,10 @@
 - [goretk/redress](https://github.com/goretk/redress) - Redress - A tool for analyzing stripped Go binaries
 - [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega) - A client library in go for mega.co.nz storage service
 - [JustinTimperio/osinfo](https://github.com/JustinTimperio/osinfo) - A Cross-Platform Module for Collecting OS Information in Golang
-- [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
+- [raiftekin/ClipBoardTranslater](https://github.com/raiftekin/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
-- [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
-- [raifpy/GoDrive](https://github.com/raifpy/GoDrive) - Google Drive Client like workers
+- [raiftekin/tgTwitterBridge](https://github.com/raiftekin/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
+- [raiftekin/GoDrive](https://github.com/raiftekin/GoDrive) - Google Drive Client like workers
 - [icexin/gocraft-server](https://github.com/icexin/gocraft-server) - gocraft's server https://github.com/icexin/gocraft
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [h12w/socks](https://github.com/h12w/socks) - A SOCKS (SOCKS4, SOCKS4A and SOCKS5) Proxy Package for Go
@@ -1060,7 +1060,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [matryer/gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize.me app
-- [raifpy/Kodlar](https://github.com/raifpy/Kodlar) - 
+- [raiftekin/Kodlar](https://github.com/raiftekin/Kodlar) - 
 
 ## Jupyter Notebook 
 
@@ -1568,7 +1568,7 @@
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
-- [raifpy/clickert](https://github.com/raifpy/clickert) - Çeşitli link kısaltma sitelerinin tıklama bot'u .
+- [raiftekin/clickert](https://github.com/raiftekin/clickert) - Çeşitli link kısaltma sitelerinin tıklama bot'u .
 - [NRFPUSPRO/discord.py-ornek-bot](https://github.com/NRFPUSPRO/discord.py-ornek-bot) - 
 - [keyiflerolsun/KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula) - Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍
 - [cgrok/selfbot.py](https://github.com/cgrok/selfbot.py) - selfbot.py - A python discord selfbot thats easy to install - Written using discord.py
