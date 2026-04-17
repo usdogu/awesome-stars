@@ -113,6 +113,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -1876,6 +1877,16 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 
+## hack 
+
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
+- [rainy-seasons/Dishonored-Trainer](https://github.com/rainy-seasons/Dishonored-Trainer) - An internal DLL trainer for the game "Dishonored"
+- [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
+- [dretax/GarHal_CSGO](https://github.com/dretax/GarHal_CSGO) - A project that demonstrates how to screw with CSGO from Kernel Space. (CSGO Kernel Cheat/Hack) All cleaned up, and with updated offsets.
+- [Jiiks/BetterDiscordApp](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
+- [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
+- [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
+
 ## hacking 
 
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -3388,7 +3399,6 @@
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
-- [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [teris-io/shortid](https://github.com/teris-io/shortid) - Super short, fully unique, non-sequential and URL friendly Ids
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
@@ -3489,7 +3499,7 @@
 - [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
 - [jotson/ridiculous_coding](https://github.com/jotson/ridiculous_coding) - Ridiculous addon for Godot Engine 4 that adds screenshake and explosions to your coding experience
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
-- [raifpy/KaraAmbarKart](https://github.com/raifpy/KaraAmbarKart) - Kamyoncular Derneği Kart
+- [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [rajatjain1997/subprocess](https://github.com/rajatjain1997/subprocess) - A C++ high level library for running shell processes
 - [viniciusmuller/djanho](https://github.com/viniciusmuller/djanho) - 🍁 Convert VSCode themes to (Neo)Vim colorschemes
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
@@ -3660,11 +3670,11 @@
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [rust-cli/man](https://github.com/rust-cli/man) - Generate structured man pages
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
-- [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
+- [raiftekin/ClipBoardTranslater](https://github.com/raiftekin/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
-- [raifpy/GoDrive](https://github.com/raifpy/GoDrive) - Google Drive Client like workers
+- [raiftekin/GoDrive](https://github.com/raiftekin/GoDrive) - Google Drive Client like workers
 - [RustDili/Rust-Ogrenmek](https://github.com/RustDili/Rust-Ogrenmek) - Dumindu Madunuwan'ın Learning Rust adlı çalışmasının Türkçe çevirisi
 - [RustDili/dokuman](https://github.com/RustDili/dokuman) - Rust Türkçe Dökümanları
 - [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
@@ -3687,8 +3697,8 @@
 - [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) - SSS sorulari burada...
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
-- [raifpy/Kodlar](https://github.com/raifpy/Kodlar) - 
-- [raifpy/clickert](https://github.com/raifpy/clickert) - Çeşitli link kısaltma sitelerinin tıklama bot'u .
+- [raiftekin/Kodlar](https://github.com/raiftekin/Kodlar) - 
+- [raiftekin/clickert](https://github.com/raiftekin/clickert) - Çeşitli link kısaltma sitelerinin tıklama bot'u .
 - [MenuDocs/Discord.PY-1.x.x-Tutorials](https://github.com/MenuDocs/Discord.PY-1.x.x-Tutorials) - The code for the discord.py tutorials on the MenuDocs youtube channel.
 - [NRFPUSPRO/discord.py-ornek-bot](https://github.com/NRFPUSPRO/discord.py-ornek-bot) - 
 - [keyiflerolsun/KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula) - Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍
@@ -4631,7 +4641,7 @@
 - [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
-- [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
+- [raiftekin/tgTwitterBridge](https://github.com/raiftekin/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
 - [Arman92/go-tdlib](https://github.com/Arman92/go-tdlib) - Golang Telegram TdLib JSON bindings
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 
@@ -4646,7 +4656,7 @@
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 - [keyiflerolsun/SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram) - Telegram Biyografinizde Ne Dinliyorum Özelliği..
-- [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
+- [raiftekin/tgTwitterBridge](https://github.com/raiftekin/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
 
 ## tensorflow 
 
@@ -4748,7 +4758,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-- [raifpy/tgTwitterBridge](https://github.com/raifpy/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
+- [raiftekin/tgTwitterBridge](https://github.com/raiftekin/tgTwitterBridge) - Telegram Channel - Twitter Tweet Bridge
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 
 ## typescript 
