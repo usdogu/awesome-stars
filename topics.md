@@ -3370,7 +3370,7 @@
 - [CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [rhotav/JITK](https://github.com/rhotav/JITK) - JITK - JIT Killer is hooker for clrjit
-- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
+- [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler) - Play with Google Play API :)
 - [Q930844N/awesome_tech_content](https://github.com/Q930844N/awesome_tech_content) - Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Chea
 - [bwireman/genus](https://github.com/bwireman/genus) - Type Script and Elixir structs, a monster mash
