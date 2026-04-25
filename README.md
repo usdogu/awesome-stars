@@ -503,7 +503,7 @@
 - [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) - Pure cljs version of 4clojure, meant to run forever!
 - [Engelberg/instaparse](https://github.com/Engelberg/instaparse) - 
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
@@ -1395,6 +1395,7 @@
 
 ## Python 
 
+- [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
 - [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port) - Shifting.Codes
 - [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [coltekin/TRmorph](https://github.com/coltekin/TRmorph) - A finite-state morphological analyzer for Turkish
