@@ -802,7 +802,7 @@
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
 - [FerdinaKusumah/excel2json](https://github.com/FerdinaKusumah/excel2json) - Excel to json so easily, read from local source or remote source
 - [babarot/go-pipe](https://github.com/babarot/go-pipe) - Unix-like pipelines for Go
-- [mustard-parfait/Kat-OH](https://github.com/mustard-parfait/Kat-OH) - (WIP) A Huge Fetch
+- [aryvector/Kat-OH](https://github.com/aryvector/Kat-OH) - (WIP) A Huge Fetch
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
