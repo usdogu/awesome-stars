@@ -776,7 +776,7 @@
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [openSUSE/opi](https://github.com/openSUSE/opi) - OBS Package Installer (CLI)
-- [mustard-parfait/Kat-OH](https://github.com/mustard-parfait/Kat-OH) - (WIP) A Huge Fetch
+- [aryvector/Kat-OH](https://github.com/aryvector/Kat-OH) - (WIP) A Huge Fetch
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
@@ -1788,7 +1788,7 @@
 - [sdidyk/mtproto](https://github.com/sdidyk/mtproto) - MTProto implementation in Golang
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
-- [mustard-parfait/Kat-OH](https://github.com/mustard-parfait/Kat-OH) - (WIP) A Huge Fetch
+- [aryvector/Kat-OH](https://github.com/aryvector/Kat-OH) - (WIP) A Huge Fetch
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
