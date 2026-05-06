@@ -3382,7 +3382,6 @@
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [georgemandis/remote-working-list](https://github.com/georgemandis/remote-working-list) - A list of job boards and websites for nomadic workers seeking freelance work
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [ozgung/FlappyTayyip](https://github.com/ozgung/FlappyTayyip) - A variation of Flappy Bird in HTML5 with an homage to our glorious leader
 - [CodeCracker-Tools/MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - Dump native and .NET assemblies
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [rhotav/JITK](https://github.com/rhotav/JITK) - JITK - JIT Killer is hooker for clrjit
