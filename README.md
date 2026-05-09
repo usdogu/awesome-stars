@@ -477,7 +477,7 @@
 - [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride) - Making VS Code Hackable like Emacs since 2022
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
 - [benjamin-asdf/scittle-prints-itself](https://github.com/benjamin-asdf/scittle-prints-itself) - This is not a Quine
-- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
+- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
 - [djblue/portal](https://github.com/djblue/portal) - A clojure tool to navigate through your data.
@@ -1323,7 +1323,7 @@
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [Explosion-Scratch/sandesh-bhandari-dev-starred-this-repo](https://github.com/Explosion-Scratch/sandesh-bhandari-dev-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/7salad3salad-starred-this-repo](https://github.com/Explosion-Scratch/7salad3salad-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
