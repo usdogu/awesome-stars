@@ -3073,7 +3073,7 @@
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [h313/spet](https://github.com/h313/spet) - an interpreter for a turing-complete programming language based on Spotify playlists
-- [archaistvolts/simdjson-zig-port](https://github.com/archaistvolts/simdjson-zig-port) - simdjson ported to zig
+- [archaistvolts/simdjson-z](https://github.com/archaistvolts/simdjson-z) - simdjson ported to zig
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
