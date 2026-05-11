@@ -2250,7 +2250,7 @@
 - [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK - easily run WebAssembly modules / plugins from Zig applications
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
-- [archaistvolts/simdjson-zig-port](https://github.com/archaistvolts/simdjson-zig-port) - simdjson ported to zig
+- [archaistvolts/simdjson-z](https://github.com/archaistvolts/simdjson-z) - simdjson ported to zig
 - [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]
 - [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland
