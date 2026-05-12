@@ -3338,7 +3338,7 @@
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [enthus1ast/zigcc](https://github.com/enthus1ast/zigcc) - wraps `zig cc` to be able to be called by the nim compiler
 - [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
-- [Recoo31/Blu-Pin-Kirici-CSharp](https://github.com/Recoo31/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
+- [Recoodev/Blu-Pin-Kirici-CSharp](https://github.com/Recoodev/Blu-Pin-Kirici-CSharp) - Multi-thread Checker
 - [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
 - [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
 - [ajkhoury/SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) - IDA Pro 7 and up compatible SigMaker plugin
