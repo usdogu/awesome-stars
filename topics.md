@@ -2930,7 +2930,7 @@
 
 - [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
 - [lemire/fastmodrs](https://github.com/lemire/fastmodrs) - 
-- [lemire/constmap](https://github.com/lemire/constmap) - 
+- [lemire/constmap](https://github.com/lemire/constmap) - A fast, compact, immutable map from strings to uint64 values in Go.
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 
