@@ -637,7 +637,7 @@
 ## Go 
 
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
-- [lemire/constmap](https://github.com/lemire/constmap) - 
+- [lemire/constmap](https://github.com/lemire/constmap) - A fast, compact, immutable map from strings to uint64 values in Go.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
