@@ -308,7 +308,7 @@
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 
 - [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [backengineering/vmp2](https://github.com/backengineering/vmp2) - VMProtect2 Deobfuscation Tooling
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -669,7 +669,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [scip-code/scip](https://github.com/scip-code/scip) - SCIP Code Intelligence Protocol
 - [tristanisham/zvm](https://github.com/tristanisham/zvm) - zvm (Zig Version Manager) lets you easily install/upgrade between different versions of Zig.
-- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe)
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Detect and fix struct field alignment to reduce memory usage in Go programs
 - [extremecoders-re/python-snippet-decompiler](https://github.com/extremecoders-re/python-snippet-decompiler) - Tool to assist during manual decompilation of Python bytecode
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
