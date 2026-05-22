@@ -2929,6 +2929,7 @@
 
 ## others 
 
+- [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
 - [lemire/fastmodrs](https://github.com/lemire/fastmodrs) - 
@@ -4302,7 +4303,7 @@
 - [Owez/argi](https://github.com/Owez/argi) - Argument parsing for the future 🚀
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack
