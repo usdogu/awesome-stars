@@ -1319,7 +1319,7 @@
 
 - [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) - Building Local-First apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView & Elixir!
 - [philss/rustler_precompiled](https://github.com/philss/rustler_precompiled) - Use precompiled NIFs from trusted sources in your Elixir code
-- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
