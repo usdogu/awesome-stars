@@ -662,7 +662,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [impay-money/bdjuno](https://github.com/impay-money/bdjuno) - Impay's WASM integrated bdjuno parser.
 - [acaloiaro/ess](https://github.com/acaloiaro/ess) - ess (env-sample-sync): automatically and safely synchronize env.sample files with .env
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
@@ -1323,7 +1323,7 @@
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [Explosion-Scratch/kkhaustov-is-awesome](https://github.com/Explosion-Scratch/kkhaustov-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/O957-starred-this-repo](https://github.com/Explosion-Scratch/O957-starred-this-repo) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
