@@ -2517,7 +2517,6 @@
 - [terminalpp/terminalpp](https://github.com/terminalpp/terminalpp) - Minimalist, fast, cross-platform terminal emulator.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [abba23/spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) - Spotify adblocker for Linux
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [neg4n/trickster](https://github.com/neg4n/trickster) - user-friendly linux memory debugging library
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
