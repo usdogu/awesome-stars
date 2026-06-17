@@ -3043,7 +3043,7 @@
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) - Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library
