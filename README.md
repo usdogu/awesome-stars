@@ -225,7 +225,6 @@
 - [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [smontanaro/python-0.9.1](https://github.com/smontanaro/python-0.9.1) - Upload and changes to Python 0.9.1 release (from 1991!) so that it would compile
 - [CristianHenzel/ClipIt](https://github.com/CristianHenzel/ClipIt) - ClipIt clipboard manager for GTK+
 - [b68h4/tddroid](https://github.com/b68h4/tddroid) - TDLib Android Easy Build Project
@@ -1271,7 +1270,7 @@
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
-- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
+- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [necatiergin/CPP_PUZZLES](https://github.com/necatiergin/CPP_PUZZLES) - Modern C++ puzzles.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
@@ -1607,6 +1606,7 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [ofarukbicer/RubyTaban](https://github.com/ofarukbicer/RubyTaban) - Ruby'de konsolunuzu güzel bi biçime sokan kütüphane
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [shardlab/discordrb](https://github.com/shardlab/discordrb) - Discord API for Ruby
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [grosser/parallel](https://github.com/grosser/parallel) - Ruby: parallel processing made simple and fast
