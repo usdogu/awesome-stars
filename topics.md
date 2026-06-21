@@ -3379,7 +3379,7 @@
 - [discord/sorted_set_nif](https://github.com/discord/sorted_set_nif) - Elixir SortedSet backed by a Rust-based NIF
 - [cpriest/SnapLinksPlus](https://github.com/cpriest/SnapLinksPlus) - Snap Links Plus is a Browser Addon that lets you  lasso links, checkboxes and other  elements do things with them.
 - [Lassulus/nix-autobahn](https://github.com/Lassulus/nix-autobahn) - 
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [dnlgrv/stranger](https://github.com/dnlgrv/stranger) - Chat anonymously with a randomly chosen stranger
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
