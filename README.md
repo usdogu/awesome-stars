@@ -916,7 +916,6 @@
 ## Java 
 
 - [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
-- [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [Washi1337/ghidra-nativeaot](https://github.com/Washi1337/ghidra-nativeaot) - Ghidra .NET Native AOT Analyzer Plugin
@@ -1079,6 +1078,7 @@
 
 ## Kotlin 
 
+- [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
