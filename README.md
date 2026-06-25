@@ -728,7 +728,7 @@
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1789,7 +1789,7 @@
 - [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [XToripuru/wird](https://github.com/XToripuru/wird) - Write Javascript with inlined Rust that will later become Wasm
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text
