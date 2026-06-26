@@ -964,7 +964,6 @@
 - [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer) - x86-64, ARM, and RVV intrinsics viewer
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic
-- [chung-leong/zigar](https://github.com/chung-leong/zigar) - Toolkit enabling the use of Zig code in JavaScript projects
 - [uilicious/inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email inbox powered by serverless mailgun kittens
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [edankwan/penis.js](https://github.com/edankwan/penis.js) - 
@@ -2250,6 +2249,7 @@
 - [cztomsik/tokamak](https://github.com/cztomsik/tokamak) - Web framework for Zig that leverages dependency injection for clean, modular application development.
 - [aqrit/sse2zig](https://github.com/aqrit/sse2zig) - SSE intrinsics for ziglang
 - [SuperAuguste/zig-patterns](https://github.com/SuperAuguste/zig-patterns) - Common Zig patterns for you and your friends :)
+- [chung-leong/zigar](https://github.com/chung-leong/zigar) - Toolkit enabling the use of Zig code in JavaScript projects
 - [SuperAuguste/minhook-zig](https://github.com/SuperAuguste/minhook-zig) - WIP
 - [extism/zig-sdk](https://github.com/extism/zig-sdk) - Extism Zig Host SDK - easily run WebAssembly modules / plugins from Zig applications
 - [SuperAuguste/protoclaw](https://github.com/SuperAuguste/protoclaw) - protoc in zig (WIP)
