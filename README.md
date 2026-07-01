@@ -476,7 +476,7 @@
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
 - [benjamin-asdf/scittle-prints-itself](https://github.com/benjamin-asdf/scittle-prints-itself) - This is not a Quine
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by react and re-frame
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [borkdude/quickblog](https://github.com/borkdude/quickblog) - Light-weight static blog engine for Clojure and babashka
 - [djblue/portal](https://github.com/djblue/portal) - A clojure tool to navigate through your data.
 - [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) - Clojure based AOC helper
@@ -1323,7 +1323,7 @@
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
-- [Explosion-Scratch/Sbrjt-is-awesome](https://github.com/Explosion-Scratch/Sbrjt-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/Liamsa1212-is-cool](https://github.com/Explosion-Scratch/Liamsa1212-is-cool) - Star to change the repo title to your username!
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [thomas-louvigne/emacs-can-do-that](https://github.com/thomas-louvigne/emacs-can-do-that) - Yep, emacs can do that !
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
@@ -1549,7 +1549,7 @@
 - [keyiflerolsun/pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol) - Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.
 - [rahulbanerjee26/githubProfileReadmeGenerator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator) - Generate a cool README/About me page for your Github Profile
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
-- [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
+- [dpnkrpl/radio-active](https://github.com/dpnkrpl/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
 - [oconnor663/duct.py](https://github.com/oconnor663/duct.py) - a Python library for running child processes
 - [0x20F/ix](https://github.com/0x20F/ix) - Simple dotfile pre-processor with a per-file configuration and no dependencies.
@@ -1671,7 +1671,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust.
-- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
