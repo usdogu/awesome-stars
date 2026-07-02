@@ -154,6 +154,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -2421,6 +2422,10 @@
 ## latex 
 
 - [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
+
+## learn-to-code 
+
+- [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
 
 ## learning 
 
