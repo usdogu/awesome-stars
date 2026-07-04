@@ -44,6 +44,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -731,6 +732,11 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
+
+## claude 
+
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 
 ## cli 
 
@@ -2953,6 +2959,8 @@
 
 ## others 
 
+- [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js) - Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
+- [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
@@ -3355,7 +3363,7 @@
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system
 - [pyinstxtractor/pyinstxtractor-go](https://github.com/pyinstxtractor/pyinstxtractor-go) - PyInstaller Extractor developed in Golang.
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
-- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
+- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - 🔥 Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
