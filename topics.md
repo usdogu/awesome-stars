@@ -3719,7 +3719,7 @@
 - [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) - A Rust library to extract useful data from HTML documents, suitable for web scraping.
 - [ollykel/v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
-- [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
+- [rust-lang/ssh2-rs](https://github.com/rust-lang/ssh2-rs) - Rust bindings for libssh2
 - [rust-cli/man](https://github.com/rust-cli/man) - Generate structured man pages
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
 - [raiftekin/ClipBoardTranslater](https://github.com/raiftekin/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
