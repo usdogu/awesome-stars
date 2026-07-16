@@ -118,6 +118,7 @@
 
 ## C 
 
+- [sysprog21/elfuse](https://github.com/sysprog21/elfuse) - Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [vladich/pg_jitter](https://github.com/vladich/pg_jitter) - Better JIT for Postgres
@@ -1333,7 +1334,6 @@
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
 - [alirizaadiyahsi/refactoring-guide-in-turkish](https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish) - Türkçe refactoring kılavuzu
 - [onur-ozkan/vs-deepdark-material](https://github.com/onur-ozkan/vs-deepdark-material) - A clean dark material theme for Visual Studio 2022 IDE
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [godotengine/godot-syntax-themes](https://github.com/godotengine/godot-syntax-themes) - Syntax themes for the Godot Engine script editor
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
@@ -1528,6 +1528,7 @@
 - [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. Use After Free for Dummies
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [bahadiraraz/recaptcha-puzzle](https://github.com/bahadiraraz/recaptcha-puzzle) - Recaptcha puzzle bypass with OpenCV for TikTok, binance, etc platforms
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
