@@ -4556,7 +4556,7 @@
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [OceanSprint/tesh](https://github.com/OceanSprint/tesh) - TEstable SHell sessions in Markdown
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
