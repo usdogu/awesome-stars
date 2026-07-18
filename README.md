@@ -584,7 +584,7 @@
 - [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [dnlgrv/stranger](https://github.com/dnlgrv/stranger) - Chat anonymously with a randomly chosen stranger
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [bwireman/genus](https://github.com/bwireman/genus) - Type Script and Elixir structs, a monster mash
 - [fuelen/owl](https://github.com/fuelen/owl) - A toolkit for writing command-line user interfaces.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
@@ -653,7 +653,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) - Passive request fingerprinting demo. Visit at tls.peet.ws / tls3.peet.ws
@@ -1272,7 +1272,6 @@
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [necatiergin/CPP_PUZZLES](https://github.com/necatiergin/CPP_PUZZLES) - Modern C++ puzzles.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -1421,6 +1420,7 @@
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [aniketrajnish/MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [yogurt-cultures/kefir](https://github.com/yogurt-cultures/kefir) - 🥛turkic morphology project
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
