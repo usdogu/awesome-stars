@@ -206,6 +206,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
@@ -3820,6 +3821,10 @@
 ## perl 
 
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
+
+## phishing 
+
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 
 ## php 
 
