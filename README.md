@@ -305,6 +305,7 @@
 
 ## C++ 
 
+- [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.2.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scripts to disassembly and (experimentally) source code.
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
@@ -1709,7 +1710,7 @@
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [asg017/sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - A framework for writing fast and performant SQLite extensions in Rust
 - [woodruffw/steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals
