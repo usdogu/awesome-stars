@@ -572,7 +572,7 @@
 - [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
-- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - 🔥 Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
+- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - 🔥 Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. 🚀
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [erlef/elixir-secure-coding](https://github.com/erlef/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir
 - [maxneuvians/pique](https://github.com/maxneuvians/pique) - An elixir SMTP server that makes message inspection easier
