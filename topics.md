@@ -3368,7 +3368,7 @@
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system
 - [pyinstxtractor/pyinstxtractor-go](https://github.com/pyinstxtractor/pyinstxtractor-go) - PyInstaller Extractor developed in Golang.
 - [Schneegans/Fly-Pie](https://github.com/Schneegans/Fly-Pie) - :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.
-- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - 🔥 Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:
+- [dwyl/learn-phoenix](https://github.com/dwyl/learn-phoenix) - 🔥 Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. 🚀
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
