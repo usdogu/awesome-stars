@@ -2963,6 +2963,7 @@
 
 ## others 
 
+- [richlegrand/bitbang-cli](https://github.com/richlegrand/bitbang-cli) - Proxy server that uses BitBang
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.2.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scripts to disassembly and (experimentally) source code.
 - [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js) - Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
