@@ -637,6 +637,7 @@
 
 ## Go 
 
+- [richlegrand/bitbang-cli](https://github.com/richlegrand/bitbang-cli) - Proxy server that uses BitBang
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [lemire/constmap](https://github.com/lemire/constmap) - A fast, compact, immutable map from strings to uint64 values in Go.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
