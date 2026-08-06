@@ -353,7 +353,7 @@
 
 ## android 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
@@ -2187,7 +2187,7 @@
 
 ## ios 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client built with Flutter.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -2220,7 +2220,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Old (2022) proof of concept:  Zero-Config CLI to Deploy Static Websites to IPFS
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
 ## java 
 
@@ -2622,7 +2622,7 @@
 ## macos 
 
 - [sysprog21/elfuse](https://github.com/sysprog21/elfuse) - Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) - sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD (e.g. AVX2/NEON/SSE2) speedups that works on MacOS/Linux/Windows. It allows configurable wildcard op
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -4835,7 +4835,7 @@
 
 ## typescript 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
@@ -5028,7 +5028,7 @@
 
 ## windows 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
