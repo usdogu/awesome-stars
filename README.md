@@ -871,7 +871,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [nevesnunes/ghidra-plays-mario](https://github.com/nevesnunes/ghidra-plays-mario) - Playing NES ROMs with Ghidra's PCode Emulator
-- [beucismis/ozgursozluk](https://github.com/beucismis/ozgursozluk) - Free alternative Ekşi Sözlük front-end
+- [beucismis/koru](https://github.com/beucismis/koru) - Private alternative front-end for Ekşi Sözlük.
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [acikyazilimagi/afet-org](https://github.com/acikyazilimagi/afet-org) - 
 - [Tarbetu/gentle-intro](https://github.com/Tarbetu/gentle-intro) - Turkish Translation of Gentle Intro | "Gentle Intro'nun Türkçe" çevirisi
@@ -1806,7 +1806,7 @@
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
