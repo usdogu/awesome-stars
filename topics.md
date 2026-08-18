@@ -3612,6 +3612,7 @@
 - [kchanqvq/xwwp](https://github.com/kchanqvq/xwwp) - Enhance the Emacs xwidget-webkit browser
 - [virto-network/valor](https://github.com/virto-network/valor) - Create HTTP APIs with a plugin system that runs in the server and the browser.
 - [mncoppola/suterusu](https://github.com/mncoppola/suterusu) - An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM
+- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [dreamer/scrot](https://github.com/dreamer/scrot) - scrot (SCReen shOT) is a simple commandline screen capture utility
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [emoon/dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries
