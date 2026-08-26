@@ -1805,7 +1805,7 @@
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
-- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
