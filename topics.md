@@ -3637,7 +3637,7 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [yohannd1/rootblocks](https://github.com/yohannd1/rootblocks) - a spiritual successor to dwmblocks
-- [DanteAlighierin/foot](https://github.com/DanteAlighierin/foot) - Unofficial Mirror: A fast, lightweight and minimalistic Wayland terminal emulator
+- [DanteAlighierin/foot](https://github.com/DanteAlighierin/foot) - 27.8.26 Unofficial Mirror: A fast, lightweight and minimalistic Wayland terminal emulator
 - [seagle0128/grip-mode](https://github.com/seagle0128/grip-mode) - Instant Github-flavored Markdown/Org preview using grip
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
