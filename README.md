@@ -637,6 +637,7 @@
 
 ## Go 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [richlegrand/bitbang-cli](https://github.com/richlegrand/bitbang-cli) - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [lemire/constmap](https://github.com/lemire/constmap) - A fast, compact, immutable map from strings to uint64 values in Go.
