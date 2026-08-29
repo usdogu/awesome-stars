@@ -359,7 +359,7 @@
 - [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
@@ -1112,7 +1112,7 @@
 ## dart 
 
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [htihospitality/re-dash](https://github.com/htihospitality/re-dash) - A ClojureDart (re)framework for building user interfaces, leveraging Flutter
 - [nt4f04uNd/sweyer](https://github.com/nt4f04uNd/sweyer) - Music player built with Flutter
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
@@ -1466,7 +1466,7 @@
 
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [htihospitality/re-dash](https://github.com/htihospitality/re-dash) - A ClojureDart (re)framework for building user interfaces, leveraging Flutter
 - [nt4f04uNd/sweyer](https://github.com/nt4f04uNd/sweyer) - Music player built with Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -2193,7 +2193,7 @@
 
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
