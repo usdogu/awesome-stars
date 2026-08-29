@@ -536,7 +536,7 @@
 
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [nt4f04uNd/sweyer](https://github.com/nt4f04uNd/sweyer) - Music player built with Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [KhalidWar/anonaddy](https://github.com/KhalidWar/anonaddy) - Mobile app for AnonAddy.com.
