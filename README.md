@@ -573,7 +573,7 @@
 - [elixir-nebulex/nebulex](https://github.com/elixir-nebulex/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail) - Build composable mail messages
 - [Betree/atomex](https://github.com/Betree/atomex) - 🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [erlef/elixir-secure-coding](https://github.com/erlef/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir
 - [maxneuvians/pique](https://github.com/maxneuvians/pique) - An elixir SMTP server that makes message inspection easier
 - [tompave/fun_with_flags](https://github.com/tompave/fun_with_flags) - Feature Flags/Toggles for Elixir
@@ -1195,7 +1195,7 @@
 - [tfc/nixos-auto-installer](https://github.com/tfc/nixos-auto-installer) - Build recipe for an unattended, offline capable USB-bootable NixOS installer to bootstrap random computers
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
@@ -1212,7 +1212,7 @@
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [danielbarter/mini_compile_commands](https://github.com/danielbarter/mini_compile_commands) - 
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
 - [nix-community/flake-nimble](https://github.com/nix-community/flake-nimble) - Nimble packages Nix flake [maintainer=?]
 - [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
