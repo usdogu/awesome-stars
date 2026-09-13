@@ -721,7 +721,6 @@
 - [teris-io/shortid](https://github.com/teris-io/shortid) - Super short, fully unique, non-sequential and URL friendly Ids
 - [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
 - [alphadose/ZenQ](https://github.com/alphadose/ZenQ) - A thread-safe queue faster and more resource efficient than golang's native channels
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -1146,6 +1145,7 @@
 
 ## Markdown 
 
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## NCL 
