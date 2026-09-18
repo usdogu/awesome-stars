@@ -406,7 +406,6 @@
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [m4x1m1l14n/Registry](https://github.com/m4x1m1l14n/Registry) - C++ wrapper for manipulating Windows registry
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
@@ -1876,6 +1875,7 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [alok8bb/cloneit](https://github.com/alok8bb/cloneit) - A cli tool to download specific GitHub directories or files
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
