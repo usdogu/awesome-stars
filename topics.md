@@ -3584,7 +3584,7 @@
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [sabof/org-bullets](https://github.com/sabof/org-bullets) - utf-8 bullets for org-mode
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
