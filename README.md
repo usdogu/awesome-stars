@@ -1638,7 +1638,7 @@
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Many Sessions. One GPU.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Run multiple gaming sessions on a single GPU
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
