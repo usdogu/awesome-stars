@@ -1392,6 +1392,7 @@
 
 ## Python 
 
+- [fzakaria/omnibin](https://github.com/fzakaria/omnibin) - Every binary nixpkgs ever shipped, on your PATH.
 - [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js) - Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
 - [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
 - [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
