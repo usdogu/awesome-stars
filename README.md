@@ -1772,7 +1772,7 @@
 - [HookedBehemoth/neuters](https://github.com/HookedBehemoth/neuters) - Reuters Redirect and Proxy
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [jbertovic/svelte-axum-project](https://github.com/jbertovic/svelte-axum-project) - Starting project template for Rust Axum backend and Svelte frontend
-- [brndnmtthws/dryoc](https://github.com/brndnmtthws/dryoc) - Don't Roll Your Own Crypto: pure-Rust, hard to misuse cryptography library
+- [brndnmtthws/dryoc](https://github.com/brndnmtthws/dryoc) - Don't Roll Your Own Crypto: fast, type-safe, pure-Rust cryptography with post-quantum support
 - [erayerdin/taurapp](https://github.com/erayerdin/taurapp) - TaurApp is a WhatsApp desktop client powered by Tauri and Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
