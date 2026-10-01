@@ -285,7 +285,7 @@
 - [ReClassNET/ReClass.NET](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [dantmnf/tdlib-netcore](https://github.com/dantmnf/tdlib-netcore) - Fast TDLib binding for .NET Core and .NET Standard.
 - [picoe/Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
 - [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
@@ -461,7 +461,6 @@
 - [babashka/http-client](https://github.com/babashka/http-client) - HTTP client for Clojure and Babashka built on java.net.http
 - [jlesquembre/clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects
 - [seancorfield/deps-new](https://github.com/seancorfield/deps-new) - Create new projects for the Clojure CLI / deps.edn
-- [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [jacekschae/shadow-cljs-tailwindcss](https://github.com/jacekschae/shadow-cljs-tailwindcss) - shadow-cljs + tailwindcss
 - [lispyclouds/bblgum](https://github.com/lispyclouds/bblgum) - An extremely tiny and simple wrapper around charmbracelet/gum
@@ -872,6 +871,7 @@
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [acikyazilimagi/afet-org](https://github.com/acikyazilimagi/afet-org) - 
 - [Tarbetu/gentle-intro](https://github.com/Tarbetu/gentle-intro) - Turkish Translation of Gentle Intro | "Gentle Intro'nun Türkçe" çevirisi
+- [benjamin-asdf/faster-than-light-memes](https://github.com/benjamin-asdf/faster-than-light-memes) - This is my blog
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
