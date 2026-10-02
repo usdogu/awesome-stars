@@ -1792,7 +1792,7 @@
 - [vxcall/toy-arms](https://github.com/vxcall/toy-arms) - :nut_and_bolt: a tiny crate that empowers your game hack experience
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [XToripuru/wird](https://github.com/XToripuru/wird) - Write Javascript with inlined Rust that will later become Wasm
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text
