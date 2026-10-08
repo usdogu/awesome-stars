@@ -147,7 +147,7 @@
 - [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [ayoubfaouzi/windows-internals](https://github.com/ayoubfaouzi/windows-internals) - My notes while studying Windows internals
 - [ayoubfaouzi/cpu-internals](https://github.com/ayoubfaouzi/cpu-internals) - Intel / AMD CPU Internals
 - [CGamesPlay/sqlite3_ext](https://github.com/CGamesPlay/sqlite3_ext) - Build loadable extensions for SQLite using Rust
@@ -244,7 +244,6 @@
 - [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
@@ -1079,6 +1078,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
