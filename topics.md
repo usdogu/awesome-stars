@@ -2786,7 +2786,6 @@
 
 ## mysql 
 
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -3477,7 +3476,7 @@
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [Daksh777/SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - A cross-platform Spicetify theme which declutters Spotify stock UI and removes all ads.
-- [Explosion-Scratch/botted1-starred-this-repo](https://github.com/Explosion-Scratch/botted1-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/imtrashh906-is-cool](https://github.com/Explosion-Scratch/imtrashh906-is-cool) - Star to change the repo title to your username!
 - [nikvdp/bbb](https://github.com/nikvdp/bbb) - 
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - .NET Assembly Dumper
