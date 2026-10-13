@@ -951,6 +951,7 @@
 ## JavaScript 
 
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
+- [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
 - [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
 - [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) - Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source.
