@@ -2099,6 +2099,8 @@
 
 ## TypeScript 
 
+- [fzakaria/jinx](https://github.com/fzakaria/jinx) - Nix, transpiled to TypeScript
+- [fzakaria/jinx-nixpkgs](https://github.com/fzakaria/jinx-nixpkgs) - nixpkgs transpiled to TypeScript by jinx
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [stylearcade/zaw](https://github.com/stylearcade/zaw) - Zero Allocation WASM
