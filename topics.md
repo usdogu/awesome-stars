@@ -2975,6 +2975,8 @@
 
 ## others 
 
+- [fzakaria/jinx](https://github.com/fzakaria/jinx) - Nix, transpiled to TypeScript
+- [fzakaria/jinx-nixpkgs](https://github.com/fzakaria/jinx-nixpkgs) - nixpkgs transpiled to TypeScript by jinx
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [richlegrand/bitbang-cli](https://github.com/richlegrand/bitbang-cli) - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
@@ -2988,6 +2990,7 @@
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 
+- [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
 - [vladich/pg_jitter](https://github.com/vladich/pg_jitter) - Better JIT for Postgres
 - [teamchong/metal0](https://github.com/teamchong/metal0) - Python Syntax. Bare Metal Speed. Zero Friction. (WIP)
 - [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup) - 
