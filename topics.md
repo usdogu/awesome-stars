@@ -357,6 +357,7 @@
 
 ## android 
 
+- [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
@@ -752,6 +753,7 @@
 
 ## cli 
 
+- [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -1471,6 +1473,7 @@
 
 ## flutter 
 
+- [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
@@ -2757,6 +2760,7 @@
 
 ## mobile 
 
+- [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
@@ -4166,6 +4170,7 @@
 
 ## reverse-engineering 
 
+- [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) - Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds with random names.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [brnpl/Flutter-Reverse-Engineering-Labs](https://github.com/brnpl/Flutter-Reverse-Engineering-Labs) - Hands-on challenges for learning how to reverse engineer Flutter applications.
