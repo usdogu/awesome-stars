@@ -722,7 +722,7 @@
 
 ## chrome 
 
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [clj-commons/etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1113,6 +1113,7 @@
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS devShell collection with MicroVM, supporting Linux and macOS hosts. Made for cybersecurity enthusiasts and professionals.
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
@@ -1452,7 +1453,7 @@
 
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [AXeL-dev/distract-me-not](https://github.com/AXeL-dev/distract-me-not) - :no_entry: A lightweight website blocker with a user friendly interface
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -2242,7 +2243,6 @@
 ## java 
 
 - [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
@@ -2491,7 +2491,7 @@
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -2667,6 +2667,7 @@
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS devShell collection with MicroVM, supporting Linux and macOS hosts. Made for cybersecurity enthusiasts and professionals.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
@@ -2989,7 +2990,7 @@
 - [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js) - Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
-- [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.
+- [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser) - reverse of openai privacy filter. same 1.5b model, returns pii as structured spans instead of masking
 - [lemire/fastmodrs](https://github.com/lemire/fastmodrs) - 
 - [lemire/constmap](https://github.com/lemire/constmap) - A fast, compact, immutable map from strings to uint64 values in Go.
 - [andrueandersoncs/lion](https://github.com/andrueandersoncs/lion) - Lisp Object Notation - an advanced data format built on JSON capable of representing arbitrary computations
@@ -3471,7 +3472,6 @@
 - [frk1/hazedumper](https://github.com/frk1/hazedumper) - up to date csgo offsets and hazedumper config
 - [zyhp/vac3_inhibitor](https://github.com/zyhp/vac3_inhibitor) - VAC3 (Valve Anti-Cheat) disabler/inhibitor/bypass
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
-- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [teris-io/shortid](https://github.com/teris-io/shortid) - Super short, fully unique, non-sequential and URL friendly Ids
@@ -3561,7 +3561,6 @@
 - [bobbylkchao/bison-local-data-offline-proxy](https://github.com/bobbylkchao/bison-local-data-offline-proxy) - This opensource project is the local data request proxy. Written by TypeScript, is used to implement offline browsing of the app. The data proxy will be responsible for data request, creation, destruc
 - [jku/connman](https://github.com/jku/connman) - fork of https://git.kernel.org/pub/scm/network/connman/connman.git
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [joelnet/html-lang](https://github.com/joelnet/html-lang) - HTML is a Programming Language!
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
@@ -5072,7 +5071,7 @@
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) - CLI reimplementation of Scoop in Rust
 - [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
