@@ -888,7 +888,7 @@
 
 ## cloud 
 
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - You have a GPU. Now make it  shareable and accessible from anywhere in the world.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - One GPU. Many sessions. All streamed remotely to anywhere.
 - [b68h4/GreenDrive](https://github.com/b68h4/GreenDrive) - GreenDrive is a lightweight and user-friendly web-based file explorer project that seamlessly integrates with Google Drive for easy file distrubution.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
