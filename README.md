@@ -120,6 +120,7 @@
 
 ## C 
 
+- [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation
 - [sysprog21/elfuse](https://github.com/sysprog21/elfuse) - Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [vladich/pg_jitter](https://github.com/vladich/pg_jitter) - Better JIT for Postgres
@@ -360,7 +361,7 @@
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of SuperTuxKart
 - [lguilhermee/Discord-DX11-Overlay-Hook](https://github.com/lguilhermee/Discord-DX11-Overlay-Hook) - Discord Hooking
 - [Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.
-- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12, 11, 10, 9, OpenGL and Vulkan
+- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12, 11, 10, 9, OpenGL and Vulkan for Windows and Linux compatible with Steam Deck and many others
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [guidedhacking/GuidedHacking-Injector](https://github.com/guidedhacking/GuidedHacking-Injector) - The BEST DLL Injector Library.
 - [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr) - heavily vectorized c++17 compile time string encryption.
@@ -2049,7 +2050,6 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
-- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [max/secret-scan](https://github.com/max/secret-scan) - 
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
