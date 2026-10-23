@@ -1087,7 +1087,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader, trusted for 13+ years
 - [Dr-TSNG/TwiFucker](https://github.com/Dr-TSNG/TwiFucker) - Yet Another Adkiller for Twitter
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
@@ -1501,7 +1501,7 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [keyiflerolsun/FlaskAndroid](https://github.com/keyiflerolsun/FlaskAndroid) - Converting Flask To Apk
 - [rocky/python-decompile3](https://github.com/rocky/python-decompile3) - Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems
-- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypass & solve CAPTCHAs in Python — reCAPTCHA V3 over pure HTTP, V2 via audio, Cloudflare Turnstile, Arvancloud ARCaptcha, and anti-bot walls.
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Free, open-source CAPTCHA solver for Python (no paid APIs) — solve reCAPTCHA (V2, V3), GeeTest V4, Lemin, Cloudflare Turnstile, ARCaptcha, and anti-bot walls via pure HTTP requests and browser automat
 - [Svenskithesource/PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) - A deobfuscator for PyArmor.
 - [codingo/Interlace](https://github.com/codingo/Interlace) - Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
