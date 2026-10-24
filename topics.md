@@ -84,6 +84,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -745,6 +746,7 @@
 
 ## cli 
 
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
 - [caverav/flutterdec](https://github.com/caverav/flutterdec) - The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseudocode, supporting obfuscated builds.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -1321,6 +1323,13 @@
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [ayuthmang/.Net-Reverse-Engineering](https://github.com/ayuthmang/.Net-Reverse-Engineering) - Resources, tools about .net reverse engineering.
 - [NotPrab/.NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) - Lists of .NET Deobfuscator and Unpacker (Open Source)
+
+## downloader 
+
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader, trusted for 13+ years
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
+- [HR/github-clone](https://github.com/HR/github-clone) - :octocat: ⬇️ ⠀git clone repo subdirectories
 
 ## education 
 
@@ -1903,6 +1912,7 @@
 
 ## gui 
 
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
@@ -2457,7 +2467,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [m4x1m1l14n/Registry](https://github.com/m4x1m1l14n/Registry) - C++ wrapper for manipulating Windows registry
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice and video calls in Telegram for Python
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -3298,7 +3308,7 @@
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
-- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12, 11, 10, 9, OpenGL and Vulkan for Windows and Linux compatible with Steam Deck and many others
+- [Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - A universal Dear ImGui hook for DirectX 12/11/10/9, OpenGL, and Vulkan. Compatible with Windows, Linux, and Steam Deck, featuring integrated MCP via a NamedPipe for game debugging and control.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
@@ -4027,7 +4037,7 @@
 - [rdbo/libmem](https://github.com/rdbo/libmem) - Advanced Game Hacking Library for C, Modern C++, Rust and Python (Windows/Linux/FreeBSD) (Process/Memory Hacking) (Hooking/Detouring) (Cross Platform) (x86/x64) (DLL/SO Injection) (Internal/External) 
 - [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice and video calls in Telegram for Python
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
@@ -4243,6 +4253,7 @@
 
 ## rust 
 
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
@@ -4715,7 +4726,7 @@
 - [phaticusthiccy/WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) - New Repository for WhatsAsena. Also First UserBot for WhatsApp.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
-- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice and video calls in Telegram for Python
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
