@@ -39,6 +39,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
@@ -309,7 +310,7 @@
 - [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - ✅ No execution ✅ Pyarmor 8.0 - 9.3.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scripts to disassembly and (experimentally) source code.
 - [NaC-L/Mergen](https://github.com/NaC-L/Mergen) - Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
 - [yomaytk/elfconv](https://github.com/yomaytk/elfconv) - AOT binary translator of Linux/ELF → WebAssembly
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Userspace emulator for Windows, Linux & macOS
 - [aftermathlabs/vmp2](https://github.com/aftermathlabs/vmp2) - VMProtect2 Deobfuscation Tooling
 - [mcy/best](https://github.com/mcy/best) - The Best Library: a C++ STL replacement
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -726,7 +727,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) - Create a GitHub profile README nested inside a terminal nested inside a GIF
 - [JeremyLoy/config](https://github.com/JeremyLoy/config) - 12 factor configuration as a typesafe struct in as little as two function calls
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -1075,6 +1076,10 @@
 - [ayyucedemirbas/TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -2020,7 +2025,6 @@
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [lupohan44/TrustUserCertificates](https://github.com/lupohan44/TrustUserCertificates) - 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
