@@ -3254,7 +3254,7 @@
 - [arduano/simdeez](https://github.com/arduano/simdeez) - easy simd
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [danielbarter/mini_compile_commands](https://github.com/danielbarter/mini_compile_commands) - 
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [Battelle/REpsych](https://github.com/Battelle/REpsych) - Psychological warfare in reverse engineering
 - [cognitect/transit-format](https://github.com/cognitect/transit-format) - A data interchange format.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
